@@ -1,0 +1,155 @@
+# /_data/authors.yml
+
+Todd Palmer:
+  name        : "Todd Palmer"
+  bio         : "Center Director, Oregon State University: NSE Dept."
+  avatar      : "/assets/bio/todd_palmer.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:palmerts@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ne.oregonstate.edu/todd-s-palmer"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+
+Kayla Clements:
+  name        : "Kayla Clements"
+  bio         : "Graduate Student, Oregon State Univerity: NSE Dept."
+  avatar      : "/assets/bio/kayla_clements.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:clemekay@oregonstate.edu"
+
+Braxton Cuneo:
+  name        : "Braxton Cuneo"
+  bio         : "Graduate Student, Oregon State Univerity: Computer Science Dept."
+  avatar      : "/assets/bio/braxton_cuneo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cuneob@oregonstate.edu"
+      
+Ryan McClarren:
+  name        : "Ryan McClarren"
+  bio         : "Predictive Science Colead & Deputy Center Director, University of Noter Dame"
+  avatar      : "/assets/bio/ryan_mcclarren.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rmcclarr@nd.edu"
+      
+Camille Palmer:
+  name        : "Camille Palmer"
+  bio         : "Predictive Science Colead, Oregon State Univerity: NSE Dept."
+  avatar      : "/assets/bio/camille_palmer.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:camille_palmer@oregonstate.edu"      
+
+Dmitriy Anistratov:
+  name        : "Dmitriy Anistratov"
+  bio         : "Computational Physics Lead, North Carolina State University: Dept"
+  avatar      : "/assets/bio/dmitriy_anistratov.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:anistratov@ncsu.edu"
+
+Lizhong Chen:
+  name        : "Lizhong Chen"
+  bio         : "Researcher in GPU Hardware/Software Optimization, Oregon State University: Computer Science Dept."
+  avatar      : "/assets/bio/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chenliz@oregonstate.edu"
+
+Mike Bailey:
+  name        : "Mike Bailey"
+  bio         : "Reasearcher in GPU Realated Computer Science, Oregon State University: Computer Science Dept."
+  avatar      : "/assets/bio/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mjb@oregonstate.edu"
+
+Charles Goodman:
+  name        : "Charles Goodman"
+  bio         : "Graduate Student, North Carolina State University: Dept."
+  avatar      : "/assets/bio/charles_goodman.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cegoodma@ncsu.edu"
+
+Vincent Novellino:
+  name        : "Vincent Novellino"
+  bio         : "Graduate Student, North Carolina State University: Dept."
+  avatar      : "/assets/bio/vincent_novellino.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vnnovell@ncsu.edu"
+
+Sam Pasmann:
+  name        : "Sam Pasmann"
+  bio         : "University of Noter Dame"
+  avatar      : "/assets/bio/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:spasmann@nd.edu"
+
+C.T. Kelly:
+  name        : "C.T. Kelly"
+  bio         : "Reasearcher in Hybrid Methods, North Carolina State University: Mathematics Dept."
+  avatar      : "/assets/bio/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ctk@ncsu.edu"
+
+Kyle Niemeyer:
+  name        : "Kyle Niemeyer"
+  bio         : "Exascale Software Engineering lead, Oregon State Universit: MIME Dept."
+  avatar      : "/assets/bio/kyle.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:niemeyek@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://niemeyer-research-group.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kyleniemeyer"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kyleniemeyer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kyleniemeyer"
+
+Jackson Morgan:
+  name        : "Jackson Morgan"
+  bio         : "Graduate Student, Oregon State University: MIME Dept."
+  avatar      : "/assets/bio/jackson_morgan.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:morgjack@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://niemeyer-research-group.github.io/"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jpmorgan98"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jpmorgan98"
+

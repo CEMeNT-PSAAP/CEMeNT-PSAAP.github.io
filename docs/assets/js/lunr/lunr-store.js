@@ -84,7 +84,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/vincent_novellino.jpg"
       },{
         "title": "Welcome",
-        "excerpt":"Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.   Our kickoff meeting was conducted on August 18th 2020 with our sildes avalible here.   ","categories": ["Update"],
+        "excerpt":"Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.   Our kickoff meeting was conducted on August 18th 2020.   ","categories": ["Update"],
         "tags": ["Update","Welcome"],
         "url": "http://localhost:4000/update/welcome/",
         "teaser": null

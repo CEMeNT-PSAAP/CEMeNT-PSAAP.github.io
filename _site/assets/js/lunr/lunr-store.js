@@ -1,10 +1,4 @@
 var store = [{
-        "title": "Aaron Jame Reynolds",
-        "excerpt":"Education     Ph.D. Nuclear Engineering, Oregon State University (2020)   B.S. Electrical Engineering, Montana State University (2015)   At Oregon State since 2020.   Aaron Reynolds’ research interests include:     methods development for reactor analysis   multiphysics coupling using multilevel projective approaches   His efforts at CEMeNT focus on development of a time-dependent hybrid deterministic/Monte Carlo method to be used on modern computing architectures.   Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications. In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.   LinkedIn: https://www.linkedin.com/in/aaron-james-reynolds-23b0b9a1/   GitHub: https://github.com/aaronjamesreynolds   Email: reynolaa@oregonstate.edu  ","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/members/aaron_james_reynolds/",
-        "teaser": "http://localhost:4000/assets/bio/aaron_james_reynolds.jpg"
-      },{
         "title": "Braxton Cuneo",
         "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
         "tags": [],
@@ -12,7 +6,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/braxton_cuneo.jpg"
       },{
         "title": "Camille Palmer",
-        "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
+        "excerpt":"Education     B.S. Radiation Health Physics   M.S. Health Physics   Ph.D. Nuclear and Radiological Engineering   Bio  Dr. Camille Palmer is an associate professor in the School of Nuclear Science and Engineering at Oregon State University. Her professional interests emphasize international nuclear security and nonproliferation, where she enjoys collaborations with OSU’s School of Public Policy and Robotics. Prior to academics, she was a staff member in both the Thermonuclear Applications and Foreign and Improvised Nuclear Design groups at Los Alamos National Lab. She has also supported the nuclear hardness and survivability of the Minuteman III ground and delivery systems as an engineer with Northrop Grumman Corporation.   Research  Dr. Palmer is motivated by problems that impact national security and the international nuclear landscape related to energy and defense. She serves as faculty advisor to the OSU Chapter of the Institute for Nuclear Materials Management (INMM) and on the subcommittee for Arms Control and Treaty Verification within the Nonproliferation and Arms Control Technical Division of INMM.  She also a member of the editorial board for The Journal of Critical Infrastructure Policy.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/camille_palmer/",
         "teaser": "http://localhost:4000/assets/bio/camille_palmer.jpg"
@@ -66,7 +60,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/bio-photo.jpg"
       },{
         "title": "Ryan McClarren",
-        "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
+        "excerpt":"Education     B.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2003   M.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2004   Ph.D., Nuclear Engineering and Radiological Sciences, University of Michigan, 2007   Bio   Research   ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/ryan_mcclarren/",
         "teaser": "http://localhost:4000/assets/bio/ryan_mcclarren.jpg"
@@ -78,7 +72,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/bio-photo.jpg"
       },{
         "title": "Todd Palmer",
-        "excerpt":"Associate Dean for Faculty Advancement (College of Engineering), Professor   Radiation Transport and Reactor Physics Research Group   Education     Ph.D. Nuclear Engineering and Scientific Computing, University of Michigan (1993)   M.S. Nuclear Engineering (1988)   B.S. Nuclear Engineering, Oregon State University (1987)   At Oregon State since 1995.   Todd Palmer’s fields of interest include: numerical techniques for radiation transport and diffusion, reactor physics, general numerical methods, Monte Carlo methods, radiation transport in stochastic mixtures, and computational fluid dynamics.   Prior to Oregon State, Palmer served as a physicist, defense sciences, Lawrence Livermore National Laboratory (1991-1994). While at Oregon State, Palmer has served as a consultant to Lawrence Livermore National Laboratory, Battelle Pacific Northwest National Laboratory, Los Alamos National Laboratory, and Siemens Nuclear Power Corporation.  ","categories": [],
+        "excerpt":"Professor   Lead PI, Radiation Transport and Reactor Physics Research Group   Education     Ph.D. Nuclear Engineering and Scientific Computing, University of Michigan   M.S. Nuclear Engineering   B.S. Nuclear Engineering, Oregon State University   At Oregon State since 1995.   Todd Palmer’s fields of interest include: numerical techniques for radiation transport and diffusion, reactor physics, general numerical methods, Monte Carlo methods, radiation transport in stochastic mixtures, and computational fluid dynamics.   Prior to Oregon State, Palmer served as a Physicist in Defense Sciences at Lawrence Livermore National Laboratory (1991-1994). While at Oregon State, Palmer has served as a consultant to Lawrence Livermore National Laboratory, Battelle Pacific Northwest National Laboratory, Los Alamos National Laboratory, and Siemens Nuclear Power Corporation.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/todd_palmer/",
         "teaser": "http://localhost:4000/assets/bio/todd_palmer.jpg"

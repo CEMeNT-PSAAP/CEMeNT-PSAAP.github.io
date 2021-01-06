@@ -1,6 +1,6 @@
 ---
 title: "Ryan McClarren"
-excerpt: "Predictive Science Colead & Deputy Center Director, University of Noter Dame"
+excerpt: "Predictive Science Colead & Deputy Center Director, University of Notre Dame"
 classes: wide
 
 header:

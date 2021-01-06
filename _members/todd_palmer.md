@@ -10,6 +10,7 @@ author: Todd Palmer
 
 ---
 Professor 
+
 Lead PI, Radiation Transport and Reactor Physics Research Group
 
 # Education

@@ -1,5 +1,5 @@
 ---
-title: "Aaron Jame Reynolds"
+title: "Aaron James Reynolds"
 excerpt: "Postdoctoral Scholar, Oregon State University"
 classes: wide
 

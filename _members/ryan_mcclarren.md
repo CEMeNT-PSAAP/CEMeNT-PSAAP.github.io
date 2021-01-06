@@ -10,9 +10,9 @@ author: Ryan McClarren
 
 ---
 ## Education
-* B.S.
-* M.S.
-* Ph.D.
+* B.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2003
+* M.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2004
+* Ph.D., Nuclear Engineering and Radiological Sciences, University of Michigan, 2007
 
 ## Bio
 

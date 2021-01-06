@@ -24,6 +24,21 @@ Kayla Clements:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:clemekay@oregonstate.edu"
 
+Aaron James Reynolds:
+  name        : "Aaron James Reynolds"
+  bio         : "Postdoctoral Scholar, Oregon State University"
+  avatar      : "/assets/bio/aaron_james_reynolds.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:reynolaa@oregonstate.edu"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aaron-james-reynolds-23b0b9a1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aaronjamesreynolds"
+
 Braxton Cuneo:
   name        : "Braxton Cuneo"
   bio         : "Graduate Student, Oregon State Univerity: Computer Science Dept."
@@ -49,7 +64,7 @@ Camille Palmer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:camille.palmer@oregonstate.edu"      
+      url: "mailto:camille_palmer@oregonstate.edu"      
 
 Dmitriy Anistratov:
   name        : "Dmitriy Anistratov"

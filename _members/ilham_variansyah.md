@@ -4,7 +4,7 @@ excerpt: "Postdoctoral Scholar, University of Notre Dame"
 classes: wide
 
 header:
-    teaser: assets/bio/ilham.variansyah.jpg
+    teaser: assets/bio/ilham_variansyah.jpg
 
 author: Ilham Variansyah
 
@@ -19,4 +19,4 @@ author: Ilham Variansyah
 
 ## Research
 
-## Links
+List Links below

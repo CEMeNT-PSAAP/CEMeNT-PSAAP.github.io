@@ -56,6 +56,15 @@ Ryan McClarren:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rmcclarr@nd.edu"
+
+Ilham Variansyah:
+  name        : "Ilham Variansyah"
+  bio         : "Postdoctoral Scholar, University of Noter Dame"
+  avatar      : "/assets/bio/ilham_variansyah.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:clemekay@oregonstate.edu"
       
 Camille Palmer:
   name        : "Camille Palmer"

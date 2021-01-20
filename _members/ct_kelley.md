@@ -4,13 +4,13 @@ excerpt: "Reasearcher in Hybrid Methods, North Carolina State University"
 classes: wide
 
 header:
-    teaser: assets/bio/bio-photo.jpg
+    teaser: assets/bio/ct_kelley.jpg
 
-author: C.T. Kelly
+author: C.T. Kelley
 
 ---
 ## Education
-* B.S.Vanberbilt University, Mathematicxs, 1973
+* B.S.Vanberbilt University, Mathematics, 1973
 * M.S.
 * Ph.D. Purdue University, Applied Mathematics, 1976
 

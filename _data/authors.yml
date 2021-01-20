@@ -123,7 +123,7 @@ Vincent Novellino:
 Sam Pasmann:
   name        : "Sam Pasmann"
   bio         : "University of Noter Dame"
-  avatar      : "/assets/bio/bio-photo.jpg"
+  avatar      : "/assets/bio/sam_pasmann.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

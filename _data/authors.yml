@@ -129,10 +129,10 @@ Sam Pasmann:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:spasmann@nd.edu"
 
-C.T. Kelly:
-  name        : "C.T. Kelly"
+C.T. Kelley:
+  name        : "C.T. Kelley"
   bio         : "Reasearcher in Hybrid Methods, North Carolina State University: Mathematics Dept."
-  avatar      : "/assets/bio/bio-photo.jpg"
+  avatar      : "/assets/bio/ct_kelley.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

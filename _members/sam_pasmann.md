@@ -1,21 +1,15 @@
 ---
 title: "Sam Pasmann"
-excerpt: "University of Notre Dame"
+excerpt: "University of Noter Dame"
 classes: wide
 
 header:
-    teaser: assets/bio/bio-photo.jpg
+    teaser: assets/bio/sam_pasmann.jpg
 
 author: Sam Pasmann
 
 ---
 ## Education
-* B.S.
-* M.S.
-* Ph.D.
-
-## Bio
-
-
-## Research
+* B.S. Mechanical Engineering, University of Portland
+* M.S. Engineering and Entrepreneurship, University of Notre Dame
 

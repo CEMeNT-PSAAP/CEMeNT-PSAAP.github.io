@@ -11,4 +11,5 @@ author: Jackson Morgan
 ---
 ## Education
 * BS, Mechanical Engineering, Oregon Institute of Technology, 2020
+* PhD, Mechanical Engineering, Oregon State University, 2025
 

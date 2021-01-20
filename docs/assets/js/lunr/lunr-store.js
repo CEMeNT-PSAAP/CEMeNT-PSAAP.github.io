@@ -1,6 +1,6 @@
 var store = [{
         "title": "Aaron James Reynolds",
-        "excerpt":"Education     Ph.D. Nuclear Engineering, Oregon State University (2020)   B.S. Electrical Engineering, Montana State University (2015)   At Oregon State since 2020.   Aaron Reynolds’ research interests include:     methods development for reactor analysis   multiphysics coupling using multilevel projective approaches   His efforts at CEMeNT focus on development of a time-dependent hybrid deterministic/Monte Carlo method to be used on modern computing architectures.   Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications. In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.   LinkedIn: https://www.linkedin.com/in/aaron-james-reynolds-23b0b9a1/   GitHub: https://github.com/aaronjamesreynolds   Email: reynolaa@oregonstate.edu  ","categories": [],
+        "excerpt":"Education     Ph.D. Nuclear Engineering, Oregon State University (2020)   B.S. Electrical Engineering, Montana State University (2015)   At Oregon State since 2020.   Aaron Reynolds’ research interests include:     methods development for reactor analysis   multiphysics coupling using multilevel projective approaches   His efforts at CEMeNT focus on development of a time-dependent hybrid deterministic/Monte Carlo method to be used on modern computing architectures.   Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications. In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/aaron_james_reynolds/",
         "teaser": "http://localhost:4000/assets/bio/aaron_james_reynolds.jpg"
@@ -23,17 +23,23 @@ var store = [{
         "url": "http://localhost:4000/members/charles_goodman/",
         "teaser": "http://localhost:4000/assets/bio/charles_goodman.jpg"
       },{
-        "title": "C.T. Kelly",
-        "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
+        "title": "C.T. Kelley Drexel Professor of Mathematics",
+        "excerpt":"Education     B.S.Vanberbilt University, Mathematics, 1973   M.S.   Ph.D. Purdue University, Applied Mathematics, 1976   Bio  At North Carolina State University since 1978.   Prior to arriving at NCSU, Kelley was an assistant scientist (aka postdoc) at the US Army Mathematics Research Center in Madison WI.   Kelley is a fellow of the Society for Industrial and Applied Mathematics (SIAM) and the American Assocaiation for the Advancement of Science (AAAS).   Research   Kelley’s research interests are in linear/nonlinear equations, radiative transfer problems, multilevel methods for integral equations, optimal control, optimization of noisy functions, flow in porous media, and computational quantum chemistry and physics.  ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/members/ct_kelly/",
-        "teaser": "http://localhost:4000/assets/bio/bio-photo.jpg"
+        "url": "http://localhost:4000/members/ct_kelley/",
+        "teaser": "http://localhost:4000/assets/bio/ct_kelley.jpg"
       },{
         "title": "Dmitriy Anistratov",
         "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/dmitriy_anistratov/",
         "teaser": "http://localhost:4000/assets/bio/dmitriy_anistratov.jpg"
+      },{
+        "title": "Ilham Variansyah",
+        "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   List Links below  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/ilham_variansyah/",
+        "teaser": "http://localhost:4000/assets/bio/bio-photo.jpg"
       },{
         "title": "Jackson Morgan",
         "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   ","categories": [],
@@ -90,7 +96,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/vincent_novellino.jpg"
       },{
         "title": "Welcome",
-        "excerpt":"Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.   Our kickoff meeting was conducted on August 18th 2020.   ","categories": ["Update"],
+        "excerpt":"Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.   Our kickoff meeting was conducted on August 18th 2020 with our sildes avalible here.   ","categories": ["Update"],
         "tags": ["Update","Welcome"],
         "url": "http://localhost:4000/update/welcome/",
         "teaser": null

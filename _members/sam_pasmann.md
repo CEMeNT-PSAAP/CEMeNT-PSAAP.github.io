@@ -1,6 +1,6 @@
 ---
 title: "Sam Pasmann"
-excerpt: "University of Noter Dame"
+excerpt: "University of Notre Dame"
 classes: wide
 
 header:

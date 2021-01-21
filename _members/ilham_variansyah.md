@@ -5,18 +5,11 @@ classes: wide
 
 header:
     teaser: assets/bio/ilham_variansyah.jpg
-
+    
 author: Ilham Variansyah
 
 ---
 ## Education
-* B.S.
-* M.S.
-* Ph.D.
-
-## Bio
-
-
-## Research
-
-List Links below
+* B.S.E., Nuclear Engineering, Universitas Gadjah Mada, 2014
+* M.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2017
+* Ph.D., Nuclear Engineering and Radiological Sciences, University of Michigan, 2020

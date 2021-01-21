@@ -104,7 +104,7 @@ Mike Bailey:
 
 Charles Goodman:
   name        : "Charles Goodman"
-  bio         : "Graduate Student, North Carolina State University: Dept."
+  bio         : "Graduate Student, North Carolina State University"
   avatar      : "/assets/bio/charles_goodman.jpg"
   links:
     - label: "Email"
@@ -113,7 +113,7 @@ Charles Goodman:
 
 Vincent Novellino:
   name        : "Vincent Novellino"
-  bio         : "Graduate Student, North Carolina State University: Dept."
+  bio         : "Graduate Student, North Carolina State University"
   avatar      : "/assets/bio/vincent_novellino.jpg"
   links:
     - label: "Email"
@@ -122,7 +122,7 @@ Vincent Novellino:
 
 Sam Pasmann:
   name        : "Sam Pasmann"
-  bio         : "University of Noter Dame"
+  bio         : "University of Notre Dame"
   avatar      : "/assets/bio/sam_pasmann.jpg"
   links:
     - label: "Email"

@@ -87,7 +87,7 @@ Dmitriy Anistratov:
 Lizhong Chen:
   name        : "Lizhong Chen"
   bio         : "Researcher in GPU Hardware/Software Optimization, Oregon State University: Computer Science Dept."
-  avatar      : "/assets/bio/bio-photo.jpg"
+  avatar      : "/assets/bio/lizhong_chen.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -96,7 +96,7 @@ Lizhong Chen:
 Mike Bailey:
   name        : "Mike Bailey"
   bio         : "Reasearcher in GPU Realated Computer Science, Oregon State University: Computer Science Dept."
-  avatar      : "/assets/bio/bio-photo.jpg"
+  avatar      : "/assets/bio/mike_bailey.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

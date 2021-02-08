@@ -18,4 +18,6 @@ The project has three main thrusts in the areas of:
 We are lead by Dr. Todd Palmer (Oregon State Univeristy) with researchers in nuclear engineering, computer science, software engineering, computational physics, and mathematics who are supported by seven graduate students and two Postdocs.
 {% include figure image_path="/assets/images/org_chart.png" alt="Org Chart" caption="Center organization chart" %}
 
+This work was supported by the Center for Exascale Monte-Carlo Neutron Transport (CEMeNT) a PSAAP-III project funded by the Department of Energy, grant number: DE-NA003967.
+
 Please click the link below to see the full funding propsal.

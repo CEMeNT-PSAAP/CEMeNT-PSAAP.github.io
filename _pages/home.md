@@ -25,6 +25,8 @@ gallery:
 {% include figure image_path="/assets/images/cement-logo-1.png" %}
 
 
-Welcome to the CEMeNT website. Here you can find information and updates pertaining to the project and contact information for its members. The project is afiliated with the following orginizations
+Welcome to the CEMeNT website. Here you can find information and updates pertaining to the project and contact information for its members. The project is afiliated with the following orginizations.
 
 {% include gallery %}
+
+This work was supported by the Center for Exascale Monte-Carlo Neutron Transport (CEMeNT) a PSAAP-III project funded by the Department of Energy, grant number: DE-NA003967.

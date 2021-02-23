@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "CEMeNT"
 #  avatar           : "/assets/cement-logo.png"
-  bio              : "This work was supported by the Center for Exascale Monte-Carlo Neutron Transport (CEMeNT) a PSAAP-III project funded by the Department of Energy, grant number: DE-NA003967."
+  bio              : "A PSAAP-III project funded by the US DOE"
   location         : "United States"
 #  links:
 #    - label: "Your Website"

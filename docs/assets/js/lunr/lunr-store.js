@@ -42,7 +42,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/ilham_variansyah.jpg"
       },{
         "title": "Jackson Morgan",
-        "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   PhD, Mechanical Engineering, Oregon State University, 2025   Research  Jackson works on implementing time dependent monte carlo neutron transport simulations on exascale systems using Python code generating libraries   Bio  Jackson is currently a graduate student at Oregon State University where he will get his PhD in Mechanical Engineering.   He graduated Magna cum laude from the Oregon Institute of Technology, where he earned my B.S. in Mechanical Engineering with two minors in Applied Physics and in Applied Mathematics.   While in undergraduate studies Jackson participated in two research internships with the US Dept. of Energy at the Thomas Jefferson National Accelerator facility and at Argonne National Lab where he did modeling, analysis, and optimization of magnet systems for use in particle accelerators. Inclunding optimization on super conducting quadrapole magnet optimization on the JLEIC project which is now the Electron Ion Collider. I have also taken course work at the United States Particle Accelerator school in the physics of high energy particle accelerators.   In his free time he likes plying with his dog and baking.  ","categories": [],
+        "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   PhD, Mechanical Engineering, Oregon State University, 2025   ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/jackson_morgan/",
         "teaser": "http://localhost:4000/assets/bio/jackson_morgan.jpg"
@@ -99,5 +99,11 @@ var store = [{
         "excerpt":"Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.   Our kickoff meeting was conducted on August 18th 2020 with our sildes avalible here.   ","categories": ["Update"],
         "tags": ["Update","Welcome"],
         "url": "http://localhost:4000/update/welcome/",
+        "teaser": null
+      },{
+        "title": "CEMeNT is Included in NNSA's *2021 Academic Programs Annual* Report",
+        "excerpt":"We have been included in NNSA’s Annual Academic Programs report. The article explains the importance of the CEMeNT FIC to the NNSA Laboratories through the development of dynamic Monte Carlo neutron transport simulations. As well as the implementation of those methods on the exascale using GPU and CPU based supercomputers.   We are honored to be listed among all those centers, institutions, and projects on the cutting edge, pushing into the wild blue yonder. Specifically with our fellow PSAPP-III centers we are exhilarated to be exploring the brave new world of exascale super computing.   Click the below image for a high resolution PDF                                                  Read the full publication here!  ","categories": ["Articles"],
+        "tags": ["NNSA","Article"],
+        "url": "http://localhost:4000/articles/nnsa-doc/",
         "teaser": null
       }]

@@ -6,6 +6,8 @@ main:
     url: /year-archive/
   - title: "Members"
     url: /members/
+  - title: "Theory"
+    url: /theory/
   - title: "Sitemap"
     url: /sitemap/
 

@@ -30,7 +30,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/ct_kelley.jpg"
       },{
         "title": "Dmitriy Anistratov",
-        "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
+        "excerpt":"Education     M.S.,Physics, Moscow Institute of Physics and Technology   Ph.D., Mathematical and Physical Sciences, Institute of Mathematical Modeling (now Keldysh Institute of Applied Mathematics), Russian Academy of Sciences   Bio  Prior to joining NC State University in 2000, D. Anistratov was an R&amp;D staff member at Keldysh Institute for Applied Mathematics, USSR Academy of Sciences and Institute for Mathematical Modeling of Russian Academy of Sciences, Visiting Assistant Professor at  Department of Nuclear Engineering at Texas A&amp;M University. D. Anistratov has been a consultant and guest scientist to the computational transport group (CCS-2) at Los Alamos National Laboratory. **   Research  D. Anistratov works in the field of computational physics, numerical analysis, particle transport theory. His research includes development of numerical methods for solving the Boltzmann equation, computational methods for problems of neutron transport and thermal radiative transfer, iteration methods, multiscale methods for multiphysics problems, discretization schemes for partial differential equations, asymptotic analysis, methods for reduction of dimensionality, homogenization methods for reactor-physics applications etc.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/dmitriy_anistratov/",
         "teaser": "http://localhost:4000/assets/bio/dmitriy_anistratov.jpg"
@@ -48,7 +48,7 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/jackson_morgan.jpg"
       },{
         "title": "Kayla Clements",
-        "excerpt":"Education     BS, FSU   ","categories": [],
+        "excerpt":"Education     B.S. Nuclear Engineering, University of Florida (2019)   Ph.D. Nuclear Engineering, Oregon State University (in progress)   Bio  Kayla Clements is a first year graduate student and research assistant at Oregon State University under Dr. Todd Palmer. Prior to starting at Oregon State, Kayla worked as a reactor physics intern at Idaho National Laboratory developing MCNP models for the Transient Reactor Test Facility, and as a national nuclear data center intern at Brookhaven National Laboratory automating data generation using EMPIRE.   Research  She is working under Dr. Todd Palmer to continue research conducted by Dr. Ryan McClarren using dynamic mode decomposition to calculate time-eigenvalues of the neutron transport equation.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/kayla_clements/",
         "teaser": "http://localhost:4000/assets/bio/kayla_clements.jpg"
@@ -105,5 +105,17 @@ var store = [{
         "excerpt":"We have been included in NNSA’s Annual Academic Programs report. The article explains the importance of the CEMeNT FIC to the NNSA Laboratories through the development of dynamic Monte Carlo neutron transport simulations. As well as the implementation of those methods on the exascale using GPU and CPU based supercomputers.   We are honored to be listed among all those centers, institutions, and projects on the cutting edge, pushing into the wild blue yonder. Specifically with our fellow PSAPP-III centers we are exhilarated to be exploring the brave new world of exascale super computing.   Click the below image for a high resolution PDF                                                  Read the full publication here!  ","categories": ["Articles"],
         "tags": ["NNSA","Article"],
         "url": "http://localhost:4000/articles/nnsa-doc/",
+        "teaser": null
+      },{
+        "title": "ANS Roundtable Talks ",
+        "excerpt":"Persenations that were given at the ANS roundtable in June of 2021      Accelerating Transport Codes on Newer Architectures   PARTISN: Enabling a 20th Century FORTRAN Transport Code to Meet 21st Century Challenges   More Than a Port: Challenges in GPU-Based Monte Carlo and Method of Characteristics Particle Transport   Cognitive Simulations for Inertial Confinement Fusion   Optimal Operations of Advanced Reactors  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/theory/ans_roundtable_6-21/",
+        "teaser": null
+      },{
+        "title": "Pulsed Sphere Experiment",
+        "excerpt":"Produced programs will be compared against the pulsed sphere experiment. For more information and theory regarding that see the following list of documents:      Improving the LLNL Pulsed Sphere Experiments Database and MCNP Models   Neutron and Gamma-Ray Spectra from a Variety of Materials Bombarded with 14-MeV Neutrons   Evaluation of Pulsed Sphere Time-of-Flight and Neutron Attenuation Experimental Benchmarks Using MCNP6’s Unstructured Mesh Capabilities   New Monte Carlo Simulations of the LLNL Pulsed-Sphere Experiments   Modern Calculations of Pulsed-Sphere Time-of-Flight Experiments Using the Mercury Monte Carlo Transport Code   Livermore Pulsed Sphere Program: Program Summary Through July 1971  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/theory/pulsed_sphere_experiment/",
         "teaser": null
       }]

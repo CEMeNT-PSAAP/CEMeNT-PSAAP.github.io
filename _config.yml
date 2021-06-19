@@ -239,6 +239,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  theory:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,9 +265,18 @@ defaults:
       author_profile: true
   # _members
   - scope:
-      path: ""
+      path: "_members"
       type: members
     values:
       layout: single
       author_profile: true
       share: true
+  # _theory
+  - scope:
+      path: "_theory"
+      type: theory
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      

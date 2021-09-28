@@ -5,6 +5,18 @@ var store = [{
         "url": "http://localhost:4000/members/aaron_james_reynolds/",
         "teaser": "http://localhost:4000/assets/bio/aaron_james_reynolds.jpg"
       },{
+        "title": "Alexander Mote",
+        "excerpt":"Education     BS, Electrical &amp; Computer Engineering, Oregon State University, 2022   MS, Artificial Intelligence, Oregon State University, 2023   PhD, Artificial Intelligence, Oregon State University, 2025   Bio  Alexander is a graduate research assistant at Oregon State University’s department of Electrical Engineering and Computer Science. He is working towards his MS and PhD in Artificial Intelligence. He is conducting research under Dr. Lizhong Chen exploring the use of machine learning to optimize hardware allocation in exascale computing systems. Alexander has minors in Physics and Computer Science, and previously worked on undergraduate research in the improvement of hardware design and memory accessibility in high-performance computing systems through the OSGC STARR program. His interests include computational physics, high-performance computing design, and power optimization in computing systems.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/alexander_mote/",
+        "teaser": "http://localhost:4000/assets/bio/alexander_mote.jpg"
+      },{
+        "title": "Ben Whewell",
+        "excerpt":"Education     B.S. Nuclear Energy Engineering - Thomas Edison State University   Ph.D. Mechanical Engineering (Pending) - University of Notre Dame  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/ben_whewell/",
+        "teaser": "http://localhost:4000/assets/bio/ben_whewell.jpg"
+      },{
         "title": "Braxton Cuneo",
         "excerpt":"Education     B.S.   M.S.   Ph.D.   Bio   Research   ","categories": [],
         "tags": [],
@@ -42,10 +54,16 @@ var store = [{
         "teaser": "http://localhost:4000/assets/bio/ilham_variansyah.jpg"
       },{
         "title": "Jackson Morgan",
-        "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   PhD, Mechanical Engineering, Oregon State University, 2025   ","categories": [],
+        "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   PhD, Mechanical Engineering, Oregon State University, 2025   Previous Internships     Los Alamos National Lab, 2021: Novel variance reduction methods for MC TRT   Argonne National Lab, 2019: x-y scanner magnet analysis for cancer radiotherapy particle accelerator   Thomas Jefferson National Accelerator Facility, 2018: Super-conducting quadrupole magnet analysis and optimization   Bio  At CEMeNT Jackson works on research to enable Python to run at Exascale using hardware code generating libraries. He is Kyle Niemeyer’s graduate research assistant and also manages this website.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/jackson_morgan/",
         "teaser": "http://localhost:4000/assets/bio/jackson_morgan.jpg"
+      },{
+        "title": "Jordan Northrop",
+        "excerpt":"Education     B.S., Nuclear Engineering, Oregon State University (In progress)   Bio  Jordan Northrop is an undergraduate nuclear engineering student at Oregon State University.  Previous work includes an internship with the Westinghouse Fellows Program at Penn State using fission matrix methods to model TRIGA reactor pulses.   Currently working with Dr. Camille Palmer and Dr. Todd Palmer to use the pulsed sphere benchmark problems to validate Monte Carlo codes.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/jordan_northrop/",
+        "teaser": "http://localhost:4000/assets/bio/jordan_northrop.jpg"
       },{
         "title": "Kayla Clements",
         "excerpt":"Education     B.S. Nuclear Engineering, University of Florida (2019)   Ph.D. Nuclear Engineering, Oregon State University (in progress)   Bio  Kayla Clements is a first year graduate student and research assistant at Oregon State University under Dr. Todd Palmer. Prior to starting at Oregon State, Kayla worked as a reactor physics intern at Idaho National Laboratory developing MCNP models for the Transient Reactor Test Facility, and as a national nuclear data center intern at Brookhaven National Laboratory automating data generation using EMPIRE.   Research  She is working under Dr. Todd Palmer to continue research conducted by Dr. Ryan McClarren using dynamic mode decomposition to calculate time-eigenvalues of the neutron transport equation.  ","categories": [],
@@ -105,6 +123,12 @@ var store = [{
         "excerpt":"We have been included in NNSA’s Annual Academic Programs report. The article explains the importance of the CEMeNT FIC to the NNSA Laboratories through the development of dynamic Monte Carlo neutron transport simulations. As well as the implementation of those methods on the exascale using GPU and CPU based supercomputers.   We are honored to be listed among all those centers, institutions, and projects on the cutting edge, pushing into the wild blue yonder. Specifically with our fellow PSAPP-III centers we are exhilarated to be exploring the brave new world of exascale super computing.   Click the below image for a high resolution PDF                                                  Read the full publication here!  ","categories": ["Articles"],
         "tags": ["NNSA","Article"],
         "url": "http://localhost:4000/articles/nnsa-doc/",
+        "teaser": null
+      },{
+        "title": "CEMeNT Graduate Students Finish Internships at NNSA Trilabs",
+        "excerpt":"All six of our center’s current graduate students completed summer internships within the trilabs, working on cutting edge research to fulfill the mission of the NNSA. Their dispersion around the trilabs demonstrates the tight knit relationship our center is building with them. Please see the list below for areas of research for our successful interns.   We would like to directly thank all the mentors who helped!      Vincent Novellino (Lawrence Livermore National Lab)   Investigated the accuracy of approximate models for 3D Stochastic medium thermal radiative transfer problems using IMC codes. Mentor: Patrick Brantley   Charles Goodman (Los Alamos National Lab)   Applied LLNL pulsed sphere verification suite benchmark problems to test a new time dependent hybrid variance reduction tool. Mentor: Stephen Wilson   Kayla Clements (Sandia National Lab)   Developed uncertainty quantification methods for Monte Carlo radiation transport solvers and performed numerical experiments to compare with existing methods. Mentors: Aaron Olson and Gianluca Geraci   Braxton Cuneo (Lawrence Livermore National Lab)   Refactored the Mercury/Imp codebase to allow for neutrons to be represented in a struct-of-array data layout. Mentor: Matt O’Brien   Sam Passman (Lawrence Livermore National Lab)   Tested a moment matching method for variance reduction in Monte Carlo simulations. Mentor Nick Gentile   Jackson Morgan (Los Alamos National Lab)   Novel variance reduction technique in the energy spectra for Monte Carlo thermal radiative transport. Mentors: Alex Long, Kendra Long, and Siamon Bolding   ","categories": ["Articles"],
+        "tags": ["NNSA","Article","Graduate Students"],
+        "url": "http://localhost:4000/articles/intern-complete/",
         "teaser": null
       },{
         "title": "ANS Roundtable Talks ",

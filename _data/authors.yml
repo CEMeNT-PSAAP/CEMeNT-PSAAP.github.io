@@ -17,7 +17,7 @@ Todd Palmer:
 
 Kayla Clements:
   name        : "Kayla Clements"
-  bio         : "Graduate Student, Oregon State Univerity: NSE Dept."
+  bio         : "Graduate Student, Oregon State University: NSE Dept."
   avatar      : "/assets/bio/kayla_clements.jpg"
   links:
     - label: "Email"
@@ -41,16 +41,43 @@ Aaron James Reynolds:
 
 Braxton Cuneo:
   name        : "Braxton Cuneo"
-  bio         : "Graduate Student, Oregon State Univerity: Computer Science Dept."
+  bio         : "Graduate Student, Oregon State University: Computer Science Dept."
   avatar      : "/assets/bio/braxton_cuneo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cuneob@oregonstate.edu"
       
+Alexander Mote:
+  name        : "Alexander Mote"
+  bio         : "Graduate Student, Oregon State University: Computer Science Dept."
+  avatar      : "/assets/bio/alexander_mote.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:motea@oregonstate.edu"
+      
+Jordan Northrop:
+  name        : "Jordan Northrop"
+  bio         : "Undergraduate Student, Oregon State University: NSE Dept."
+  avatar      : "/assets/bio/jordan_northrop.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:northj@oregonstate.edu"
+      
+Ben Whewell:
+  name        : "Ben Whewell"
+  bio         : "Graduate Student, University of Notre Dame"
+  avatar      : "/assets/bio/ben_whewell.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bwhewell@nd.edu"
+      
 Ryan McClarren:
   name        : "Ryan McClarren"
-  bio         : "Predictive Science Colead & Deputy Center Director, University of Noter Dame"
+  bio         : "Predictive Science Colead & Deputy Center Director, University of Notre Dame"
   avatar      : "/assets/bio/ryan_mcclarren.jpg"
   links:
     - label: "Email"
@@ -59,7 +86,7 @@ Ryan McClarren:
 
 Ilham Variansyah:
   name        : "Ilham Variansyah"
-  bio         : "Postdoctoral Scholar, University of Noter Dame"
+  bio         : "Postdoctoral Scholar, University of Notre Dame"
   avatar      : "/assets/bio/ilham_variansyah.jpg"
   links:
     - label: "Email"
@@ -68,7 +95,7 @@ Ilham Variansyah:
       
 Camille Palmer:
   name        : "Camille Palmer"
-  bio         : "Predictive Science Colead, Oregon State Univerity: NSE Dept."
+  bio         : "Predictive Science Colead, Oregon State University: NSE Dept."
   avatar      : "/assets/bio/camille_palmer.jpg"
   links:
     - label: "Email"
@@ -140,7 +167,7 @@ C.T. Kelley:
 
 Kyle Niemeyer:
   name        : "Kyle Niemeyer"
-  bio         : "Exascale Software Engineering lead, Oregon State Universit: MIME Dept."
+  bio         : "Exascale Software Engineering lead, Oregon State University: MIME Dept."
   avatar      : "/assets/bio/kyle.jpg"
   links:
     - label: "Email"
@@ -167,13 +194,5 @@ Jackson Morgan:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:morgjack@oregonstate.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://niemeyer-research-group.github.io/"
-    - label: "Linked In"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jpmorgan98"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpmorgan98"
+
 

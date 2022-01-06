@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-28T13:03:32-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CEMeNT</title><subtitle>CEMeNT is a PSAAP-III Focused Investigatory Center led by Oregon State University, with partner institutions University of Notre Dame and North Carolina State University.</subtitle><author><name>CEMeNT</name></author><entry><title type="html">CEMeNT Graduate Students Finish Internships at NNSA Trilabs</title><link href="http://localhost:4000/articles/intern-complete/" rel="alternate" type="text/html" title="CEMeNT Graduate Students Finish Internships at NNSA Trilabs" /><published>2021-09-15T00:00:00-07:00</published><updated>2021-09-15T00:00:00-07:00</updated><id>http://localhost:4000/articles/intern-complete</id><content type="html" xml:base="http://localhost:4000/articles/intern-complete/">&lt;p&gt;All six of our center’s current graduate students completed summer internships within the trilabs, working on cutting edge research to fulfill the mission of the NNSA. Their dispersion around the trilabs demonstrates the tight knit relationship our center is building with them. Please see the list below for areas of research for our successful interns.&lt;/p&gt;
+
+&lt;p&gt;We would like to directly thank all the mentors who helped!&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Vincent Novellino (Lawrence Livermore National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Investigated the accuracy of approximate models for 3D Stochastic medium thermal radiative transfer problems using IMC codes. Mentor: Patrick Brantley&lt;/dd&gt;
+  &lt;dt&gt;Charles Goodman (Los Alamos National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Applied LLNL pulsed sphere verification suite benchmark problems to test a new time dependent hybrid variance reduction tool. Mentor: Stephen Wilson&lt;/dd&gt;
+  &lt;dt&gt;Kayla Clements (Sandia National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Developed uncertainty quantification methods for Monte Carlo radiation transport solvers and performed numerical experiments to compare with existing methods. Mentors: Aaron Olson and Gianluca Geraci&lt;/dd&gt;
+  &lt;dt&gt;Braxton Cuneo (Lawrence Livermore National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Refactored the Mercury/Imp codebase to allow for neutrons to be represented in a struct-of-array data layout. Mentor: Matt O’Brien&lt;/dd&gt;
+  &lt;dt&gt;Sam Passman (Lawrence Livermore National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Tested a moment matching method for variance reduction in Monte Carlo simulations. Mentor Nick Gentile&lt;/dd&gt;
+  &lt;dt&gt;Jackson Morgan (Los Alamos National Lab)&lt;/dt&gt;
+  &lt;dd&gt;Novel variance reduction technique in the energy spectra for Monte Carlo thermal radiative transport. Mentors: Alex Long, Kendra Long, and Siamon Bolding&lt;/dd&gt;
+&lt;/dl&gt;</content><author><name>Jackson Morgan</name></author><category term="Articles" /><category term="NNSA" /><category term="Article" /><category term="Graduate Students" /><summary type="html">All six of our center’s current graduate students completed summer internships within the trilabs, working on cutting edge research to fulfill the mission of the NNSA. Their dispersion around the trilabs demonstrates the tight knit relationship our center is building with them. Please see the list below for areas of research for our successful interns.</summary></entry><entry><title type="html">CEMeNT is Included in NNSA’s *2021 Academic Programs Annual* Report</title><link href="http://localhost:4000/articles/nnsa-doc/" rel="alternate" type="text/html" title="CEMeNT is Included in NNSA’s *2021 Academic Programs Annual* Report" /><published>2021-02-23T00:00:00-08:00</published><updated>2021-02-23T00:00:00-08:00</updated><id>http://localhost:4000/articles/nnsa-doc</id><content type="html" xml:base="http://localhost:4000/articles/nnsa-doc/">&lt;p&gt;We have been included in NNSA’s Annual Academic Programs report. The article explains the importance of the CEMeNT FIC to the NNSA Laboratories through the development of dynamic Monte Carlo neutron transport simulations. As well as the implementation of those methods on the exascale using GPU and CPU based supercomputers.&lt;/p&gt;
+
+&lt;p&gt;We are honored to be listed among all those centers, institutions, and projects on the cutting edge, pushing into the wild blue yonder. Specifically with our fellow PSAPP-III centers we are exhilarated to be exploring the brave new world of exascale super computing.&lt;/p&gt;
+
+&lt;p&gt;Click the below image for a high resolution PDF&lt;/p&gt;
+
+&lt;figure class=&quot; &quot;&gt;
+  
+    
+      &lt;a href=&quot;/assets/Documents/NNSA_article.pdf&quot;&gt;
+          &lt;img src=&quot;/assets/images/nnsa_art_peak.png&quot; alt=&quot;NNSA CEMeNT ARTICLE TEASER&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/1893b7422d9849d587ccf07b1c3cb66c/1db7316fe9bd442a8d017ca566f47c56.pdf&quot;&gt;Read the full publication here!&lt;/a&gt;&lt;/p&gt;</content><author><name>CEMeNT</name></author><category term="Articles" /><category term="NNSA" /><category term="Article" /><summary type="html">We have been included in NNSA’s Annual Academic Programs report. The article explains the importance of the CEMeNT FIC to the NNSA Laboratories through the development of dynamic Monte Carlo neutron transport simulations. As well as the implementation of those methods on the exascale using GPU and CPU based supercomputers.</summary></entry><entry><title type="html">Welcome</title><link href="http://localhost:4000/update/welcome/" rel="alternate" type="text/html" title="Welcome" /><published>2020-11-16T00:00:00-08:00</published><updated>2020-11-16T00:00:00-08:00</updated><id>http://localhost:4000/update/welcome</id><content type="html" xml:base="http://localhost:4000/update/welcome/">&lt;p&gt;Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.&lt;/p&gt;
+
+&lt;p&gt;Our kickoff meeting was conducted on August 18th 2020 with our sildes avalible &lt;a href=&quot;/cement/assets/Documents/CEMeNT_Kickoff_Meeting.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>CEMeNT</name></author><category term="Update" /><category term="Update" /><category term="Welcome" /><summary type="html">Welcome to the CEMeNT website where we will be posting updates about the project over the next few years.</summary></entry></feed>

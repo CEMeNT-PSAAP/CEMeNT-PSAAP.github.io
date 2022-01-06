@@ -10,12 +10,13 @@ author: Charles Goodman
 
 ---
 ## Education
-* B.S.
-* M.S.
-* Ph.D.
+* B.S., Nuclear Engineering, North Carolina State University, Spring 2020
+* M.S., Nuclear Engineering, North Carolina State University, in progress
+* Ph.D., Nuclear Engineering, North Carolina State University, in progress
 
 ## Bio
+Charles is a graduate research assistant at North Carolina State University Department of Nuclear Engineering working towards his MS and PhD in nuclear engineering.
 
 
 ## Research
-
+He is conducting research under Dr. Anistratov exploring hybrid deterministic-stochastic methods for neutron transport problems. Interests include scientific computing, numerical analysis, and acceleration techniques.

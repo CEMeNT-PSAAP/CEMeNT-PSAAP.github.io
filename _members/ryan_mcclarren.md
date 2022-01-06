@@ -1,6 +1,6 @@
 ---
 title: "Ryan McClarren"
-excerpt: "Predictive Science Colead & Deputy Center Director, University of Noter Dame"
+excerpt: "Predictive Science Colead & Deputy Center Director, University of Notre Dame"
 classes: wide
 
 header:
@@ -10,12 +10,6 @@ author: Ryan McClarren
 
 ---
 ## Education
-* B.S.
-* M.S.
-* Ph.D.
-
-## Bio
-
-
-## Research
-
+* B.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2003
+* M.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2004
+* Ph.D., Nuclear Engineering and Radiological Sciences, University of Michigan, 2007

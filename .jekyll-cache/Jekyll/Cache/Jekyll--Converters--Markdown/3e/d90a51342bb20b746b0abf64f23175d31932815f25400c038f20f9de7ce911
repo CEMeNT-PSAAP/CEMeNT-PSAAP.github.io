@@ -1,0 +1,16 @@
+I"*<h2 id="education">Education</h2>
+<ul>
+  <li>BS, Mechanical Engineering, Oregon Institute of Technology, 2020</li>
+  <li>PhD, Mechanical Engineering, Oregon State University, 2025</li>
+</ul>
+
+<h2 id="previous-internships">Previous Internships</h2>
+<ul>
+  <li>Los Alamos National Lab, 2021: Novel variance reduction methods for MC TRT</li>
+  <li>Argonne National Lab, 2019: x-y scanner magnet analysis for cancer radiotherapy particle accelerator</li>
+  <li>Thomas Jefferson National Accelerator Facility, 2018: Super-conducting quadrupole magnet analysis and optimization</li>
+</ul>
+
+<h2 id="bio">Bio</h2>
+<p>At CEMeNT Jackson works on research to enable Python to run at Exascale using hardware code generating libraries. He is Kyle Niemeyer’s graduate research assistant and also manages this website.</p>
+:ET

@@ -1,5 +1,5 @@
 PATH
-  remote: ..
+  remote: ../minimal-mistakes
   specs:
     minimal-mistakes-jekyll (4.21.0)
       jekyll (>= 3.7, < 5.0)
@@ -26,9 +26,25 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    faraday (1.1.0)
+    faraday (1.7.2)
+      faraday-em_http (~> 1.0)
+      faraday-em_synchrony (~> 1.0)
+      faraday-excon (~> 1.1)
+      faraday-httpclient (~> 1.0.1)
+      faraday-net_http (~> 1.0)
+      faraday-net_http_persistent (~> 1.1)
+      faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
       multipart-post (>= 1.2, < 3)
-      ruby2_keywords
+      ruby2_keywords (>= 0.0.4)
+    faraday-em_http (1.0.0)
+    faraday-em_synchrony (1.0.0)
+    faraday-excon (1.1.0)
+    faraday-httpclient (1.0.1)
+    faraday-net_http (1.0.1)
+    faraday-net_http_persistent (1.2.0)
+    faraday-patron (1.0.0)
+    faraday-rack (1.0.0)
     ffi (1.13.1)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
@@ -87,7 +103,7 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
-    octokit (4.19.0)
+    octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
@@ -99,7 +115,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.4)
     rouge (3.25.0)
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -115,6 +131,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 4.1)
   jekyll-algolia (~> 1.0)
   minimal-mistakes-jekyll!
 

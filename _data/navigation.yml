@@ -8,8 +8,8 @@ main:
     url: /members/
   - title: "Theory"
     url: /theory/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Publications"
+    url: /publications/
 
 # sidebar navigation list sample
 sidebar-sample:

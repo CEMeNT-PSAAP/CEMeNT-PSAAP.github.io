@@ -242,6 +242,9 @@ collections:
   theory:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -275,6 +278,14 @@ defaults:
   - scope:
       path: "_theory"
       type: theory
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publications
     values:
       layout: single
       author_profile: true

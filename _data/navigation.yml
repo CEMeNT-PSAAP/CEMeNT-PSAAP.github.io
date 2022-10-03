@@ -7,7 +7,7 @@ main:
   - title: "Members"
     url: /members/
   - title: "Publications"
-    url: /publications/
+    url: https://zenodo.org/communities/cement/?page=1&size=20
 
 # sidebar navigation list sample
 sidebar-sample:

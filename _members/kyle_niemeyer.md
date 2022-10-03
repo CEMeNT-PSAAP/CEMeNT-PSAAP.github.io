@@ -1,6 +1,6 @@
 ---
 title: "Kyle Niemeyer"
-excerpt: "Exascale Software Engineering lead, Oregon State Univeristy"
+excerpt: "Exascale Software Engineering lead, Oregon State University"
 classes: wide
 
 header:

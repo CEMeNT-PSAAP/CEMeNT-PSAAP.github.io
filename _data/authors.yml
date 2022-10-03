@@ -41,12 +41,21 @@ Aaron James Reynolds:
 
 Braxton Cuneo:
   name        : "Braxton Cuneo"
-  bio         : "Graduate Student, Oregon State University: Computer Science Dept."
+  bio         : "Associate Professor, Seattle University."
   avatar      : "/assets/bio/braxton_cuneo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cuneob@oregonstate.edu"
+
+Caleb Shaw:
+  name        : "Caleb Shaw"
+  bio         : "Graduate Student, North Carolina State University: NSE Dept."
+  avatar      : "/assets/bio/braxton_cuneo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cashaw4@ncsu.edu"
       
 Alexander Mote:
   name        : "Alexander Mote"

@@ -1,6 +1,6 @@
 ---
 title: "C.T. Kelley"
-excerpt: "Reasearcher in Hybrid Methods, North Carolina State University"
+excerpt: "Researcher in Hybrid Methods, North Carolina State University"
 classes: wide
 
 header:

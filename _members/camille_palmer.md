@@ -1,6 +1,6 @@
 ---
 title: "Camille Palmer"
-excerpt: "Predictive Science Co-Lead, Oregon State Univerity"
+excerpt: "Predictive Science Co-Lead, Oregon State University"
 classes: wide
 
 header:

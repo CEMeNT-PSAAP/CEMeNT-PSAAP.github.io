@@ -1,6 +1,6 @@
 ---
 title: "Braxton Cuneo"
-excerpt: "Graduate Student, Oregon State Univerity"
+excerpt: "Computer Science Researcher, Seattle University"
 classes: wide
 
 header:

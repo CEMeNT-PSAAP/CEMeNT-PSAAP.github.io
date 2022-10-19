@@ -4,12 +4,20 @@ permalink: /job
 
 sidebar: false
 
+gallery:
+  - image_path: assets/images/smrg7_thermal_flux.png
+    alt: "SMRG7 Thermal Flux Static"
+  - image_path: assets/images/kobayashi.gif
+    alt: "Kobayashi soultion movie gif (pronaouced with a hard g)"
+
 ---
 
 # Position 
 The Center for Exascale Monte Carlo Neutron Transport (CEMeNT) is recruiting for a postdoctoral scholar to provide computational science research, code development, and student mentoring support.
 This position is a full-time, 12-month Postdoctoral Scholar located in Corvallis, Oregon, working within the School of Nuclear Science and Engineering at Oregon State University.
 Funding for this position is expected to exist for two years; however, contracts are annual and are eligible for extension based on satisfactory performance and mutual agreement.
+
+{% include gallery %}
 
 CEMeNT is a competitively designated National Nuclear Security Administration funded Focused Investigatory Center as part of the Predictive Science Academic Alliance Program (PSAAP). Within CEMeNT, researchers from Oregon State University, the University of Notre Dame, and North Carolina State University work to develop the mathematics, computational physics, and computer science required to scale time-dependent Monte Carlo neutron transport simulations to exascale-class computers.
 Our work has high visibility in the US National Laboratories and the computational science community.
@@ -40,7 +48,7 @@ The successful applicant will:
 Position available: November 15, 2022 (open until filled)
 U.S. citizens and residents will be prioritized.
 
-Stipend and benefits conform with postdoctoral scholar standards at Oregon State University More information about postdoctoral scholar appointments can be found at the Office of Postdoctoral Scholars at Oregon State University.
+Stipend and benefits conform with postdoctoral scholar standards at Oregon State University More information about postdoctoral scholar appointments can be found at the Office of Postdoctoral Scholars at [Oregon State University](https://gradschool.oregonstate.edu/postdocs).
 
 # Application 
 For full consideration, apply by November 1, 2022. Applicants must send the following documents in a single PDF file (Word documents will not be opened) to both contacts listed below:
@@ -55,8 +63,6 @@ The subject line of your email should contain the following text: “CEMeNT Post
 School of Nuclear Science and Engineering<br>
 Oregon State University<br>
 todd.palmer@oregonstate.edu
-
-
 
 ### Dr. Ryan McClarren, CEMeNT Deputy Director
 Department of Aerospace and Mechanical Engineering<br>

@@ -52,8 +52,8 @@ The subject line of your email should contain the following text: “CEMeNT Post
 
 # Contacts
 ### Dr. Todd Palmer, CEMeNT Director
-School of Nuclear Science and Engineering\ 
-Oregon State University\ 
+School of Nuclear Science and Engineering<br>
+Oregon State University<br>
 todd.palmer@oregonstate.edu
 
 

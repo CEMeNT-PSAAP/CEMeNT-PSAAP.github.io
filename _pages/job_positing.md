@@ -1,6 +1,6 @@
 ---
 title: Job Posting
-permalink: /job
+permalink: /job/
 
 sidebar: false
 
@@ -8,7 +8,7 @@ gallery:
   - image_path: assets/images/smrg7_thermal_flux.png
     alt: "SMRG7 Thermal Flux Static"
   - image_path: assets/images/kobayashi.gif
-    alt: "Kobayashi soultion movie gif (pronaouced with a hard g)"
+    alt: "Kobayashi soultion movie gif (pronounced with a hard g as in go)"
 
 ---
 

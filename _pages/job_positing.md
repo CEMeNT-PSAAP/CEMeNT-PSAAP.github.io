@@ -58,9 +58,9 @@ todd.palmer@oregonstate.edu
 
 
 
-### Dr. Ryan McClarren, CEMeNT Deputy Director<br />  
-Department of Aerospace and Mechanical Engineering<br />  
-University of Notre Dame<br />  
-rmcclarr@ndu.edu<br />  
+### Dr. Ryan McClarren, CEMeNT Deputy Director
+Department of Aerospace and Mechanical Engineering<br>
+University of Notre Dame<br>
+rmcclarr@ndu.edu  
 
 

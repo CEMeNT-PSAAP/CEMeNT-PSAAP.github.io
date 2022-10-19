@@ -50,7 +50,7 @@ For full consideration, apply by November 1, 2022. Applicants must send the foll
 
 The subject line of your email should contain the following text: “CEMeNT Post-doctoral Scholar - (your last name).” Please note that only candidates whose applications contain evidence of the required skills and expertise will be contacted.
 
-Contacts
+# Contacts
 Dr. Todd Palmer, CEMeNT Director
 
 School of Nuclear Science and Engineering
@@ -60,12 +60,10 @@ Oregon State University
 todd.palmer@oregonstate.edu
 
 
-Dr. Ryan McClarren, CEMeNT Deputy Director
 
-Department of Aerospace and Mechanical Engineering
-
-University of Notre Dame
-
-rmcclarr@ndu.edu
+Dr. Ryan McClarren, CEMeNT Deputy Director\\ 
+Department of Aerospace and Mechanical Engineering\\ 
+University of Notre Dame\\ 
+rmcclarr@ndu.edu\\ 
 
 

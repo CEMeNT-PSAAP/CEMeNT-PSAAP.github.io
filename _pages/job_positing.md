@@ -19,7 +19,7 @@ Funding for this position is expected to exist for two years; however, contracts
 
 {% include gallery %}
 
-CEMeNT is a competitively designated National Nuclear Security Administration funded Focused Investigatory Center as part of the Predictive Science Academic Alliance Program (PSAAP). Within CEMeNT, researchers from Oregon State University, the University of Notre Dame, and North Carolina State University work to develop the mathematics, computational physics, and computer science required to scale time-dependent Monte Carlo neutron transport simulations to exascale-class computers.
+CEMeNT is a competitively designated National Nuclear Security Administration funded Focused Investigatory Center as part of the [Predictive Science Academic Alliance Program (PSAAP)](https://psaap.llnl.gov/). Within CEMeNT, researchers from Oregon State University, the University of Notre Dame, and North Carolina State University work to develop the mathematics, computational physics, and computer science required to scale time-dependent Monte Carlo neutron transport simulations to exascale-class computers.
 Our work has high visibility in the US National Laboratories and the computational science community.
 
 The universities participating in CEMeNT commit to inclusive excellence by advancing equity and diversity in all that we do.
@@ -56,7 +56,7 @@ For full consideration, apply by November 1, 2022. Applicants must send the foll
 * A one-page statement describing your background and how you fit the advertised position.  Please specifically reference the required and preferred qualifications.
 * Contact information for three references
 
-The subject line of your email should contain the following text: “CEMeNT Post-doctoral Scholar - (your last name).” Please note that only candidates whose applications contain evidence of the required skills and expertise will be contacted.
+The subject line of your email should contain the following text: “CEMeNT Post-doctoral Scholar - (your last name).” *Please note that only candidates whose applications contain evidence of the required skills and expertise will be contacted.*
 
 # Contacts
 ### Dr. Todd Palmer, CEMeNT Director

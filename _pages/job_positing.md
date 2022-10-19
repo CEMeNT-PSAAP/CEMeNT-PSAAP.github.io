@@ -51,9 +51,9 @@ For full consideration, apply by November 1, 2022. Applicants must send the foll
 The subject line of your email should contain the following text: “CEMeNT Post-doctoral Scholar - (your last name).” Please note that only candidates whose applications contain evidence of the required skills and expertise will be contacted.
 
 # Contacts
-### Dr. Todd Palmer, CEMeNT Director<br />  
-School of Nuclear Science and Engineering<br />  
-Oregon State University<br />  
+### Dr. Todd Palmer, CEMeNT Director
+School of Nuclear Science and Engineering \ 
+Oregon State University \ 
 todd.palmer@oregonstate.edu
 
 

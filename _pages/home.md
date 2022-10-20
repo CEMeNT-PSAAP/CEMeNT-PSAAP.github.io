@@ -24,8 +24,8 @@ gallery:
 
 {% include figure image_path="/assets/images/cement-logo-1.png" %}
 
-[**Post Doc Job Position** Come work with us!](/job/)
-{: .notice}
+# [**Post-Doc Job Position:** Come work with us!](/job/)
+{: .notice--warning}
 
 Welcome to the CEMeNT website. Here you can find information and updates pertaining to the project and contact information for its members. The project is affiliated with the following organizations.
 

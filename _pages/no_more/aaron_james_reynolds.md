@@ -24,3 +24,5 @@ His efforts at CEMeNT focus on development of a time-dependent hybrid determinis
 
 Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications.
 In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.
+
+**He is no longer associated with CEMeNT**

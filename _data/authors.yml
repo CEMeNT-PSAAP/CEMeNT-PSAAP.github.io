@@ -17,7 +17,7 @@ Todd Palmer:
 
 Kayla Clements:
   name        : "Kayla Clements"
-  bio         : "Graduate Student, Oregon State University: NSE Dept."
+  bio         : "PhD Candidate, Oregon State University: NSE Dept."
   avatar      : "/assets/bio/kayla_clements.jpg"
   links:
     - label: "Email"
@@ -195,13 +195,16 @@ Kyle Niemeyer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kyleniemeyer"
 
-Jackson Morgan:
-  name        : "Jackson Morgan"
+Joanna Morgan:
+  name        : "Joanna Morgan"
   bio         : "Graduate Student, Oregon State University: MIME Dept."
-  avatar      : "/assets/bio/jackson_morgan.jpg"
+  avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:morgjack@oregonstate.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jpmorgan98"
 
 

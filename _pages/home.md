@@ -7,10 +7,10 @@ sidebar: false
 gallery:
   - url: https://www.energy.gov/nnsa/national-nuclear-security-administration
     image_path: assets/images/NNSA_Logo.png
-    alt: "National Nuclear Saftey Administration"
+    alt: "National Nuclear Safety Administration"
   - url: https://oregonstate.edu/
     image_path: assets/images/osu-logo.png
-    alt: "Oregon State Univeristy"
+    alt: "Oregon State University"
   - url: https://www.ncsu.edu/
     image_path: assets/images/ncsu-logo.png
     alt: "North Carolina State University"
@@ -20,12 +20,16 @@ gallery:
   - url: https://www.energy.gov/
     image_path: assets/images/DOE_logo.png
     alt: "United States Department of Energy"
+  - url: https://www.seattleu.edu/
+    image_path: assets/images/SU.png
+    alt: Seattle University
+
+#<> (# [**Post-Doc Job Position:** Come work with us!](/job/))
+#{: .notice--warning}
 ---
 
 {% include figure image_path="/assets/images/cement-logo-1.png" %}
 
-# [**Post-Doc Job Position:** Come work with us!](/job/)
-{: .notice--warning}
 
 Welcome to the CEMeNT website. Here you can find information and updates pertaining to the project and contact information for its members. The project is affiliated with the following organizations.
 

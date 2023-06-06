@@ -5,7 +5,7 @@ layout: single
 
 ---
 
-The Center for Exascale Monte Carlo Neutron Transport (CEMeNT) is a PSAAP-III Focused Investigatory Center led by Oregon State University, with partner institutions University of Notre Dame and North Carolina State University. The goal of the center is to advance Monte Carlo neutron transport capabilities on problems relevant to the National Nuclear Security Administration's (NNSA) mission.
+The Center for Exascale Monte Carlo Neutron Transport (CEMeNT) is a PSAAP-III Focused Investigatory Center led by Oregon State University, with partner institutions University of Notre Dame, North Carolina State University, and Seattle University. The goal of the center is to advance Monte Carlo neutron transport capabilities on problems relevant to the National Nuclear Security Administration's (NNSA) mission.
 
 The project has three main thrusts in the areas of:
 * Computational physics and simulation of time-dependent neutron transport phenomena

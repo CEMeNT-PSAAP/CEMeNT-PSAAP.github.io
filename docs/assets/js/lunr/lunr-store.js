@@ -1,10 +1,4 @@
 var store = [{
-        "title": "Aaron James Reynolds",
-        "excerpt":"Education     Ph.D. Nuclear Engineering, Oregon State University (2020)   B.S. Electrical Engineering, Montana State University (2015)   At Oregon State since 2020.   Aaron Reynolds’ research interests include:     methods development for reactor analysis   multiphysics coupling using multilevel projective approaches   His efforts at CEMeNT focus on development of a time-dependent hybrid deterministic/Monte Carlo method to be used on modern computing architectures.   Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications. In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.  ","categories": [],
-        "tags": [],
-        "url": "/members/aaron_james_reynolds/",
-        "teaser": "/assets/bio/aaron_james_reynolds.jpg"
-      },{
         "title": "Alexander Mote",
         "excerpt":"Education     BS, Electrical &amp; Computer Engineering, Oregon State University, 2022   MS, Artificial Intelligence, Oregon State University, 2023   PhD, Artificial Intelligence, Oregon State University, 2025   Bio  Alexander is a graduate research assistant at Oregon State University’s department of Electrical Engineering and Computer Science. He is working towards his MS and PhD in Artificial Intelligence. He is conducting research under Dr. Lizhong Chen exploring the use of machine learning to optimize hardware allocation in exascale computing systems. Alexander has minors in Physics and Computer Science, and previously worked on undergraduate research in the improvement of hardware design and memory accessibility in high-performance computing systems through the OSGC STARR program. His interests include computational physics, high-performance computing design, and power optimization in computing systems.  ","categories": [],
         "tags": [],
@@ -59,11 +53,11 @@ var store = [{
         "url": "/members/ilham_variansyah/",
         "teaser": "/assets/bio/ilham_variansyah.jpg"
       },{
-        "title": "Jackson Morgan",
-        "excerpt":"Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   PhD, Mechanical Engineering, Oregon State University, 2025   Previous Internships     Los Alamos National Lab, 2021: Novel variance reduction methods for MC TRT   Argonne National Lab, 2019: x-y scanner magnet analysis for cancer radiotherapy particle accelerator   Thomas Jefferson National Accelerator Facility, 2018: Super-conducting quadrupole magnet analysis and optimization   Bio  At CEMeNT Jackson works on research to enable Python to run at Exascale using hardware code generating libraries. He is Kyle Niemeyer’s graduate research assistant and also manages this website.  ","categories": [],
+        "title": "Joanna Piper Morgan",
+        "excerpt":"At CEMeNT Joanna works on research to enable Python to run at Exascale using hardware code generating libraries. She is Kyle Niemeyer’s graduate research assistant and also manages this website (please email her if you spot any typos).   For more info see her website   Education     BS, Mechanical Engineering, Oregon Institute of Technology, 2020   MS, Mechanical Engineering, Oregon State University, 2022   PhD, Mechanical Engineering, Oregon State University, 2025 (In progroess)   Internships     Advanced Micro Devices (AMD), 2023: Extending MC/DC to AMD hardware   Los Alamos National Lab, 2022-2023: Adding delta tracking to production Monte Carlo codes (MCATK)   Los Alamos National Lab, 2021: Novel variance reduction methods for MC TRT   Argonne National Lab, 2019: x-y scanner magnet analysis for cancer radiotherapy particle accelerator   Thomas Jefferson National Accelerator Facility, 2018: Super-conducting quadrupole magnet analysis and optimization  ","categories": [],
         "tags": [],
-        "url": "/members/jackson_morgan/",
-        "teaser": "/assets/bio/jackson_morgan.jpg"
+        "url": "/members/joanna_morgan/",
+        "teaser": "/assets/bio/joanna_morgan.jpg"
       },{
         "title": "Jordan Northrop",
         "excerpt":"Education     B.S., Nuclear Engineering, Oregon State University (In progress)   Bio  Jordan Northrop is an undergraduate nuclear engineering student at Oregon State University.  Previous work includes an internship with the Westinghouse Fellows Program at Penn State using fission matrix methods to model TRIGA reactor pulses.   Currently working with Dr. Camille Palmer and Dr. Todd Palmer to use the pulsed sphere benchmark problems to validate Monte Carlo codes.  ","categories": [],
@@ -130,18 +124,6 @@ var store = [{
         "tags": ["NNSA","Article","Graduate Students"],
         "url": "/articles/intern-complete/",
         "teaser": null
-      },{
-        "title": "2021 PSAAP Review Poster Session",
-        "excerpt":"For our FY2021 review a poster session was arranged to deomonstrait the technical progress of our work as well as show work done by thoes who had returned from the summers internships. They are presented here.                                                                                                                                                                                                                                                                                                                                                                                                        ","categories": [],
-        "tags": [],
-        "url": "/publications/2021_review_posters/",
-        "teaser": "/assets/Documents/2021_review_posters/teaser.png"
-      },{
-        "title": "Newton’s Method In Mixed-Precision",
-        "excerpt":"Abstract  We investigate the use of reduced precision arithmetic to solve the linear equation for the Newton step. If one neglects the backward error in the linear solve, then well-known convergence theory implies that using single precision in the linear solve has very little negative effect on the nonlinear convergence rate. However, if one considers the effects of backward error, then the usual textbook estimates are very pessimistic and even the state-of-the-art estimates using probabilistic rounding analysis do not fully conform to experiments. We report on experiments with a specific example. We store and factor Jacobians in double, single, and half precision. In the single precision case we observe that the convergence rates for the nonlinear iteration do not degrade as the dimension increases and that the nonlinear iteration statistics are essentially identical to the double precision computation. In half precision we see that the nonlinear convergence rates, while poor, do not degrade as the dimension increases.                                                  ","categories": [],
-        "tags": [],
-        "url": "/publications/mixed_precision/",
-        "teaser": "/assets/Documents/publications/2022/Mixed_Precision.png"
       },{
         "title": "ANS Roundtable Talks ",
         "excerpt":"Persenations that were given at the ANS roundtable in June of 2021      Accelerating Transport Codes on Newer Architectures   PARTISN: Enabling a 20th Century FORTRAN Transport Code to Meet 21st Century Challenges   More Than a Port: Challenges in GPU-Based Monte Carlo and Method of Characteristics Particle Transport   Cognitive Simulations for Inertial Confinement Fusion   Optimal Operations of Advanced Reactors  ","categories": [],

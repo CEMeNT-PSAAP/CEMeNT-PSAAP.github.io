@@ -196,8 +196,8 @@ Kyle Niemeyer:
       url: "https://github.com/kyleniemeyer"
 
 Joanna Morgan:
-  name        : "Joanna Morgan"
-  bio         : "Graduate Student, Oregon State University: MIME Dept."
+  name        : "Joanna Piper Morgan"
+  bio         : "(she/her) Graduate Student, Oregon State University: MIME Dept."
   avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"
@@ -206,5 +206,11 @@ Joanna Morgan:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: https://jpmorgan98.github.io/
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jpmorgan98/
 
 

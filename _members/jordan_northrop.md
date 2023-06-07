@@ -1,6 +1,6 @@
 ---
 title: "Jordan Northrop"
-excerpt: "Oregon State University"
+excerpt: "Graduate Student; Oregon State University"
 classes: wide
 
 header:

@@ -68,7 +68,7 @@ Alexander Mote:
       
 Jordan Northrop:
   name        : "Jordan Northrop"
-  bio         : "Undergraduate Student, Oregon State University: NSE Dept."
+  bio         : "Graduate Student, Oregon State University: NSE Dept."
   avatar      : "/assets/bio/jordan_northrop.jpg"
   links:
     - label: "Email"
@@ -95,12 +95,12 @@ Ryan McClarren:
 
 Ilham Variansyah:
   name        : "Ilham Variansyah"
-  bio         : "Postdoctoral Scholar, University of Notre Dame"
+  bio         : "Associate Faculty Senior Researcher, Oregon State University: NSE Dept."
   avatar      : "/assets/bio/ilham_variansyah.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ijuanda@nd.edu"
+      url: "mailto:variansi@oregonstate.edu"
       
 Camille Palmer:
   name        : "Camille Palmer"

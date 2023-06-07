@@ -2,7 +2,6 @@
 title: "Center Publications"
 permalink: /publications/
 layout: single
-classes: wide
 
 gallery:
   - url: /assets/Documents/citations.pdf

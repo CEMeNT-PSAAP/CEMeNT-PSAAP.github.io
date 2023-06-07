@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: 
 permalink: /
 
 sidebar: false
@@ -24,6 +24,7 @@ gallery:
     image_path: assets/images/SU.png
     alt: Seattle University
 
+
 #<> (# [**Post-Doc Job Position:** Come work with us!](/job/))
 #{: .notice--warning}
 ---
@@ -31,8 +32,12 @@ gallery:
 {% include figure image_path="/assets/images/cement-logo-1.png" %}
 
 
-Welcome to the CEMeNT website. Here you can find information and updates pertaining to the project and contact information for its members. The project is affiliated with the following organizations.
+Welcome! We are a collaborative group of researchers pushing transient Monte Carlo neutron transport boldly into the Exascale! CEMeNT is affiliated with the following organizations:
 
 {% include gallery %}
+
+We are also supported directly by scientific staff at Los Alamos, Sandia, Lawrence Livermore, and Oak Ridge National Labs.
+
+We believe in open-source academic research. All our code bases are publicly available on [github](https://github.com/CEMeNT-PSAAP). We welcome collaborators outside of CEMeNT and encourage folks wanting to work with us to do so there! Also please feel free to reach out via email or join us on Slack.
 
 This work was supported by the Center for Exascale Monte-Carlo Neutron Transport (CEMeNT) a PSAAP-III project funded by the Department of Energy, grant number: DE-NA003967.

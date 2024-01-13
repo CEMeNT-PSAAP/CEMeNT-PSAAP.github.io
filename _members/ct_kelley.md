@@ -9,11 +9,14 @@ header:
 author: C.T. Kelley
 
 ---
-## Education
-* B.S.Vanberbilt University, Mathematics, 1973
-* Ph.D. Purdue University, Applied Mathematics, 1976
 
-## Bio
+## Education
+
+* Ph.D. Purdue University, Applied Mathematics, 1976
+* B.S. Vanberbilt University, Mathematics, 1973
+
+## Biography
+
 At North Carolina State University since 1978.
 
 Prior to arriving at NCSU, Kelley was an assistant scientist (aka postdoc) at the US Army Mathematics Research Center in Madison WI.

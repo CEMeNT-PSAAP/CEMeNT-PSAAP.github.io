@@ -10,6 +10,13 @@ author: Ryan McClarren
 
 ---
 ## Education
-* B.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2003
-* M.S.E., Nuclear Engineering and Radiological Sciences, University of Michigan, 2004
-* Ph.D., Nuclear Engineering and Radiological Sciences, University of Michigan, 2007
+
+* Ph.D. Nuclear Engineering and Radiological Sciences, University of Michigan, 2007
+* M.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2004
+* B.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2003
+
+## Biography
+
+Professor McClarren’s research has been published in engineering, physics, mathematics, and statistics journals.
+
+His particular areas of interest are particle transport (neutrons, x-rays, and friends), uncertainty quantification, and high-energy density physics.

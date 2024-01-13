@@ -9,13 +9,19 @@ header:
 author: Braxton Cuneo
 
 ---
+
 ## Education
-* B.S.
+
+* B.S. 
 * M.S.
-* Ph.D.
+* Ph.D. Computer Science, Oregon State University
 
-## Bio
+# Biography
 
+After getting his PhD as part of CEMeNT in Dr. Bailey's lab, Dr. Cuneo received a tenure track position at Seattle University where he continuous his research on asynchronous GPU scheduling.
 
 ## Research
 
+* GPU and Parallel Software - and making it easier to implement across different platforms and applications 
+* Methods of resolving divergence and dependency in GPU applications
+* Monte Carlo Neutron Transport 

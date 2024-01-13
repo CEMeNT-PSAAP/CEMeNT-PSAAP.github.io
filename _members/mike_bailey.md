@@ -10,11 +10,13 @@ author: Mike Bailey
 
 ---
 ## Education
-B.S. Mechanical Engineering, Purdue University, 1975
-M.S. Computer Graphics and Computer Aided Design, Purdue University, 1976
-Ph.D. Computer Aided Design and Computer Graphics, Purdue University, 1979
 
-## Bio
+Ph.D. Computer Aided Design and Computer Graphics, Purdue University, 1979
+M.S. Computer Graphics and Computer Aided Design, Purdue University, 1976
+B.S. Mechanical Engineering, Purdue University, 1975
+
+## Biography
+
 Mike Bailey is a professor in computer science at Oregon State University. His areas of interest include scientific visualization, high performance computer graphics, solid freeform fabrication, geometric modeling, and computer aided design and analysis.
 
 Mike received his Ph.D. from Purdue University in computer graphics and computer aided design in 1979. From 1979-1981 he was a member of Sandia National Laboratories' technical staff, specializing in developing 3D graphics tools for mechanical designers. From 1981-1985, Mike was an assistant and associate professor at Purdue University. In 1985, Mike became the director of advanced development at Megatek Corporation, where he managed a group of engineers who were charged with developing Megatek's next generation of computer graphics technology. From 1989-2004 Mike was the director of visualization at the San Diego Supercomputer Center and an adjunct professor at the University of California San Diego. He joined the Oregon State faculty in 2004.

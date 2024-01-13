@@ -1,6 +1,6 @@
 ---
 title: "Joanna Piper Morgan"
-excerpt: "Graduate Student, Oregon State University"
+excerpt: "PhD Student, Oregon State University"
 classes: wide
 
 header:
@@ -9,18 +9,27 @@ header:
 author: Joanna Morgan
 
 ---
-At CEMeNT Joanna works on research to enable Python to run at Exascale using hardware code generating libraries. She is Kyle Niemeyer's graduate research assistant and also manages this website (please email her if you spot any typos).
+
+## Education
+
+* Ph.D. Mechanical Engineering, Oregon State University, 2025, In Progress
+* M.S. Mechanical Engineering, Oregon State University, 2022
+* B.S. Mechanical Engineering, Oregon Institute of Technology, 2020
+
+## Biography
+
+At CEMeNT Joanna works on research to enable Python to run at Exascale using hardware code generating libraries. She is Dr. Niemeyer's lab (NRG) and is currently on a co/op at Advanced Micro Devices (AMD) where she is adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.
+
+She has previously worked at Los Alamos National Lab on adding delta tracking to a production Monte Carlo neutron transport code MCATK and researched novel variance reduction techniques for MC TRT applications. Before joining the center Joanna had previously worked at Argonne and Thomas Jefferson National Labs on particle accelerator magnet analysis. 
+
+Joanna also manages this website (please email her if you spot any typos).
 
 For more info see [her website](https://jpmorgan98.github.io/)
 
-## Education
-* BS, Mechanical Engineering, Oregon Institute of Technology, 2020
-* MS, Mechanical Engineering, Oregon State University, 2022
-* PhD, Mechanical Engineering, Oregon State University, 2025 (*In progroess*)
+## Research
 
-## Internships
-* Advanced Micro Devices (AMD), 2023: Extending MC/DC to AMD hardware
-* Los Alamos National Lab, 2022-2023: Adding delta tracking to production Monte Carlo codes (MCATK)
-* Los Alamos National Lab, 2021: Novel variance reduction methods for MC TRT
-* Argonne National Lab, 2019: x-y scanner magnet analysis for cancer radiotherapy particle accelerator
-* Thomas Jefferson National Accelerator Facility, 2018: Super-conducting quadrupole magnet analysis and optimization
+* Open source development methods for heterogenous exaclass compute hardware
+* Acceleration and abstraction of Python for HPC applications
+* Transient deterministic iterative methods for GPUs
+* Variance reduction techniques for radiation transport
+* Best practices for open source collaborative development

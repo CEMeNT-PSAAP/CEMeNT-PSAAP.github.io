@@ -1,6 +1,6 @@
 ---
 title: "Ben Whewell"
-excerpt: "Graduate Student, University of Notre Dame"
+excerpt: "PhD Student, University of Notre Dame"
 classes: wide
 
 header:
@@ -9,6 +9,12 @@ header:
 author: Ben Whewell
 
 ---
+
 ## Education
-* B.S. Nuclear Energy Engineering - Thomas Edison State University
-* Ph.D. Mechanical Engineering (Pending) - University of Notre Dame
+
+* Ph.D. Mechanical Engineering (In Progress), University of Notre Dame
+* B.S. Nuclear Energy Engineering, Thomas Edison State University
+
+## Biography
+
+Ben is a member of Dr. McClarren's lab at the University Notre Dame.

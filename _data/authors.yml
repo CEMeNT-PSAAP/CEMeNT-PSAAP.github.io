@@ -2,7 +2,7 @@
 
 Todd Palmer:
   name        : "Todd Palmer"
-  bio         : "Center Director, Oregon State University: NSE Dept."
+  bio         : "Center Director, Oregon State University: School of NSE"
   avatar      : "/assets/bio/todd_palmer.jpg"
   links:
     - label: "Email"
@@ -10,19 +10,27 @@ Todd Palmer:
       url: "mailto:palmerts@oregonstate.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ne.oregonstate.edu/todd-s-palmer"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://engineering.oregonstate.edu/people/todd-palmer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/palmerts"
+
 
 Kayla Clements:
   name        : "Kayla Clements"
-  bio         : "PhD Candidate, Oregon State University: NSE Dept."
+  bio         : "PhD Candidate, Oregon State University: School of NSE"
   avatar      : "/assets/bio/kayla_clements.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:clemekay@oregonstate.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kayla-clements-03960013b/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clemekay"
+
 
 Aaron James Reynolds:
   name        : "Aaron James Reynolds"
@@ -39,86 +47,133 @@ Aaron James Reynolds:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aaronjamesreynolds"
 
+
 Braxton Cuneo:
   name        : "Braxton Cuneo"
-  bio         : "Associate Professor, Seattle University."
+  bio         : "Assistant Professor, Seattle University: Computer Science"
   avatar      : "/assets/bio/braxton_cuneo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cuneob@oregonstate.edu"
+      url: "mailto:bcuneo@seattleu.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.seattleu.edu/scieng/computer-science/faculty-and-staff/profiles/cuneo-braxton.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/braxtoncuneo"
+
 
 Caleb Shaw:
   name        : "Caleb Shaw"
-  bio         : "Graduate Student, North Carolina State University: NSE Dept."
+  bio         : "PhD Student, North Carolina State University: NSE Dept."
   avatar      : "/assets/bio/caleb_shaw.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cashaw4@ncsu.edu"
-      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shac170"
+
+
 Alexander Mote:
   name        : "Alexander Mote"
-  bio         : "Graduate Student, Oregon State University: Computer Science Dept."
+  bio         : "PhD Student, Oregon State University: School of Computer Science"
   avatar      : "/assets/bio/alexander_mote.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:motea@oregonstate.edu"
-      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alexandermote"
+
+
 Jordan Northrop:
   name        : "Jordan Northrop"
-  bio         : "Graduate Student, Oregon State University: NSE Dept."
+  bio         : "Masters Student, Oregon State University: School of NSE"
   avatar      : "/assets/bio/jordan_northrop.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:northj@oregonstate.edu"
-      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/northroj"
+
+
 Ben Whewell:
   name        : "Ben Whewell"
-  bio         : "Graduate Student, University of Notre Dame"
+  bio         : "PhD Student, University of Notre Dame"
   avatar      : "/assets/bio/ben_whewell.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:bwhewell@nd.edu"
-      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bwhewe-13"
+
+
 Ryan McClarren:
   name        : "Ryan McClarren"
-  bio         : "Predictive Science Colead & Deputy Center Director, University of Notre Dame"
+  bio         : "Predictive Science Colead & Deputy Center Director, University of Notre Dame: ME Dept."
   avatar      : "/assets/bio/ryan_mcclarren.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rmcclarr@nd.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://engineering.nd.edu/faculty/ryan-mcclarren/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/DrRyanMc"
 
 Ilham Variansyah:
   name        : "Ilham Variansyah"
-  bio         : "Associate Faculty Senior Researcher, Oregon State University: NSE Dept."
+  bio         : "Associate Faculty Senior Researcher, Oregon State University: School of NSE"
   avatar      : "/assets/bio/ilham_variansyah.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:variansi@oregonstate.edu"
-      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://engineering.oregonstate.edu/people/ilham-variansyah"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ilhamv"
+
+
 Camille Palmer:
   name        : "Camille Palmer"
-  bio         : "Predictive Science Colead, Oregon State University: NSE Dept."
+  bio         : "Predictive Science Colead, Oregon State University: School of NSE"
   avatar      : "/assets/bio/camille_palmer.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:camille_palmer@oregonstate.edu"      
+      url: "mailto:camille_palmer@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://engineering.oregonstate.edu/people/camille-palmer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cjlodwick"
 
 Dmitriy Anistratov:
   name        : "Dmitriy Anistratov"
-  bio         : "Computational Physics Lead, North Carolina State University: Dept"
+  bio         : "Computational Physics Lead, North Carolina State University: NSE Dept."
   avatar      : "/assets/bio/dmitriy_anistratov.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:anistratov@ncsu.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ne.ncsu.edu/people/dyanistr/"
+
 
 Lizhong Chen:
   name        : "Lizhong Chen"
@@ -128,6 +183,10 @@ Lizhong Chen:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chenliz@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://engineering.oregonstate.edu/people/lizhong-chen"
+
 
 Mike Bailey:
   name        : "Mike Bailey"
@@ -137,33 +196,55 @@ Mike Bailey:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mjb@oregonstate.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://engineering.oregonstate.edu/people/mike-bailey"
+
 
 Charles Goodman:
   name        : "Charles Goodman"
-  bio         : "Graduate Student, North Carolina State University"
+  bio         : "Graduate Student, North Carolina State University: NSE Dept."
   avatar      : "/assets/bio/charles_goodman.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cegoodma@ncsu.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/goodman17c"
+
 
 Vincent Novellino:
   name        : "Vincent Novellino"
-  bio         : "Graduate Student, North Carolina State University"
+  bio         : "Graduate Student, North Carolina State University: NSE Dept."
   avatar      : "/assets/bio/vincent_novellino.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vnnovell@ncsu.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vnnovell"
+
 
 Sam Pasmann:
   name        : "Sam Pasmann"
-  bio         : "Graduate Student, University of Notre Dame"
+  bio         : "PhD Candidate, University of Notre Dame: ME Dept."
   avatar      : "/assets/bio/sam_pasmann.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:spasmann@nd.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/samuel-pasmann/
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://esteem.nd.edu/our-students/records/sam-pasmann-2019-2020/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spasmann"
+
 
 C.T. Kelley:
   name        : "C.T. Kelley"
@@ -173,10 +254,17 @@ C.T. Kelley:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ctk@ncsu.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://math.sciences.ncsu.edu/people/ctk/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ctkelley"
+
 
 Kyle Niemeyer:
   name        : "Kyle Niemeyer"
-  bio         : "Exascale Software Engineering lead, Oregon State University: MIME Dept."
+  bio         : "Exascale Software Engineering lead, Oregon State University: School of MIME"
   avatar      : "/assets/bio/kyle.jpg"
   links:
     - label: "Email"
@@ -197,7 +285,7 @@ Kyle Niemeyer:
 
 Joanna Morgan:
   name        : "Joanna Piper Morgan"
-  bio         : "(she/her) Graduate Student, Oregon State University: MIME Dept."
+  bio         : "(she/her) PhD Student, Oregon State University: School of MIME"
   avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"
@@ -208,9 +296,24 @@ Joanna Morgan:
       url: "https://github.com/jpmorgan98"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: https://jpmorgan98.github.io/
+      url: "https://jpmorgan98.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jpmorgan98/
+      url: "https://www.linkedin.com/in/jpmorgan98/"
 
+
+Ethan Lame:
+  name        : "Ethan Lamé"
+  bio         : "Masters Student, Oregon State University: School of NSE"
+  avatar      : "/assets/bio/ethan_lame.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lamee@oregonstate.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ethan-lame"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ethan-lame/"
 

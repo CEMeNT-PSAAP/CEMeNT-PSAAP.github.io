@@ -12,9 +12,8 @@ author: Braxton Cuneo
 
 ## Education
 
-* B.S. 
-* M.S.
-* Ph.D. Computer Science, Oregon State University
+* Ph.D. Computer Science, Oregon State University, 2020
+* B.S. Computer Science, Oregon State University
 
 # Biography
 

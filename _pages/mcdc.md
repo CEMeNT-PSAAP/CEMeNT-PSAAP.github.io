@@ -7,15 +7,14 @@ classes: wide
 ---
 
 {% include figure url="https://github.com/CEMeNT-PSAAP/MCDC" image_path="/assets/images/mcdc.svg" alt="MC/DC" %}
+[<i class='fab fa-fw fa-github'></i> MC/DC on GitHub](https://github.com/CEMeNT-PSAAP/MCDC){: .btn .btn--primary .btn--x-large}
+[<i class='fa fa-book fa-fw'></i> Read the Docs](https://cement-psaapgithubio.readthedocs.io/en/latest/){: .btn .btn--primary .btn--x-large}
+[<i class='fa fa-newspaper'></i> M&C Intro Paper](https://arxiv.org/abs/2305.07636){: .btn .btn--primary .btn--x-large}
 
 Monte Carlo Dynamic code is the primary deliverable for the Center.
 It includes novel transport methods focused for transient neutron transport as well as an acceleration and abstraction software engineering scheme to make MC/DC a platform for rapid methods development in the felid.
 While MC/DC is where we deploy our novel algorithms and rapidly develop numerical methods for transient transport it is also intended to live beyond the length of the center.
 It includes a full testing library (unit, regression, verification, performance), continuous integration (via GitHub actions and chron jobs), issue tracking, documentation site, and published PR and contribution process.
-
-[<i class='fab fa-fw fa-github'></i> MC/DC on GitHub](https://github.com/CEMeNT-PSAAP/MCDC){: .btn .btn--primary .btn--x-large}
-[<i class='fa fa-book fa-fw'></i> Read the Docs](https://cement-psaapgithubio.readthedocs.io/en/latest/){: .btn .btn--primary .btn--x-large}
-[<i class='fa fa-newspaper'></i> M&C Intro Paper](https://arxiv.org/abs/2305.07636){: .btn .btn--primary .btn--x-large}
 
 # CEMeNT research implemented in MC/DC
 * Fully transient transport 

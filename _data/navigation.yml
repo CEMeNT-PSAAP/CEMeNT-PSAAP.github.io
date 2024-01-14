@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about
   - title: "MC/DC"
-    url: https://cement-psaapgithubio.readthedocs.io/en/latest/
+    url: /mcdc/
   - title: "Members"
     url: /members/
   - title: "Publications"

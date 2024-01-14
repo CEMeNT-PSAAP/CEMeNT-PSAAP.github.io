@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Previous Members of CEMeNT - CEMeNT</title>
+<!-- begin _includes/seo.html --><title>  CEMeNT</title>
 <meta name="description" content="CEMeNT is a PSAAP-III Focused Investigatory Center led by Oregon State University, with partner institutions University of Notre Dame and North Carolina State University.">
 
 
@@ -20,8 +20,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="CEMeNT">
-<meta property="og:title" content="Previous Members of CEMeNT">
-<meta property="og:url" content="https://cement-psaap.github.io/previous_members/">
+<meta property="og:title" content="">
+<meta property="og:url" content="https://cement-psaap.github.io/mcdc/">
 
 
   <meta property="og:description" content="CEMeNT is a PSAAP-III Focused Investigatory Center led by Oregon State University, with partner institutions University of Notre Dame and North Carolina State University.">
@@ -43,7 +43,7 @@
   
 
 
-<link rel="canonical" href="https://cement-psaap.github.io/previous_members/">
+<link rel="canonical" href="https://cement-psaap.github.io/mcdc/">
 
 
 
@@ -262,7 +262,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Previous Members of CEMeNT">
+    <meta itemprop="headline" content="">
     
     
     
@@ -271,7 +271,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://cement-psaap.github.io/previous_members/" class="u-url" itemprop="url">Previous Members of CEMeNT
+            <a href="https://cement-psaap.github.io/mcdc/" class="u-url" itemprop="url">
 </a>
           </h1>
           
@@ -282,25 +282,82 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>Shown in alphabetical order:</p>
+        <figure class="">
+  <img src="/assets/images/mcdc.svg" alt="MC/DC" /></figure>
 
-<figure class="half ">
-  
-    
-      <a href="/previous_members/vincent_novellino">
-          <img src="/assets/bio/vincent_novellino.jpg" alt="Vincent Novellino" />
-      </a>
-    
-  
-    
-      <a href="/previous_members/aaron_james_reynolds">
-          <img src="/assets/bio/aaron_james_reynolds.jpg" alt="Aaron James Reynolds" />
-      </a>
-    
-  
-  
-</figure>
+<p>Monte Carlo Dynamic code is the primary deliverable for the Center.
+It includes novel transport methods focused for transient neutron transport as well as an acceleration and abstraction software engineering scheme to make MC/DC a platform for rapid methods development in the felid.
+While MC/DC is where we deploy our novel algorithms and rapidly develop numerical methods for transient transport it is also intended to live beyond the length of the center.
+It includes a full testing library (unit, regression, verification, performance), continuous integration (via GitHub actions and chron jobs), issue tracking, documentation site, and published PR and contribution process.</p>
 
+<p><a href="https://github.com/CEMeNT-PSAAP/MCDC" class="btn btn--primary btn--x-large"><i class="fab fa-fw fa-github"></i> MC/DC on GitHub</a>
+<a href="https://cement-psaapgithubio.readthedocs.io/en/latest/" class="btn btn--primary btn--x-large"><i class="fa fa-book fa-fw"></i> Read the Docs</a>
+<a href="https://arxiv.org/abs/2305.07636" class="btn btn--primary btn--x-large"><i class="fa fa-newspaper"></i> M&amp;C Intro Paper</a></p>
+
+<h1 id="cement-research-implemented-in-mcdc">CEMeNT research implemented in MC/DC</h1>
+<ul>
+  <li>Fully transient transport</li>
+  <li>iQMC hybrid Monte Carlo iterative methods</li>
+  <li>Intrusive UQ</li>
+  <li>Python acceleration and abstraction techniques for CPUs and GPUs</li>
+  <li>Asynchronous GPU scheduling</li>
+  <li>Automatic transient weight window production</li>
+  <li>Hash based random number generation for complete reproducibility</li>
+</ul>
+
+<h1 id="features">Features</h1>
+
+<ul>
+  <li>Multigroup physics
+    <ul>
+      <li>Capture</li>
+      <li>Isotropic scattering</li>
+      <li>Fission (prompt and delayed)</li>
+    </ul>
+  </li>
+  <li>Continuous energy physics
+    <ul>
+      <li>NJOY generated point-wise data,
+        <ol>
+          <li>Room temperature</li>
+          <li>Assumed linear interpolation</li>
+        </ol>
+      </li>
+      <li>Capture (MT=102-117)</li>
+      <li>Fission (prompt and delayed)</li>
+      <li>Scattering (non-capture &amp; non-fission)
+        <ol>
+          <li>Isotropic elastic scattering in COM</li>
+          <li>Free gas, constant XS model for thermal scattering</li>
+        </ol>
+      </li>
+      <li>Support almost all nuclides</li>
+    </ul>
+  </li>
+  <li>Geometry
+    <ul>
+      <li>Surface-tracking</li>
+      <li>Quadric CSG surface</li>
+      <li>Multi-level lattice</li>
+      <li>Time-dependent planar surfaces</li>
+    </ul>
+  </li>
+  <li>Simulation modes
+    <ul>
+      <li>Fixed-source (time-dependent)</li>
+      <li>k-Eigenvalue</li>
+    </ul>
+  </li>
+  <li>Running modes: Python, Numba</li>
+  <li>Parallel support
+    <ul>
+      <li>MPI</li>
+      <li>Numba-CUDA (via Harmonize)</li>
+      <li>Domain decomposition</li>
+      <li>Reproducibility (via hash-based RNG seeding)</li>
+    </ul>
+  </li>
+</ul>
 
         
       </section>

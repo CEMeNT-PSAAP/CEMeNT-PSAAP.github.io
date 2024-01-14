@@ -95,7 +95,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -120,7 +120,7 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/about">About</a>
             </li><li class="masthead__menu-item">
-              <a href="https://cement-psaapgithubio.readthedocs.io/en/latest/">MC/DC</a>
+              <a href="/mcdc/">MC/DC</a>
             </li><li class="masthead__menu-item">
               <a href="/members/">Members</a>
             </li><li class="masthead__menu-item">
@@ -282,18 +282,177 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>We make every effort to support open science. All our preprints are available by either arcvix or zenodo. See our <a href="https://zenodo.org/communities/cement/?page=1&amp;size=20">zenodo community</a> for more info. Otherwise we provide a pdf with all of our publications produced with our grant:</p>
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#books">Books</a></li><li><a href="#journal-articles">Journal Articles</a></li><li><a href="#conference-publications">Conference Publications</a></li><li><a href="#courses-and-teaching-materials">Courses and Teaching Materials</a></li><li><a href="#software-data-and-collections">Software, Data, and Collections</a></li><li><a href="#theses-and-dissertations">Theses and Dissertations</a></li><li><a href="#conference-presentations">Conference Presentations</a></li><li><a href="#poster-presentations">Poster Presentations</a></li></ul>
 
-<figure class=" ">
-  
-    
-      <a href="/assets/Documents/citations.pdf">
-          <img src="/assets/Documents/citations.png" alt="Publications!" />
-      </a>
-    
-  
-  
-</figure>
+            </nav>
+          </aside>
+        
+        <p>We make every effort to support open science. All our preprints are available by either arcvix or zenodo. See our <a href="https://zenodo.org/communities/cement/?page=1&amp;size=20">zenodo community</a>.</p>
+
+<h1 id="books">Books</h1>
+
+<ul>
+  <li>C. T. Kelley. Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
+Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN <a href="https://epubs.siam.org/doi/book/10.1137/1.9781611977271">978-1-61197-726-4</a>.</li>
+</ul>
+
+<h1 id="journal-articles">Journal Articles</h1>
+
+<ul>
+  <li>B. Whewell, R. G. McClarren, C. D. Hauck &amp; M. Shin “Multigroup Neutron Transport Using a Collision-Based Hybrid Method”, Nuclear Science and Engineering, 197:7, 1386-1405, (2023) DOI: <a href="https://doi.org/10.1080/00295639.2022.2154119">10.1080/00295639.2022.2154119</a></li>
+  <li>B. Cuneo and M. Bailey. 2023. Divergence Reduction in Monte Carlo Neutron Transport with On-GPU Asynchronous Scheduling. ACM Trans. Model. Comput. Simul. (October 2023). DOI <a href="https://doi.org/10.1145/3626957">10.1145/3626957</a></li>
+  <li>C. T. Kelley. “Newton’s Method in Mixed Precision.” SIAM Review, volume 64, pp. 191–211 (2022). DOI <a href="https://epubs.siam.org/doi/pdf/10.1137/20M1342902">10.1137/20M1342902</a></li>
+  <li>S. Pasmann, I. Variansyah, C. T. Kelley, and R. McClarren. “A Quasi-Monte Carlo Method with Krylov Linear Solvers for Multigroup Neutron Transport Simulations.” <em>Nuclear Science and Engineering</em> (2023).  Published online Jan 12, 2023. DOI <a href="https://doi.org/10.1080/00295639.2022.2143704">10.1080/00295639.2022.2143704</a>, <a href="https://arxiv.org/abs/2209.02404">Preprint</a></li>
+  <li>I. Variansyah and R. G. McClarren. “Analysis of Population Control Techniques for Time-Dependent and Eigenvalue Monte Carlo Neutron Transport Calculations.” Nuclear Science an Engineering, volume 196:11, pp. 1280–1305 (2022). DOI <a href="ttps://doi.org/10.1080/00295639.2022.2091906">10.1080/00295639.2022.2091906</a>, <a href="https://arxiv.org/abs/2202.08631">Preprint</a></li>
+  <li>J. Kusch, B. Whewell, R. McClarren, M. Frank, “A low-rank power iteration scheme for neutron transport criticality problems”. Journal of Computational Physics Volume 470, 2022, 111587, ISSN 0021-9991, DOI <a href="https://doi.org/10.1016/j.jcp.2022.111587">10.1016/j.jcp.2022.111587</a>.</li>
+  <li>E. Smith, I. Variansyah, and R. G. McClarren. “Variable Dynamic Mode Decomposition for Estimating Time Eigenvalues in Nuclear Systems.” Nuclear Science and Engineering (2022). DOI <a href="https://doi.org/10.1080/00295639.2022.2142025">10.1080/00295639.2022.2142025</a>, <a href="https://arxiv.org/abs/2208.10942">Preprint</a></li>
+</ul>
+
+<h1 id="conference-publications">Conference Publications</h1>
+
+<ul>
+  <li>I. Variansyah, J. P. Morgan, K. E. Niemeyer, and R. G. McClarren. “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023). <a href="https://doi.org/10.48550/arXiv.2305.13555">Preprint</a></li>
+  <li>I. Variansyah and R. G. McClarren. “High-fidelity treatment for object movement in time- dependent Monte Carlo transport simulations.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023).</li>
+  <li>I. Variansyah and R. G. McClarren. “An effective initial particle sampling technique for Monte Carlo reactor transient simulations.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada
+(2023).</li>
+  <li>E. Smith, I. Variansyah, and R. G. McClarren. “Compressed Dynamic Mode Decomposition for Time-Eigenvalue Calculations.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023).</li>
+  <li>K. B. Clements, G. Geraci, and A. J. Olson. “Numerical Investigation on the Performance of a Variance Deconvolution Estimator.” In <em>American Nuclear Society Annual Meeting</em>. Anaheim, California, United States (2022).</li>
+  <li>K. B. Clements, G. Geraci, A. J. Olson, and T. Palmer. “Global Sensitivity Analysis in Monte Carlo Radiation Transport.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023).</li>
+  <li>S. Pasmann, I. Variansyah, C. T. Kelley, and R. McClarren. “iQMC: Iterative Quasi-Monte Carlo with Krylov Linear Solvers for k-Eigenvalue Neutron Transport Simulations.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023).</li>
+  <li>J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023). <a href="https://doi.org/10.48550/arXiv.2305.13555">Preprint</a></li>
+  <li>J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” In <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (2023). <a href="https://doi.org/10.48550/arXiv.2306.07847">Preprint</a></li>
+  <li>K. B. Clements, G. Geraci, and A. J. Olson, A Variance Deconvolution Approach to Sampling Uncertainty Quantification for Monte Carlo Radiation Transport Solvers, in Computer Science Research Institute Summer Proceedings 2021, J.D. Smith and E. Galvan, eds., Technical Report SAND2022-0653R, Sandia National Laboratories, 2021, pp. 293–307. <a href="https://zenodo.org/records/7231927">Preprint</a></li>
+  <li>I. Variansyah and R. G. McClarren. “An effective initial particle sampling technique for Monte Carlo reactor transient simulations.” In <em>International Conference on Physics of Reactors</em>. Pittsburgh, Pennsylvania, USA (2022).</li>
+  <li>E. Smith, I. Variansyah, and R. G. McClarren. “Variable Dynamic Mode Decomposition for Estimating Time Eigenvalues in Nuclear Systems.” In <em>International Conference on Physics of Reactors</em>. Pittsburgh, Pennsylvania, USA (2022).</li>
+  <li>J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” In <em>Transactions of the American Nuclear Society</em>, volume 126, p. 276–278. American Nuclear Society, Anaheim, CA (2022). <a href="https://doi.org/10.5281/zenodo.6643659.2">Preprint</a></li>
+  <li>A. J. Reynolds, &amp; T. S. Palmer. Verification and Scaling of Time-Dependent Shift Using the AZURV1 Benchmark. Transactions of the American Nuclear Society, 126. (2020) <a href="https://doi.org/10.5281/zenodo.7222601">Preprint</a></li>
+  <li>J. P. Morgan, T. S. Palmer, and K. E. Niemeyer. “Automatic Hardware Code Generation for Neutron Transport Applications.” In <em>Transactions of the American Nuclear Society</em>, volume 126, p. 318–320. American Nuclear Society, Anaheim, CA (2022). URL <a href="https://doi.org/10.5281/zenodo.6646813">Preprint</a>.</li>
+  <li>J. Northrop, C. Palmer, and A. Reynolds. “Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results.” In <em>Transactions of the American Nuclear Society</em>, volume 126. American Nuclear Society, Anaheim, CA (2022). URL <a href="https://doi.org/10.5281/zenodo.7250603">Preprint</a>.</li>
+  <li>D. Siefman, S. Coleman, J. Northrop, W. Zywiec, J. Holmes, M. Zerkle, D. Heinrichs, and C. Percher. “Pulsed-Neutron Die-Away Experiments for Plastics and Neutron Thermal Scattering Laws.” In <em>15th International Conference on Nuclear Data for Science and Technology (ND2022)</em>. Sacramento, CA (2022). URL https://doi.org/10.5281/ zenodo.7255291.</li>
+  <li>S. Pasmann, I. Variansyah, and R. G. McClarren. “Convergent Transport Source Iteration Calculations with Quasi-Monte Carlo.” In <em>Transactions of the American Nuclear Society</em>, volume 124, pp. 192–195. American Nuclear Society (2021).</li>
+</ul>
+
+<h1 id="courses-and-teaching-materials">Courses and Teaching Materials</h1>
+
+<ul>
+  <li>K. Niemeyer. Software Development for Engineering Research. ME 599. Oregon State University, North Carolina State University, <a href="https://github.com/SoftwareDevEngResearch">Course Materials available online </a></li>
+</ul>
+
+<h1 id="software-data-and-collections">Software, Data, and Collections</h1>
+
+<ul>
+  <li>
+    <p>R. McClarren, &amp; J. P. Morgan (2023). 2023 Monte Carlo Computational Summit. 2023 Monte Carlo Computational Summit, South Bend, IN, USA. Center for Exascale Monte Carlo Neutron Transport (CEMeNT). DOI <a href="https://doi.org/10.5281/zenodo.10207764">10.5281/zenodo.10207764</a></p>
+  </li>
+  <li>
+    <p>I. Variansyah, &amp; J. P. Morgan. (2023). Continous Energy Neutron Cross Section Data Library for MCDC (0.0.1) [Data set]. Center for Exascale Monte Carlo Neutron Transport (CEMeNT). DOI <a href="https://doi.org/10.5281/zenodo.10426266">10.5281/zenodo.10426266</a></p>
+  </li>
+  <li>
+    <p>C. T. Kelley. “Notebook for Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.” https://github.com/ctkelley/NotebookSIAMFANL (2022). URL https: //github.com/ctkelley/NotebookSIAM FANL. IJulia Notebook</p>
+  </li>
+  <li>
+    <p>C. T. Kelley. “SIAMFANLEquations.jl.” https://github.com/ctkelley/SIAMFANLEquations.jl
+(2022). URL https://github.com/ctkelley/SIAMFANLEquations.jl. Julia Package</p>
+  </li>
+  <li>
+    <p>I. Variansyah, J. P. Morgan, C. Goodman, S. Pasmann, &amp; J. Northrop. Monte Carlo / Dynamic Code (MC/DC) (0.1.0). 2023. DOI <a href="https://doi.org/10.5281/zenodo.7916215">10.5281/zenodo.7916215</a></p>
+  </li>
+  <li>
+    <p>I. Variansyah, J. P. Morgan, &amp; B. Cuneo (2023). MC/DC - Back in Track (0.0.1). DOI <a href="https://doi.org/10.5281/zenodo.7916258">https://doi.org/10.5281/zenodo.7916258</a></p>
+  </li>
+  <li>
+    <p>J. P. Morgan, &amp; I. Variansyah (2023). Therefore (0.0.1). DOI <a href="https://doi.org/10.5281/zenodo.7806833">10.5281/zenodo.7806833</a></p>
+  </li>
+</ul>
+
+<h1 id="theses-and-dissertations">Theses and Dissertations</h1>
+
+<ul>
+  <li>
+    <p>Jordan Northrop, Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results, Honors B.S. thesis, School of NSE, Oregon State University, Corvallis, OR 2022, Available: <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwik4YCs59uDAxWWMDQIHW63A-AQFnoECB0QAQ&amp;url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fb2774375j&amp;usg=AOvVaw1Tpc2s-6mkZWA2hun1Sm6W&amp;opi=89978449">online</a></p>
+  </li>
+  <li>
+    <p>Braxton Cuneo, Divergence Reduction and Dependency Management in GPU Programs using Asynchronous Work Scheduling, Ph.D dissertation, School of Computer Science, Oregon State University, Corvallis, OR 2022, Available: <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiezrin5duDAxX4GTQIHUAIDn0QFnoECCEQAQ&amp;url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fj9602766p%3Flocale%3Den&amp;usg=AOvVaw2sPsREcVWM_IuEX75gEri2&amp;opi=89978449">online</a></p>
+  </li>
+  <li>
+    <p>Joanna Piper Morgan, Explorations of Monte Carlo Solution and Implementation Methods
+for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME, Oregon State University, Corvallis, OR 2022, Available: <a href="https://jpmorgan98.github.io/assets/docs/masters.pdf">online</a></p>
+  </li>
+</ul>
+
+<h1 id="conference-presentations">Conference Presentations</h1>
+
+<ul>
+  <li>I. Variansyah and B. Cuneo. “MC/DC+Harmonize: JIT Compilation &amp; Asynchronous GPU scheduling” <em>The Monte Carlo Computational Summit</em>. University of Noter Dame South Bend, IN (October 2023) <a href="https://doi.org/10.5281/zenodo.10207764">Available</a></li>
+</ul>
+
+<p><strong>M&amp;C 2023</strong></p>
+<ul>
+  <li>
+    <p>I. Variansyah, J. P. Morgan, K. E. Niemeyer, and R. G. McClarren. “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023)</p>
+  </li>
+  <li>
+    <p>I. Variansyah and R. G. McClarren. “High-fidelity treatment for object movement in time- dependent Monte Carlo transport simulations.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023).</p>
+  </li>
+  <li>
+    <p>I. Variansyah and R. G. McClarren. “An effective initial particle sampling technique for Monte Carlo reactor transient simulations.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023).</p>
+  </li>
+  <li>
+    <p>E. Smith, I. Variansyah, and R. G. McClarren. “Compressed Dynamic Mode Decomposition for Time-Eigenvalue Calculations.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023).</p>
+  </li>
+  <li>
+    <p>K. Clements, G. Geraci, and A. J. Olson. “Numerical Investigation on the Performance of a Variance Deconvolution Estimator.” In <em>American Nuclear Society Annual Meeting</em>. Anaheim, California, United States (August 2022).</p>
+  </li>
+  <li>
+    <p>K. Clements, G. Geraci, A. J. Olson, and T. Palmer. “Global Sensitivity Analysis in Monte Carlo Radiation Transport.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023).</p>
+  </li>
+  <li>
+    <p>S. Pasmann, I. Variansyah, C. T. Kelley, and R. McClarren. “iQMC: Iterative Quasi-Monte Carlo with Krylov Linear Solvers for k-Eigenvalue Neutron Transport Simulations.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023).</p>
+  </li>
+  <li>
+    <p>J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023) <a href="">Slides available</a></p>
+  </li>
+  <li>
+    <p>J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” <em>International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering</em>. Niagara Falls, Ontario, Canada (August 2023) <a href="">Slides available</a></p>
+  </li>
+  <li>
+    <p>C. T. Kelly, “Anderson Acceleration for Nonsmooth Problems.” (2021). Minisymposium on Advances in Nesterov and Anderson acceleration with applications in machine learning, SIAM Conference on
+Computation Science and Engineeering.</p>
+  </li>
+  <li>
+    <p>C. T. Kelly, “Newton’s method in mixed precision.” (2021). HKBU Mathematics Conference for Faculty of Science 60th Anniversary, Hong Kong Baptist University</p>
+  </li>
+  <li>
+    <p>C. T. Kelly, “Anderson Acceleration: Convergence Theory and Numerical Experience.” (2022). Applied and Computational Mathematics Division Seminar Series, National Institute of Standards and Technology.</p>
+  </li>
+  <li>
+    <p>J. P. Morgan, T. S. Palmer, &amp; K. E. Niemeyer, “Hardware Code Generation Techniques for Accelerating Python.”, Scientific Python, Austin, Texas, USA, (July 2022) <a href="">Slides available</a></p>
+  </li>
+</ul>
+
+<p><strong>ANS Annual</strong></p>
+<ul>
+  <li>
+    <p>K. B. Clements, G. Geraci, and A. J. Olson, A Variance Deconvolution Approach to Sampling Uncertainty Quantification for Monte Carlo Radiation Transport Solvers, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2020)</p>
+  </li>
+  <li>
+    <p>J. P. Morgan, T. S. Palmer, &amp; K. E. Niemeyer, “Hardware Code Generation Techniques for Accelerating Python”, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2020) <a href="https://zenodo.org/records/6646833">Slides available</a></p>
+  </li>
+  <li>
+    <p>J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” Annual Meeting of the American Nuclear Society, Anaheim, CA (June 2022). <a href="https://doi.org/10.2172/1821347">Slides available</a></p>
+  </li>
+</ul>
+
+<h1 id="poster-presentations">Poster Presentations</h1>
+
+<ul>
+  <li>K. Clements, G. Geraci, &amp; A. Olson. A Variance Deconvolution Approach to Uncertainty Quantification for Monte Carlo Radiation Transport. Society for Industrial and Applied Mathematics Conference on Uncertainty Quantification (SIAM UQ22), Atlanta, Georgia (Hybrid virtual). (April 2022) <a href="https://doi.org/10.5678/1234321">Available</a></li>
+  <li>J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering. Niagara Falls, Ontario, Canada (August 2023). <a href="">Available</a></li>
+  <li>J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” High Energy Density Summer School, San Diego, California. (July 2023) <a href="">Available</a></li>
+</ul>
 
         
       </section>

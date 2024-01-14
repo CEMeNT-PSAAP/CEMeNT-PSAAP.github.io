@@ -30,6 +30,9 @@ Kayla Clements:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clemekay"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-3358-5618
 
 
 Aaron James Reynolds:
@@ -46,6 +49,9 @@ Aaron James Reynolds:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aaronjamesreynolds"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-1926-1107
 
 
 Braxton Cuneo:
@@ -62,6 +68,9 @@ Braxton Cuneo:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/braxtoncuneo"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-6493-0990
 
 
 Caleb Shaw:
@@ -88,6 +97,9 @@ Alexander Mote:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alexandermote"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0001-5099-0223
 
 
 Jordan Northrop:
@@ -101,6 +113,9 @@ Jordan Northrop:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/northroj"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-0420-9699
 
 
 Ben Whewell:
@@ -114,6 +129,9 @@ Ben Whewell:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bwhewe-13"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0001-7826-5525
 
 
 Ryan McClarren:
@@ -130,6 +148,9 @@ Ryan McClarren:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DrRyanMc"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-8342-6132
 
 Ilham Variansyah:
   name        : "Ilham Variansyah"
@@ -145,6 +166,9 @@ Ilham Variansyah:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ilhamv"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-3426-7160
 
 
 Camille Palmer:
@@ -161,6 +185,9 @@ Camille Palmer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cjlodwick"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-7573-4215
 
 Dmitriy Anistratov:
   name        : "Dmitriy Anistratov"
@@ -186,6 +213,9 @@ Lizhong Chen:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://engineering.oregonstate.edu/people/lizhong-chen"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0001-5890-7121
 
 
 Mike Bailey:
@@ -244,6 +274,9 @@ Sam Pasmann:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/spasmann"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-1391-1471
 
 
 C.T. Kelley:
@@ -282,6 +315,9 @@ Kyle Niemeyer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kyleniemeyer"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-4425-7097
 
 Joanna Morgan:
   name        : "Joanna Piper Morgan"
@@ -300,6 +336,9 @@ Joanna Morgan:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jpmorgan98/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-1379-5431
 
 
 Ethan Lame:

@@ -16,6 +16,8 @@ We make every effort to support open science. All our preprints are available by
 
 # Books
 
+* R. McClarren, Machine Learning for Engineers: Using data to solve problems for physical systems,
+Springer, ISBN13: [978-3030703875](https://link.springer.com/book/10.1007/978-3-030-70388-2), 2021.
 * C. T. Kelley. Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-61197-726-4](https://epubs.siam.org/doi/book/10.1137/1.9781611977271).
 

@@ -86,7 +86,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 * Joanna Piper Morgan, Explorations of Monte Carlo Solution and Implementation Methods
 for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME, Oregon State University, Corvallis, OR 2022, Available: [online](https://jpmorgan98.github.io/assets/docs/masters.pdf)
 
-# Conference Presentations
+# Presentations
 
 * I. Variansyah and B. Cuneo. "MC/DC+Harmonize: JIT Compilation & Asynchronous GPU scheduling" *The Monte Carlo Computational Summit*. University of Noter Dame South Bend, IN (October 2023) [Available](https://doi.org/10.5281/zenodo.10207764)
  
@@ -105,9 +105,7 @@ for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME
 
 * S. Pasmann, I. Variansyah, C. T. Kelley, and R. McClarren. “iQMC: Iterative Quasi-Monte Carlo with Krylov Linear Solvers for k-Eigenvalue Neutron Transport Simulations.” *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (August 2023).
 
-* J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (August 2023) [Slides available]()
-
-* J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (August 2023) [Slides available]()
+* J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (August 2023) DOI [10.5281/zenodo.10511837](https://doi.org/10.5281/zenodo.10511837)
 
 * C. T. Kelly, “Anderson Acceleration for Nonsmooth Problems.” (2021). Minisymposium on Advances in Nesterov and Anderson acceleration with applications in machine learning, SIAM Conference on
 Computation Science and Engineeering.
@@ -116,17 +114,25 @@ Computation Science and Engineeering.
 
 * C. T. Kelly, “Anderson Acceleration: Convergence Theory and Numerical Experience.” (2022). Applied and Computational Mathematics Division Seminar Series, National Institute of Standards and Technology.
 
-* J. P. Morgan, T. S. Palmer, & K. E. Niemeyer, “Hardware Code Generation Techniques for Accelerating Python.”, Scientific Python, Austin, Texas, USA, (July 2022) [Slides available]()
+* J. P. Morgan, T. S. Palmer, & K. E. Niemeyer, “Python Development Schemes for Monte Carlo Neutronics on High Performance Computing.”, Scientific Python, Austin, Texas, USA, (July 2022) DOI [10.25080/majora-212e5952-034](https://doi.org/10.25080/majora-212e5952-034)
 
 **ANS Annual**
-* K. B. Clements, G. Geraci, and A. J. Olson, A Variance Deconvolution Approach to Sampling Uncertainty Quantification for Monte Carlo Radiation Transport Solvers, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2020)
+* K. B. Clements, G. Geraci, and A. J. Olson, A Variance Deconvolution Approach to Sampling Uncertainty Quantification for Monte Carlo Radiation Transport Solvers, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2022)
 
-* J. P. Morgan, T. S. Palmer, & K. E. Niemeyer, “Hardware Code Generation Techniques for Accelerating Python”, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2020) [Slides available](https://zenodo.org/records/6646833)
+* J. P. Morgan, T. S. Palmer, & K. E. Niemeyer, “Hardware Code Generation Techniques for Accelerating Python”, Annual Meeting of the American Nuclear Society, Anaheim, California, USA, (June 2020) DOI. [10.5281/zenodo.6646833](https://doi.org/10.5281/zenodo.6646833)
 
-* J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” Annual Meeting of the American Nuclear Society, Anaheim, CA (June 2022). [Slides available](https://doi.org/10.2172/1821347)
+* J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” Annual Meeting of the American Nuclear Society, Anaheim, CA (June 2022). DOI [10.2172/1821347](https://doi.org/10.2172/1821347)
+
+* A.J. Reynolds and T.S. Palmer, “Verification and Scaling of Time-Dependent Shift Using the
+AZURV1 Benchmark”, American Nuclear Society Annual Meeting, Anaheim, CA, June 2022.
+
+A.J. Reynolds and T.S. Palmer, “Introduction to an MCGIDI Mini-App and Performance Comparisons with XSBench”, Tech. Rep. LLNL-SR-837024. Lawrence Livermore National Laboratory, 2022.
 
 # Poster Presentations
 
-* K. Clements, G. Geraci, & A. Olson. A Variance Deconvolution Approach to Uncertainty Quantification for Monte Carlo Radiation Transport. Society for Industrial and Applied Mathematics Conference on Uncertainty Quantification (SIAM UQ22), Atlanta, Georgia (Hybrid virtual). (April 2022) [Available](https://doi.org/10.5678/1234321)
-* J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering. Niagara Falls, Ontario, Canada (August 2023). [Available]()
-* J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” High Energy Density Summer School, San Diego, California. (July 2023) [Available]()
+* J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. “Exploring One-Cell Inversion Method for Transient Transport on GPU.” High Energy Density Summer School, San Diego, California. (July 2023) DOI [10.5281/zenodo.10515702](https://doi.org/10.5281/zenodo.10515702)
+
+* J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering. Niagara Falls, Ontario, Canada (August 2023). DOI [10.5281/zenodo.10511913](https://doi.org/10.5281/zenodo.10511913)
+
+
+* K. Clements, G. Geraci, & A. Olson. A Variance Deconvolution Approach to Uncertainty Quantification for Monte Carlo Radiation Transport. Society for Industrial and Applied Mathematics Conference on Uncertainty Quantification (SIAM UQ22), Atlanta, Georgia (Hybrid virtual). (April 2022) DOI. [10.5678/1234321](https://doi.org/10.5678/1234321)

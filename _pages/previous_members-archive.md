@@ -7,7 +7,7 @@ gallery:
   - url: /previous_members/vincent_novellino
     image_path: assets/bio/vincent_novellino.jpg
     alt: "Vincent Novellino"
-  - url: /previous_members/aaron_james_reynolds
+  - url: /previous_members/aaron_reynolds
     image_path: assets/bio/aaron_james_reynolds.jpg
     alt: "Aaron James Reynolds"
 ---

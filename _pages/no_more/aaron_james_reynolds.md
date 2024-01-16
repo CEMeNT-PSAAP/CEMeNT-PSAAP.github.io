@@ -2,7 +2,7 @@
 title: "Aaron James Reynolds"
 excerpt: "Postdoctoral Scholar, Oregon State University"
 classes: wide
-
+permalink: /previous_members/aaron_reynolds
 header:
     teaser: assets/bio/aaron_james_reynolds.jpg
 

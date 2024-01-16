@@ -355,4 +355,6 @@ Ethan Lame:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ethan-lame/"
-
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0001-7686-9755

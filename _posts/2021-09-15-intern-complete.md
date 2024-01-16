@@ -7,7 +7,7 @@ tags:
   - Article
   - Graduate Students
 
-author: Jackson Morgan
+author: Joanna Morgan
 
 ---
 
@@ -30,7 +30,7 @@ Braxton Cuneo (Lawrence Livermore National Lab)
 Sam Passman (Lawrence Livermore National Lab)
 : Tested a moment matching method for variance reduction in Monte Carlo simulations. Mentor Nick Gentile
     
-Jackson Morgan (Los Alamos National Lab)
+Joanna Morgan (Los Alamos National Lab)
 : Novel variance reduction technique in the energy spectra for Monte Carlo thermal radiative transport. Mentors: Alex Long, Kendra Long, and Siamon Bolding
 
 

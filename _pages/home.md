@@ -17,15 +17,16 @@ gallery:
   - url: https://www.nd.edu/
     image_path: assets/images/nd-logo.png
     alt: "University of Noter Dame"
-  - url: https://www.energy.gov/
-    image_path: assets/images/DOE_logo.png
-    alt: "United States Department of Energy"
-  - url: https://psaap.llnl.gov/
-    image_path: assets/images/psaapiii.png
-    alt: "PSAAP-III"
   - url: https://www.seattleu.edu/
     image_path: assets/images/SU.png
     alt: Seattle University
+  - url: https://psaap.llnl.gov/
+    image_path: assets/images/psaapiii.png
+    alt: "PSAAP-III"
+  - url: https://www.energy.gov/
+    image_path: assets/images/DOE_logo.png
+    alt: "United States Department of Energy"
+  
 
 
 

@@ -14,6 +14,9 @@ Todd Palmer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/palmerts"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-3310-5258
 
 
 Kayla Clements:

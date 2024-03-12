@@ -51,6 +51,8 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 # Conference Publications
 
+* [B. Cuneo](../members/braxton_cuneo/), and [I. Variansyah](../members/ilham_variansyah/). “An Alternative to Stride-Based RNG for Monte Carlo Transport.” Submitted to *American Nuclear Society Annual Meeting 2024*. Preprint DOI [arXiv:2403.06362](https://arxiv.org/abs/2403.06362v1)
+
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [K. E. Niemeyer](../members/kyle_niemeyer/), and [R. G. McClarren](../members/ryan_mcclarren/). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint DOI [10.48550/arXiv.2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 
 * [I. Variansyah](../members/ilham_variansyah/) and [R. G. McClarren](../members/ryan_mcclarren/). “High-fidelity treatment for object movement in time-dependent Monte Carlo transport simulations.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint [DOI 10.48550/arXiv.2305.07641](https://doi.org/10.48550/arXiv.2305.07641).

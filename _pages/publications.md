@@ -32,7 +32,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [C. T. Kelley](../members/ct_kelley/). Newton's Method in Three Precisions. To appear in *Pacific Journal of Optimization*. (2023) Preprint DOI [10.48550/arXiv.2307.16051](https://doi.org/10.48550/arXiv.2307.16051).
 
-* [C. J. Palmer](../members/camille_palmer), [J. Northrop](../members/jordan_northrop), [T.S. Palmer](../members/todd_palmer), [A. J. Reynolds](../previous_members/aaron_reynolds). Validation of Time-dependent Shift using the Pulsed Sphere Benchmarks. *Frontiers in Nuclear Engineering, Sec. Fission and Reactor Design.* Vol 2. (2023). DOI: [10.3389/fnuen.2023.1294583](https://doi.org/10.3389/fnuen.2023.1294583).
+* [C. J. Palmer](../members/camille_palmer), [J. Northrop](../members/jordan_northrop), [T. S. Palmer](../members/todd_palmer), [A. J. Reynolds](../previous_members/aaron_reynolds). Validation of Time-dependent Shift using the Pulsed Sphere Benchmarks. *Frontiers in Nuclear Engineering, Sec. Fission and Reactor Design.* Vol 2. (2023). DOI: [10.3389/fnuen.2023.1294583](https://doi.org/10.3389/fnuen.2023.1294583).
 
 *  [B. Whewell](../members/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/), C. D. Hauck & M. Shin "Multigroup Neutron Transport Using a Collision-Based Hybrid Method", Nuclear Science and Engineering, 197:7, 1386-1405, (2023) DOI: [10.1080/00295639.2022.2154119](https://doi.org/10.1080/00295639.2022.2154119).
 
@@ -50,6 +50,11 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 
 # Conference Publications
+
+[D.  Y. Anistratov](../members/dmitriy_anistratov) Analysis of Noise Effects in Hybrid Transport Methods Based on Low-Order Moment Equations The 27th International Conference on Transport Theory (ICTT27), Bertinoro, Italy, July 10-16, 2022.
+
+[V. Novellino](../previous_members/vincent_novellino) and  [D. Anistratov](../members/dmitriy_anistratov), Analysis of Hybrid MC/Deterministic Methods for Transport Problems  Based on Low-Order Equations Discretized by Finite Volume Scheme. *Transaction of American Nuclear Society*, v. 130, 2024 (Preprint arXiv:2403.05673
+ doi.org/10.48550/arXiv.2403.05673)
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [K. E. Niemeyer](../members/kyle_niemeyer/), and [R. G. McClarren](../members/ryan_mcclarren/). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint DOI [10.48550/arXiv.2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 
@@ -81,7 +86,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, and A. J. Olson. “Numerical Investigation on the Performance of a Variance Deconvolution Estimator.” In *American Nuclear Society Annual Meeting*. Anaheim, California, United States (2022).
 
-* [K. B. Clements](../members/kayla_clements/), G. Geraci, A. J. Olson, and T. Palmer. “Global Sensitivity Analysis in Monte Carlo Radiation Transport.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023).
+* [K. B. Clements](../members/kayla_clements/), G. Geraci, A. J. Olson, and [T. S. Palmer](../members/todd_palmer/). “Global Sensitivity Analysis in Monte Carlo Radiation Transport.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023).
 
 * [S. Pasmann](../members/sam_pasmann/), [I. Variansyah](../members/ilham_variansyah/), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). “iQMC: Iterative Quasi-Monte Carlo with Krylov Linear Solvers for k-Eigenvalue Neutron Transport Simulations.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023).
 
@@ -99,43 +104,43 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, and A. J. Olson. “Numerical Investigation on the Performance of a Variance Deconvolution Estimator.” In In *Transactions of the American Nuclear Society*, volume 126, p. 344-347. Anaheim, California, United States (2022). DOI [10.13182/T126-38365](https://doi.org/10.13182/T126-38365).
 
-* [A. J. Reynolds](/previous_members/aaron_reynolds), & [T. S. Palmer](../members/todd_palmer/). Verification and Scaling of Time-Dependent Shift Using the AZURV1 Benchmark. In *Transactions of the American Nuclear Society*, volume 126. p. 310-313. Anaheim, California, United States (2020) Preprint DOI [10.5281/zenodo.7222601](https://doi.org/10.5281/zenodo.7222601) DOI [10.13182/T126-38060](https://doi.org/10.13182/T126-38060).
+* [A. J. Reynolds](../previous_members/aaron_reynolds), & [T. S. Palmer](../members/todd_palmer/). Verification and Scaling of Time-Dependent Shift Using the AZURV1 Benchmark. In *Transactions of the American Nuclear Society*, volume 126. p. 310-313. Anaheim, California, United States (2020) Preprint DOI [10.5281/zenodo.7222601](https://doi.org/10.5281/zenodo.7222601) DOI [10.13182/T126-38060](https://doi.org/10.13182/T126-38060).
 
 * [J. P. Morgan](../members/joanna_morgan/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). “Automatic Hardware Code Generation for Neutron Transport Applications.” In Transactions of the American Nuclear Society, volume 126, p. 318–320. American Nuclear Society, Anaheim, CA (2022) Preprint DOI: [10.5281/zenodo.6646813](https://doi.org/10.5281/zenodo.6646813) DOI: [10.13182/T126-38137](https://doi.org/10.13182/T126-38137).
 
-* [J Northrop](../members/jordan_northrop), [C. Palmer](../members/camille_palmer), and [A. J. Reynolds](/previous_members/aaron_reynolds). “Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results.” In *Transactions of the American Nuclear Society*, volume 126. p. 334-337 American Nuclear Society, Anaheim, CA (2022). Preprint DOI: [10.5281/zenodo.7250603](https://doi.org/10.5281/zenodo.7250603) DOI (10.13182/T126-38312)[https://doi.org/10.13182/T126-38312].
+* [J Northrop](../members/jordan_northrop), [C. Palmer](../members/camille_palmer), and [A. J. Reynolds](../previous_members/aaron_reynolds). “Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results.” In *Transactions of the American Nuclear Society*, volume 126. p. 334-337 American Nuclear Society, Anaheim, CA (2022). Preprint DOI: [10.5281/zenodo.7250603](https://doi.org/10.5281/zenodo.7250603) DOI [10.13182/T126-38312](https://doi.org/10.13182/T126-38312).
 
-* D. Siefman, S. Coleman, [J. Northrop](../members/jordan_northrop), W. Zywiec, J. Holmes, M. Zerkle, D. Heinrichs, and C. Percher. “Pulsed-Neutron Die-Away Experiments for Plastics and Neutron Thermal Scattering Laws.” In *15th International Conference on Nuclear Data for Science and Technology (ND2022)*. Sacramento, CA (2022). URL https://doi.org/10.5281/ zenodo.7255291.
+* D. Siefman, S. Coleman, [J. Northrop](../members/jordan_northrop), W. Zywiec, J. Holmes, M. Zerkle, D. Heinrichs, and C. Percher. “Pulsed-Neutron Die-Away Experiments for Plastics and Neutron Thermal Scattering Laws.” In *15th International Conference on Nuclear Data for Science and Technology (ND2022)*. Sacramento, CA (2022). Preprint DOI: [10.5281/zenodo.7255291](https://doi.org/10.5281/zenodo.7255291).
+
 * [S. Pasmann](../members/sam_pasmann/), [I. Variansyah](../members/ilham_variansyah/), and [R. G. McClarren](../members/ryan_mcclarren/). “Convergent Transport Source Iteration Calculations with Quasi-Monte Carlo.” In *Transactions of the American Nuclear Society*, volume 124, pp. 192–195. American Nuclear Society (2021).
 
 
 # Courses and Teaching Materials
 
-* [K. E. Niemeyer](../members/kyle_niemeyer/). Software Development for Engineering Research. ME 599. Oregon State University, North Carolina State University, [Course Materials available online ](https://github.com/SoftwareDevEngResearch)
+* [K. E. Niemeyer](../members/kyle_niemeyer/). Software Development for Engineering Research. ME 599. Offered concurrently at *Oregon State University*, *University of Notre Dame*, and *North Carolina State University*, Course Materials available online. URL [https://github.com/SoftwareDevEngResearch](https://github.com/SoftwareDevEngResearch)
 
 
 # Software, Data, and Collections
 
-* [R. G. McClarren](../members/ryan_mcclarren/), & [J. P. Morgan](../members/joanna_morgan/) (2023). 2023 Monte Carlo Computational Summit. 2023 Monte Carlo Computational Summit, South Bend, IN, USA. Center for Exascale Monte Carlo Neutron Transport (CEMeNT). DOI [10.5281/zenodo.10207764](https://doi.org/10.5281/zenodo.10207764)
+* [R. G. McClarren](../members/ryan_mcclarren/), & [J. P. Morgan](../members/joanna_morgan/) (2023). "2023 Monte Carlo Computational Summit. 2023 Monte Carlo Computational Summit, South Bend, IN, USA." Center for Exascale Monte Carlo Neutron Transport (CEMeNT). [Presentation Collection]. DOI [10.5281/zenodo.10207764](https://doi.org/10.5281/zenodo.10207764)
 
-* [I. Variansyah](../members/ilham_variansyah/), & [J. P. Morgan](../members/joanna_morgan/). (2023). Continous Energy Neutron Cross Section Data Library for MCDC (0.0.1) [Data set]. Center for Exascale Monte Carlo Neutron Transport (CEMeNT). DOI [10.5281/zenodo.10426266](https://doi.org/10.5281/zenodo.10426266)
+* [I. Variansyah](../members/ilham_variansyah/), & [J. P. Morgan](../members/joanna_morgan/). (2023). "Continous Energy Neutron Cross Section Data Library for MCDC" (0.0.1) [Data set]. Center for Exascale Monte Carlo Neutron Transport (CEMeNT). DOI [10.5281/zenodo.10426266](https://doi.org/10.5281/zenodo.10426266)
 
-* [C. T. Kelley](../members/ct_kelley/). “Notebook for Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.” https://github.com/ctkelley/NotebookSIAMFANL (2022). URL https: //github.com/ctkelley/NotebookSIAM FANL. IJulia Notebook
+* [C. T. Kelley](../members/ct_kelley/). (2022). “Notebook for Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.” [IJulia Notebook]. URL [https://github.com/ctkelley/NotebookSIAMFANL](https://github.com/ctkelley/NotebookSIAMFANL).
 
-* [C. T. Kelley](../members/ct_kelley/). “SIAMFANLEquations.jl.” https://github.com/ctkelley/SIAMFANLEquations.jl
-(2022). URL https://github.com/ctkelley/SIAMFANLEquations.jl. Julia Package
+* [C. T. Kelley](../members/ct_kelley/). (2022). “SIAMFANLEquations.jl”. [Julia Package]. URL [https://github.com/ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl).
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [C. Goodman](../members/charles_goodman), [S. Pasmann](../members/sam_pasmann/), & [J. Northrop](../members/jordan_northrop). Monte Carlo / Dynamic Code (MC/DC) (0.1.0). 2023. DOI [10.5281/zenodo.7916215](https://doi.org/10.5281/zenodo.7916215)
 
-* [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), & [B. Cuneo](../members/braxton_cuneo/) (2023). MC/DC - Back in Track (0.0.1). DOI [https://doi.org/10.5281/zenodo.7916258](https://doi.org/10.5281/zenodo.7916258)
+* [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), & [B. Cuneo](../members/braxton_cuneo/) (2023). "MC/DC - Back in Track". (0.0.1). [Software]. DOI [https://doi.org/10.5281/zenodo.7916258](https://doi.org/10.5281/zenodo.7916258)
 
-*  [J. P. Morgan](../members/joanna_morgan/), & [I. Variansyah](../members/ilham_variansyah/) (2023). Therefore (0.0.1). DOI [10.5281/zenodo.7806833](https://doi.org/10.5281/zenodo.7806833)
+*  [J. P. Morgan](../members/joanna_morgan/), & [I. Variansyah](../members/ilham_variansyah/) (2023). "Therefore". (0.0.1). [Software]. DOI [10.5281/zenodo.7806833](https://doi.org/10.5281/zenodo.7806833)
 
 # Theses and Dissertations
 
-* Sam
+* [Samual Passman](). blah blah. Ph.D dissertation,
 
-* Jordan
+* [Jordan Northrop](../members/jordan_northrop) A Study of Variance Reduction for Time-Dependent Monte Carlo Neutron Transport. Masters of Science Thesis, School of NSE, Oregon State University, Corvallis, OR 2024
 
 * [Jordan Northrop](../members/jordan_northrop), Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results, Honors B.S. thesis, School of NSE, Oregon State University, Corvallis, OR 2022, Available: [online](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwik4YCs59uDAxWWMDQIHW63A-AQFnoECB0QAQ&url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fb2774375j&usg=AOvVaw1Tpc2s-6mkZWA2hun1Sm6W&opi=89978449)
 
@@ -145,7 +150,6 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME, Oregon State University, Corvallis, OR 2022, Available: [online](https://jpmorgan98.github.io/assets/docs/masters.pdf)
 
 # Presentations
-
 
 * [I. Variansyah](../members/ilham_variansyah/) and [B. Cuneo](../members/braxton_cuneo/). "MC/DC+Harmonize: JIT Compilation & Asynchronous GPU scheduling" *The Monte Carlo Computational Summit*. University of Noter Dame South Bend, IN (October 2023) [Available](https://doi.org/10.5281/zenodo.10207764)
  
@@ -179,10 +183,10 @@ for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME
 
 * [J. P. Morgan](../members/joanna_morgan/), A. Long, K. Long, and [K. E. Niemeyer](../members/kyle_niemeyer/). “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” Annual Meeting of the American Nuclear Society, Anaheim, CA (June 2022). DOI [10.2172/1821347](https://doi.org/10.2172/1821347)
 
-* [A. J. Reynolds](/previous_members/aaron_reynolds) and [T. S. Palmer](../members/todd_palmer/), “Verification and Scaling of Time-Dependent Shift Using the
+* [A. J. Reynolds](../previous_members/aaron_reynolds) and [T. S. Palmer](../members/todd_palmer/), “Verification and Scaling of Time-Dependent Shift Using the
 AZURV1 Benchmark”, American Nuclear Society Annual Meeting, Anaheim, CA, June 2022.
 
-* [A. J. Reynolds](/previous_members/aaron_reynolds) and [T. S. Palmer](../members/todd_palmer/), “Introduction to an MCGIDI Mini-App and Performance Comparisons with XSBench”, Tech. Rep. LLNL-SR-837024. Lawrence Livermore National Laboratory, 2022.
+* [A. J. Reynolds](../previous_members/aaron_reynolds) and [T. S. Palmer](../members/todd_palmer/), “Introduction to an MCGIDI Mini-App and Performance Comparisons with XSBench”, Tech. Rep. LLNL-SR-837024. Lawrence Livermore National Laboratory, 2022.
 
 # Poster Presentations
 

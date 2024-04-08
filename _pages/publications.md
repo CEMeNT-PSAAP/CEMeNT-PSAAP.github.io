@@ -26,7 +26,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, A. J. Olson, and [T. S. Palmer](../members/todd_palmer/). A variance deconvolution estimator for efficient uncertainty quantification in Monte Carlo radiation transport applications. Accepted *Journal of Quantitative Spectroscopy and Radiative Transfer*. (2024). DOI [10.1016/j.jqsrt.2024.108958](https://doi.org/10.1016/j.jqsrt.2024.108958).
 
-* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [S. Pasmann](../members/sam_pasmann), [K. B. Clements](../members/kayla_celements), [B. Cuneo](../members/braxton_cuneo), [A. Mote](../members/alexander_mote), [C. Goodman](../members/charles_goodman), [C. Shaw](../members/caleb_shaw), [J. Northrop](../members/jordan_northrop), R. Pankaj, [E. Lame](../members/ethan_lame), [B. Whewell](../members/ben_whewell), [R. McClarren](../members/ryan_mcclarren), [T. S. Palmer](../members/todd_palmer), [L. Chen](../members/lizhong_chen), [D. Anistratov](../members/dmitriy_anistratov), [C. T. Kelley](../members/ct_kelley), [C. Palmer](../members/camille_palmer), and [K. E. Niemeyer](../members/kyle_niemeyer). Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. Under Review. *Journal of Open Source Software*. (2024) DOI []().
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [S. Pasmann](../members/sam_pasmann), [K. B. Clements](../members/kayla_celements), [B. Cuneo](../members/braxton_cuneo), [A. Mote](../members/alexander_mote), [C. Goodman](../previous_members/), [C. Shaw](../members/caleb_shaw), [J. Northrop](../members/jordan_northrop), R. Pankaj, [E. Lame](../members/ethan_lame), [B. Whewell](../members/ben_whewell), [R. McClarren](../members/ryan_mcclarren), [T. S. Palmer](../members/todd_palmer), [L. Chen](../members/lizhong_chen), [D. Anistratov](../members/dmitriy_anistratov), [C. T. Kelley](../members/ct_kelley), [C. Palmer](../members/camille_palmer), and [K. E. Niemeyer](../members/kyle_niemeyer). Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. Accepted *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
 * [J. P. Morgan](../members/joanna_morgan), [A. Mote](../members/alexander_mote), [S. Pasmann](../members/sam_pasmann), G. Ridley, [T. S. Palmer](../members/todd_palmer), [K. E. Niemeyer](../members/kyle_niemeyer), [R. G. McClarren](../members/ryan_mcclarren). The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. Accepted *Journal of Computational and Theoretical Transport*. Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161) DOI []().
 
@@ -111,13 +111,15 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [C. T. Kelley](../members/ct_kelley/). (2022). “SIAMFANLEquations.jl”. [Julia Package]. URL [https://github.com/ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl).
 
-* [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [C. Goodman](../members/charles_goodman), [S. Pasmann](../members/sam_pasmann/), & [J. Northrop](../members/jordan_northrop). Monte Carlo / Dynamic Code (MC/DC) (0.1.0). 2023. DOI [10.5281/zenodo.7916215](https://doi.org/10.5281/zenodo.7916215)
+* [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [C. Goodman](.../previous_members/charles_goodman), [S. Pasmann](../members/sam_pasmann/), & [J. Northrop](../members/jordan_northrop). Monte Carlo / Dynamic Code (MC/DC) (0.1.0). 2023. DOI [10.5281/zenodo.7916215](https://doi.org/10.5281/zenodo.7916215)
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), & [B. Cuneo](../members/braxton_cuneo/) (2023). "MC/DC - Back in Track". (0.0.1). [Software]. DOI [https://doi.org/10.5281/zenodo.7916258](https://doi.org/10.5281/zenodo.7916258)
 
 * [J. P. Morgan](../members/joanna_morgan/), & [I. Variansyah](../members/ilham_variansyah/) (2023). "Therefore". (0.0.1). [Software]. DOI [10.5281/zenodo.7806833](https://doi.org/10.5281/zenodo.7806833)
 
-* [C. Goodman](../members/charles_goodman/). [K. B. Clements](../members/kayla_clements) DeNTminiapp. Software. Available Online [https://github.com/CEMeNT-PSAAP/DeNTminiapp](https://github.com/CEMeNT-PSAAP/DeNTminiapp)
+* [S. Pasmann](../members/sam_pasmann/) "iQMC". [Software]. 2023. Available online. [https://github.com/CEMeNT-PSAAP/iQMC](https://github.com/CEMeNT-PSAAP/iQMC)
+
+* [C. Goodman](../previous_members/charles_goodman/). [K. B. Clements](../members/kayla_clements) DeNTminiapp. Software. Available Online [https://github.com/CEMeNT-PSAAP/DeNTminiapp](https://github.com/CEMeNT-PSAAP/DeNTminiapp)
 
 * [J. P. Morgan](../members/joanna_morgan/). MC/DC - Toy Neuronics Test Bench. 2022. (0.0.1). Software. DOI [10.5281/zenodo.6366596](https://zenodo.org/doi/10.5281/zenodo.6366596)
 

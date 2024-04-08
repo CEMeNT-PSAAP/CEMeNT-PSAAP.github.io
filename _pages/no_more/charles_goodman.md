@@ -2,7 +2,7 @@
 title: "Charles Goodman"
 excerpt: "Graduate Student, North Carolina State University"
 classes: wide
-permalink: /previous_members/aaron_reynolds
+permalink: /previous_members/charles_goodman
 header:
     teaser: assets/bio/charles_goodman.jpg
 

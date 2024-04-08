@@ -29,12 +29,6 @@ var store = [{
         "url": "/members/camille_palmer/",
         "teaser": "/assets/bio/camille_palmer.jpg"
       },{
-        "title": "Charles Goodman",
-        "excerpt":"Education      Ph.D. Nuclear Engineering, North Carolina State University, in progress   M.S. Nuclear Engineering, North Carolina State University, in progress   B.S. Nuclear Engineering, North Carolina State University, Spring 2020   Biography   Charles is a graduate research assistant at North Carolina State University Department of Nuclear Engineering working towards his MS and PhD in nuclear engineering in Dr. Anistratov’s lab.   Research   He is conducting research under Dr. Anistratov exploring hybrid deterministic-stochastic methods for neutron transport problems. Interests include scientific computing, numerical analysis, and acceleration techniques.  ","categories": [],
-        "tags": [],
-        "url": "/members/charles_goodman/",
-        "teaser": "/assets/bio/charles_goodman.jpg"
-      },{
         "title": "C.T. Kelley",
         "excerpt":"Education      Ph.D. Purdue University, Applied Mathematics, 1976   B.S. Vanberbilt University, Mathematics, 1973   Biography   At North Carolina State University since 1978.   Prior to arriving at NCSU, Kelley was an assistant scientist (aka postdoc) at the US Army Mathematics Research Center in Madison WI.   Kelley is a Drexel Professor of Mathematics and is a fellow of the Society for Industrial and Applied Mathematics (SIAM) and the American Assocaiation for the Advancement of Science (AAAS).   Research  Kelley’s research interests are in linear/nonlinear equations, radiative transfer problems, multilevel methods for integral equations, optimal control, optimization of noisy functions, flow in porous media, and computational quantum chemistry and physics.  ","categories": [],
         "tags": [],

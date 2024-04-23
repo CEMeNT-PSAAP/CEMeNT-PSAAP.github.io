@@ -74,7 +74,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, and A. J. Olson. “Numerical Investigation on the Performance of a Variance Deconvolution Estimator.” In *American Nuclear Society Annual Meeting*. Anaheim, California, United States (2022).
 
-* [D.  Y. Anistratov](../members/dmitriy_anistratov) Analysis of Noise Effects in Hybrid Transport Methods Based on Low-Order Moment Equations The 27th International Conference on Transport Theory (ICTT27), Bertinoro, Italy, July 10-16, 2022.
+* [D.  Y. Anistratov](../members/dmitriy_anistratov). Analysis of Noise Effects in Hybrid Transport Methods Based on Low-Order Moment Equations The 27th International Conference on Transport Theory (ICTT27), Bertinoro, Italy, July 10-16, 2022.
 
 * [I. Variansyah](../members/ilham_variansyah/) and [R. G. McClarren](../members/ryan_mcclarren/). “Performance of Population Control Techniques in Monte Carlo Reactor Criticality Simulation.” In *International Conference on Physics of Reactors*. Pittsburgh, Pennsylvania, USA (2022).
 
@@ -138,9 +138,15 @@ for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME
 
 # Presentations
 
-* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). Exploring One-Cell Inversions for Transient Transport on GPUs. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024). [Available](https://doi.org/10.5281/zenodo.10207764)
+* [C. T. Kelley](../members/ct_kelley/). Newton's Method in Three Precisions. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024).
 
-* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [B. Cuneo](../members/braxton_cuneo/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). High Performance Python for Rapid Methods Development in Monte Carlo / Dynamic Code. *3rd Scientific Software Sustainability Conference (S3C) at National Laboratories Information Technology (NLIT) Summit*. Seattle, WA, USA (April 2024). [Available](https://doi.org/10.5281/zenodo.10207764)
+* [D.  Y. Anistratov](../members/dmitriy_anistratov). Stability Analysis of Two-Level Nonlinear Acceleration Method for the Linear Boltzmann Transport Equation. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024).
+
+* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). Exploring One-Cell Inversions for Transient Transport on GPUs. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024).
+
+* [B. Cuneo](../members/braxton_cuneo/). Abstracting and Accelerating GPU Processing through an Async Programming Interface. *3rd Scientific Software Sustainability Conference (S3C) at National Laboratories Information Technology (NLIT) Summit*. Seattle, WA, USA (April 2024).
+
+* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [B. Cuneo](../members/braxton_cuneo/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). High Performance Python for Rapid Methods Development in Monte Carlo / Dynamic Code. *3rd Scientific Software Sustainability Conference (S3C) at National Laboratories Information Technology (NLIT) Summit*. Seattle, WA, USA (April 2024). [Available](https://zenodo.org/doi/10.5281/zenodo.10961826)
 
 * [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [B. Cuneo](../members/braxton_cuneo/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). Acceleration and Abstraction of Python based Monte Carlo Compute Kernels for Heterogeneous machines via Numba. *NUWEST*, Albuquerque, NM <small> unable to attend due to weather.
 
@@ -183,8 +189,8 @@ AZURV1 Benchmark”, American Nuclear Society Annual Meeting, Anaheim, CA, June 
 
 # Poster Presentations
 
-* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” High Energy Density Summer School, San Diego, California. (July 2023) DOI [10.5281/zenodo.10515702](https://doi.org/10.5281/zenodo.10515702)
-
 * [J. P. Morgan](../members/joanna_morgan/), T. J. Trahan, T. P. Burke, C. J. Josey, and [K. E. Niemeyer](../members/kyle_niemeyer/). “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering. Niagara Falls, Ontario, Canada (August 2023). DOI [10.5281/zenodo.10511913](https://doi.org/10.5281/zenodo.10511913)
+
+* [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah/), [T. S. Palmer](../members/todd_palmer/), and [K. E. Niemeyer](../members/kyle_niemeyer/). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” High Energy Density Summer School, San Diego, California. (July 2023) DOI [10.5281/zenodo.10515702](https://doi.org/10.5281/zenodo.10515702).
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, & A. Olson. A Variance Deconvolution Approach to Uncertainty Quantification for Monte Carlo Radiation Transport. Society for Industrial and Applied Mathematics Conference on Uncertainty Quantification (SIAM UQ22), Atlanta, Georgia (Hybrid virtual). (April 2022) DOI. [10.5678/1234321](https://doi.org/10.5678/1234321)

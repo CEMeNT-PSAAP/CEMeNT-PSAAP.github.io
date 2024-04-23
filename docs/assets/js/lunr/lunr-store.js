@@ -29,17 +29,17 @@ var store = [{
         "url": "/members/camille_palmer/",
         "teaser": "/assets/bio/camille_palmer.jpg"
       },{
-        "title": "Charles Goodman",
-        "excerpt":"Education      M.S. Nuclear Engineering, North Carolina State University, Winter 2024   B.S. Nuclear Engineering, North Carolina State University, Spring 2020  ","categories": [],
-        "tags": [],
-        "url": "/members/charles_goodman/",
-        "teaser": "/assets/bio/charles_goodman.jpg"
-      },{
         "title": "C.T. Kelley",
         "excerpt":"Education      Ph.D. Purdue University, Applied Mathematics, 1976   B.S. Vanberbilt University, Mathematics, 1973   Biography   At North Carolina State University since 1978.   Prior to arriving at NCSU, Kelley was an assistant scientist (aka postdoc) at the US Army Mathematics Research Center in Madison WI.   Kelley is a Drexel Professor of Mathematics and is a fellow of the Society for Industrial and Applied Mathematics (SIAM) and the American Assocaiation for the Advancement of Science (AAAS).   Research  Kelley’s research interests are in linear/nonlinear equations, radiative transfer problems, multilevel methods for integral equations, optimal control, optimization of noisy functions, flow in porous media, and computational quantum chemistry and physics.  ","categories": [],
         "tags": [],
         "url": "/members/ct_kelley/",
         "teaser": "/assets/bio/ct_kelley.jpg"
+      },{
+        "title": "David Leep",
+        "excerpt":"Biography   At CEMeNT, David is working on developing a translation function to convert OpenMC input files into MC/DC compatible base-line code for user configuration. This allows for a quick and easy conversion of OpenMC systems into MC/DC counterparts, useful for comparison between applications and learning MC/DC formatting.  ","categories": [],
+        "tags": [],
+        "url": "/members/david_leep/",
+        "teaser": "/assets/bio/bio-photo.jpg"
       },{
         "title": "Dmitriy Anistratov",
         "excerpt":"Education      Ph.D., Mathematical and Physical Sciences, Institute of Mathematical Modeling (now Keldysh Institute of Applied Mathematics), Russian Academy of Sciences   M.S.,Physics, Moscow Institute of Physics and Technology   Biography   Prior to joining NC State University in 2000, D. Anistratov was an R&amp;D staff member at Keldysh Institute for Applied Mathematics, USSR Academy of Sciences and Institute for Mathematical Modeling of Russian Academy of Sciences, Visiting Assistant Professor at  Department of Nuclear Engineering at Texas A&amp;M University. D. Anistratov has been a consultant and guest scientist to the computational transport group (CCS-2) at Los Alamos National Laboratory.   Research   D. Anistratov works in the field of computational physics, numerical analysis, particle transport theory. His research includes development of numerical methods for solving the Boltzmann equation, computational methods for problems of neutron transport and thermal radiative transfer, iteration methods, multiscale methods for multiphysics problems, discretization schemes for partial differential equations, asymptotic analysis, methods for reduction of dimensionality, homogenization methods for reactor-physics applications etc.  ","categories": [],
@@ -60,7 +60,7 @@ var store = [{
         "teaser": "/assets/bio/ilham_variansyah.jpg"
       },{
         "title": "Joanna Piper Morgan",
-        "excerpt":"Education      Ph.D. Mechanical Engineering, Oregon State University, 2025, In Progress   M.S. Mechanical Engineering, Oregon State University, 2022   B.S. Mechanical Engineering, Oregon Institute of Technology, 2020   Biography   At CEMeNT Joanna works on research to enable Python to run at Exascale using hardware code generating libraries. She is Dr. Niemeyer’s lab (NRG) and is currently on a co/op at Advanced Micro Devices (AMD) where she is adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.   She has previously worked at Los Alamos National Lab on adding delta tracking to a production Monte Carlo neutron transport code MCATK and researched novel variance reduction techniques for MC TRT applications. Before joining the center Joanna had previously worked at Argonne and Thomas Jefferson National Labs on particle accelerator magnet analysis.   Joanna also manages this website (please email her if you spot any typos).   For more info see her website   Research      Open source development methods for heterogenous exaclass compute hardware   Acceleration and abstraction of Python for HPC applications   Transient deterministic iterative methods for GPUs   Variance reduction techniques for radiation transport   Best practices for open source collaborative development  ","categories": [],
+        "excerpt":"Education      Ph.D. Mechanical Engineering, Oregon State University, 2025, In Progress   M.S. Mechanical Engineering, Oregon State University, 2022   B.S. Mechanical Engineering, Oregon Institute of Technology, 2020   Biography   At CEMeNT Joanna works on research to enable Python to run at Exascale on both CPUs and GPUs. She is also in Dr. Niemeyer’s lab (NRG) and is currently on a co/op at Advanced Micro Devices (AMD) where she is adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.   She has previously worked at Los Alamos National Lab on adding delta tracking to a production Monte Carlo neutron transport code MCATK and researched novel variance reduction techniques for MC TRT applications. Before joining the center Joanna had previously worked at Argonne and Thomas Jefferson National Labs on particle accelerator magnet analysis.   Joanna also manages this website (please email her if you spot any typos).   For more info see her website   Research      Open source development methods for heterogenous exaclass compute hardware   Acceleration and abstraction of Python for HPC applications   Transient deterministic iterative methods for GPUs   Variance reduction techniques for radiation transport   Best practices for open source collaborative development  ","categories": [],
         "tags": [],
         "url": "/members/joanna_morgan/",
         "teaser": "/assets/bio/joanna_morgan.jpg"

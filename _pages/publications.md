@@ -24,7 +24,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 # Journal Articles
 
-[S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
+* [S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, A. J. Olson, and [T. S. Palmer](../members/todd_palmer/). A variance deconvolution estimator for efficient uncertainty quantification in Monte Carlo radiation transport applications. Accepted *Journal of Quantitative Spectroscopy and Radiative Transfer*. (2024). DOI [10.1016/j.jqsrt.2024.108958](https://doi.org/10.1016/j.jqsrt.2024.108958).
 

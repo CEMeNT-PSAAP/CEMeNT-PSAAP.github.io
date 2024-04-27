@@ -95,6 +95,12 @@ var store = [{
         "url": "/members/mike_bailey/",
         "teaser": "/assets/bio/mike_bailey.jpg"
       },{
+        "title": "Rohan Pankaj",
+        "excerpt":"Education:      Sc.B. Electrical Engineering, Brown University   BA: International and Public Affairs (Security Track), Brown University.   Biography   Rohan is a double major in electrical engineering and international affairs at Brown University. He is passionate about blending engineering and policy to tackle challenges like energy independence and security. On MC/DC, Rohan worked on adding 3D visualizations of environment geometries.   Prior to interning with CEMeNT, Rohan worked on a variety of projects at Oregon State University, IBM, and a tech start-up.   ","categories": [],
+        "tags": [],
+        "url": "/members/rohan_pankaj/",
+        "teaser": "/assets/bio/rohan_pankaj.png"
+      },{
         "title": "Ryan McClarren",
         "excerpt":"Education      Ph.D. Nuclear Engineering and Radiological Sciences, University of Michigan, 2007   M.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2004   B.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2003   Biography   Professor McClarren’s research has been published in engineering, physics, mathematics, and statistics journals.   His particular areas of interest are particle transport (neutrons, x-rays, and friends), uncertainty quantification, and high-energy density physics.  ","categories": [],
         "tags": [],

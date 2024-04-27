@@ -152,6 +152,24 @@ David Leep:
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0009-0005-1353-4049
 
+Rohan Pankaj:
+  name        : "Rohan Pankaj"
+  bio         : "Undergraduate Researcher, Brown University"
+  avatar      : "/assets/bio/rohan_pankaj.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rohan_pankaj@brown.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/RohanPankaj
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0009-0005-0445-9323
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: https://www.rohanpankaj.com/
+
 Ryan McClarren:
   name        : "Ryan McClarren"
   bio         : "Predictive Science Colead & Deputy Center Director, University of Notre Dame: ME Dept."

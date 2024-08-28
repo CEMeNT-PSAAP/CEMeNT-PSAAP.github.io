@@ -18,7 +18,7 @@ author: Joanna Morgan
 
 ## Biography
 
-At CEMeNT Joanna works on research to enable Python to run at Exascale on both CPUs and GPUs. She is also in Dr. Niemeyer's lab (NRG) and is currently on a co/op at Advanced Micro Devices (AMD) where she is adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.
+At CEMeNT Joanna works on research to enable Python to run at Exascale on both CPUs and GPUs. She is also in Dr. Niemeyer's lab (NRG) and is currently and has previously had a co/op at Advanced Micro Devices (AMD) where she worked on adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.
 
 She has previously worked at Los Alamos National Lab on adding delta tracking to a production Monte Carlo neutron transport code MCATK and researched novel variance reduction techniques for MC TRT applications. Before joining the center Joanna had previously worked at Argonne and Thomas Jefferson National Labs on particle accelerator magnet analysis. 
 

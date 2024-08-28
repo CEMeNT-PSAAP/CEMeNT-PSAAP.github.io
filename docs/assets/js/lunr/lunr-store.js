@@ -90,7 +90,7 @@ var store = [{
         "teaser": "/assets/bio/lizhong_chen.jpg"
       },{
         "title": "Melek Derman",
-        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography   Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr.Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at AkdenizUniversity and earned her MS degree at Texas A&amp;M University with a study on the MCNPmodeling and simulations of Molten Salt Reactors.  ","categories": [],
+        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography  Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr. Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at Akdeniz University and earned her MS degree at Texas A&amp;M University with a study on the MCNP modeling and simulations of Molten Salt Reactors.  ","categories": [],
         "tags": [],
         "url": "/members/melek_derman/",
         "teaser": "/assets/bio/bio-photo.jpg"

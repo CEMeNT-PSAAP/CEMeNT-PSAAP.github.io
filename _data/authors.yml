@@ -333,7 +333,7 @@ C.T. Kelley:
 
 Kyle Niemeyer:
   name        : "Kyle Niemeyer"
-  bio         : "Exascale Software Engineering lead, Oregon State University: School of MIME"
+  bio         : "Exascale Software Engineering lead, Oregon State University, School of MIME"
   avatar      : "/assets/bio/kyle.jpg"
   links:
     - label: "Email"
@@ -357,7 +357,7 @@ Kyle Niemeyer:
 
 Joanna Morgan:
   name        : "Joanna Piper Morgan"
-  bio         : "(she/her) PhD Student, Oregon State University: School of MIME"
+  bio         : "(she/her) PhD Student, Oregon State University, School of MIME"
   avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"
@@ -379,7 +379,7 @@ Joanna Morgan:
 
 Ethan Lame:
   name        : "Ethan Lamé"
-  bio         : "Masters Student, Oregon State University: School of NSE"
+  bio         : "Masters Student, Oregon State University, School of NSE"
   avatar      : "/assets/bio/ethan_lame.jpg"
   links:
     - label: "Email"
@@ -396,7 +396,7 @@ Ethan Lame:
       url: https://orcid.org/0000-0001-7686-9755
 
 
-Ethan Lame:
+Melek Derman:
   name        : "Melek Derman"
   bio         : "Ph.D. Student, Oregon State University, School of NSE"
   avatar      : "/assets/bio/bio-photo.jpg"
@@ -413,3 +413,21 @@ Ethan Lame:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0000-0002-6124-6771
+
+Johannes Krotz:
+  name        : "Johannes Krotz"
+  bio         : "Post Doctoral Scholar, University of Notre Dame: ME Dept."
+  avatar      : "/assets/bio/johannes_krotz.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jkrotz@nd.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: " https://github.com/melekderman"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/johannes-krotz"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-6941-8857

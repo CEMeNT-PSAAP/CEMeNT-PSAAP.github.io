@@ -14,5 +14,4 @@ author: Melek Derman
 * B.S. Physics, Akdeniz University
 
 ## Biography
-
-Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr.Todd Palmer. Melek received her bachelor's degree in the Department of Physics at AkdenizUniversity and earned her MS degree at Texas A&M University with a study on the MCNPmodeling and simulations of Molten Salt Reactors.
+Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr. Todd Palmer. Melek received her bachelor's degree in the Department of Physics at Akdeniz University and earned her MS degree at Texas A&M University with a study on the MCNP modeling and simulations of Molten Salt Reactors.

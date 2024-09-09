@@ -65,6 +65,12 @@ var store = [{
         "url": "/members/joanna_morgan/",
         "teaser": "/assets/bio/joanna_morgan.jpg"
       },{
+        "title": "Johannes Krotz",
+        "excerpt":"Education     2024 PhD in Mathematics, Minor in CS, University of Tennessee Knoxville   2024 Master of Science in Statistics, University of Tennessee, Knoxville   2021 Master of Science in Mathematics, Oregon State University   2019 Master of Science in Physics, University of Konstanz   2018 Bachelor of Science in Mathematics, University of Konstanz   2015 Bachelor of Science in Physics, University of Konstanz   Biography  Johannes is a postdoc at Notre Dame specializing in numerical analysis, computational physics, and scientific computing. He applies statistical physics methods to improve computational tools and is exploring advanced machine learning techniques for interdisciplinary collaboration. His research also focuses on integrating data with physical models using statistical and deterministic dynamics, including data assimilation and Bayesian inference.  ","categories": [],
+        "tags": [],
+        "url": "/members/johannes_krotz/",
+        "teaser": "/assets/bio/johannes_krotz.jpg"
+      },{
         "title": "Jordan Northrop",
         "excerpt":"Education      M.S. Nuclear Engineering, Oregon State University, In progress   B.S. Nuclear Engineering, Oregon State University, 2022   Biography   Jordan Northrop is a nuclear engineering graduate student at Oregon State University working with Dr. Camille Palmer and Dr. Todd Palmer to model and simulate a time dependent small modular reactor challenge problem using Monte Carlo and hybrid methods. Previous work includes modeling the pulsed sphere benchmark problems for CEMeNT, modeling pulsed neutron die away experiments for LLNL, and using fission matrix methods to model TRIGA reactor pulses as an intern for the Westinghouse Fellows Program.  ","categories": [],
         "tags": [],
@@ -90,7 +96,7 @@ var store = [{
         "teaser": "/assets/bio/lizhong_chen.jpg"
       },{
         "title": "Melek Derman",
-        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography   Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr.Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at AkdenizUniversity and earned her MS degree at Texas A&amp;M University with a study on the MCNPmodeling and simulations of Molten Salt Reactors.  ","categories": [],
+        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography  Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr. Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at Akdeniz University and earned her MS degree at Texas A&amp;M University with a study on the MCNP modeling and simulations of Molten Salt Reactors.  ","categories": [],
         "tags": [],
         "url": "/members/melek_derman/",
         "teaser": "/assets/bio/bio-photo.jpg"

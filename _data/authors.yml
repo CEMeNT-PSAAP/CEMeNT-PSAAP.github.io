@@ -422,12 +422,9 @@ Johannes Krotz:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jkrotz@nd.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: " https://github.com/melekderman"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/johannes-krotz"
+      url: "https://www.linkedin.com/in/johannes-krotz"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0000-0002-6941-8857

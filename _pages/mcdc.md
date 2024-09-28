@@ -19,7 +19,7 @@ It includes a full testing library (unit, regression, verification, performance)
 # CEMeNT research implemented in MC/DC
 * Fully transient transport 
 * iQMC hybrid Monte Carlo iterative methods
-* Intrusive UQ
+* Embedded UQ
 * Python acceleration and abstraction techniques for CPUs and GPUs
 * Asynchronous GPU scheduling 
 * Automatic transient weight window production

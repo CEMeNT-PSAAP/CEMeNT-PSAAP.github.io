@@ -1,8 +1,7 @@
 ---
 title: "Vincent Novellino"
-excerpt: "Graduate Student, North Carolina State University"
+excerpt: "PhD Student, North Carolina State University"
 classes: wide
-permalink: /previous_members/vincent_novellino
 
 header:
     teaser: assets/bio/vincent_novellino.jpg
@@ -20,5 +19,3 @@ Vincent is a graduate research assistant at North Carolina State University Depa
 He is conducting research under Dr. Anistratov exploring hybrid methods for conducting Monte Carlo simulations for neutral particle transport problems.
 Previous work includes comparing the two-step method to VERA, a high fidelity reactor modeling software, for PWRs fueled with HALEU fuel.
 Interest include advanced reactor design, monte carlo methods for neutron transport problems, and reactor modeling and simulation.
-
-**He is no longer associated with CEMeNT**

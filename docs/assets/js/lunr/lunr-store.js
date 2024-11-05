@@ -35,12 +35,6 @@ var store = [{
         "url": "/members/ct_kelley/",
         "teaser": "/assets/bio/ct_kelley.jpg"
       },{
-        "title": "David Leep",
-        "excerpt":"Education     B.S. Nuclear Engineering, Oregon State University (June 2024)   Biography   At CEMeNT, David is working on developing a translation function to convert OpenMC input files into MC/DC compatible base-line code for user configuration. This allows for a quick and easy conversion of OpenMC systems into MC/DC counterparts, useful for comparison between applications and learning MC/DC formatting.  ","categories": [],
-        "tags": [],
-        "url": "/members/david_leep/",
-        "teaser": "/assets/bio/bio-photo.jpg"
-      },{
         "title": "Dmitriy Anistratov",
         "excerpt":"Education      Ph.D., Mathematical and Physical Sciences, Institute of Mathematical Modeling (now Keldysh Institute of Applied Mathematics), Russian Academy of Sciences   M.S.,Physics, Moscow Institute of Physics and Technology   Biography   Prior to joining NC State University in 2000, D. Anistratov was an R&amp;D staff member at Keldysh Institute for Applied Mathematics, USSR Academy of Sciences and Institute for Mathematical Modeling of Russian Academy of Sciences, Visiting Assistant Professor at  Department of Nuclear Engineering at Texas A&amp;M University. D. Anistratov has been a consultant and guest scientist to the computational transport group (CCS-2) at Los Alamos National Laboratory.   Research   D. Anistratov works in the field of computational physics, numerical analysis, particle transport theory. His research includes development of numerical methods for solving the Boltzmann equation, computational methods for problems of neutron transport and thermal radiative transfer, iteration methods, multiscale methods for multiphysics problems, discretization schemes for partial differential equations, asymptotic analysis, methods for reduction of dimensionality, homogenization methods for reactor-physics applications etc.  ","categories": [],
         "tags": [],
@@ -118,12 +112,6 @@ var store = [{
         "tags": [],
         "url": "/members/ryan_mcclarren/",
         "teaser": "/assets/bio/ryan_mcclarren.jpg"
-      },{
-        "title": "Sam Pasmann",
-        "excerpt":"Education      Ph.D. Mechanical Engineering, University of Notre Dame, 2024   M.S. Engineering and Entrepreneurship, University of Notre Dame   B.S. Mechanical Engineering, University of Portland   Biography   Dr. Pasmann’s PhD dissertation was done in conjunction with his work with CEMeNT. Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.  ","categories": [],
-        "tags": [],
-        "url": "/members/sam_pasmann/",
-        "teaser": "/assets/bio/sam_pasmann.jpg"
       },{
         "title": "Todd Palmer",
         "excerpt":"Professor   Lead PI, Radiation Transport and Reactor Physics Research Group   Education     Ph.D. Nuclear Engineering and Scientific Computing, University of Michigan   M.S. Nuclear Engineering   B.S. Nuclear Engineering, Oregon State University   At Oregon State since 1995.   Todd Palmer’s fields of interest include: numerical techniques for radiation transport and diffusion, reactor physics, general numerical methods, Monte Carlo methods, radiation transport in stochastic mixtures, and computational fluid dynamics.   Prior to Oregon State, Palmer served as a Physicist in Defense Sciences at Lawrence Livermore National Laboratory (1991-1994). While at Oregon State, Palmer has served as a consultant to Lawrence Livermore National Laboratory, Battelle Pacific Northwest National Laboratory, Los Alamos National Laboratory, and Siemens Nuclear Power Corporation.  ","categories": [],

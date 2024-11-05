@@ -17,4 +17,5 @@ author: Sam Pasmann
 
 ## Biography
 
-Sam works in Dr. McClarren's lab on iterative hybrid Monte Carlo methods.
+Dr. Pasmann's PhD dissertation was done in conjunction with his work with CEMeNT.
+Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.

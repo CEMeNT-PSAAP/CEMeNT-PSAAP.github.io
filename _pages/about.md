@@ -28,7 +28,7 @@ The project has three main thrusts in the areas of:
 * Exascale Software Engineering
 * Predictive Science
 
-We are lead by Dr. Todd Palmer (Oregon State University) with researchers in nuclear engineering, computer science, software engineering, mechanical engineering, computational physics, and mathematics who are supported by eight graduate students. So far, work related to and funded by the center has resulted in one PhD, one MS, and one Honors BS, with many more to come.
+We are lead by Dr. Todd Palmer (Oregon State University) with researchers in nuclear engineering, computer science, software engineering, mechanical engineering, computational physics, and mathematics who are supported by eight graduate students. So far, work related to and funded by the center has resulted in two PhD, three MS, and one Honors BS, with many more to come.
 
 {% include gallery %}
 

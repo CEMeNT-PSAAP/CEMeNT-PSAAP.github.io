@@ -120,7 +120,7 @@ var store = [{
         "teaser": "/assets/bio/ryan_mcclarren.jpg"
       },{
         "title": "Sam Pasmann",
-        "excerpt":"Education      Ph.D. Mechanical Engineering, University of Notre Dame, 2024   M.S. Engineering and Entrepreneurship, University of Notre Dame   B.S. Mechanical Engineering, University of Portland   Biography   Sam works in Dr. McClarren’s lab on iterative hybrid Monte Carlo methods.  ","categories": [],
+        "excerpt":"Education      Ph.D. Mechanical Engineering, University of Notre Dame, 2024   M.S. Engineering and Entrepreneurship, University of Notre Dame   B.S. Mechanical Engineering, University of Portland   Biography   Dr. Pasmann’s PhD dissertation was done in conjunction with his work with CEMeNT. Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.  ","categories": [],
         "tags": [],
         "url": "/members/sam_pasmann/",
         "teaser": "/assets/bio/sam_pasmann.jpg"

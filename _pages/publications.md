@@ -24,6 +24,10 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 # Journal Articles
 
+* [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. **UNDER REVIEW**. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems.
+
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2306.07847](https://doi.org/10.48550/arXiv.2306.07847).
+
 * [S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
 
 * [K. B. Clements](../members/kayla_clements/), G. Geraci, A. J. Olson, and [T. S. Palmer](../members/todd_palmer/). A variance deconvolution estimator for efficient uncertainty quantification in Monte Carlo radiation transport applications. Accepted *Journal of Quantitative Spectroscopy and Radiative Transfer*. (2024). DOI [10.1016/j.jqsrt.2024.108958](https://doi.org/10.1016/j.jqsrt.2024.108958).
@@ -51,6 +55,9 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 * E. Smith, [I. Variansyah](../members/ilham_variansyah/), and [R. G. McClarren](../members/ryan_mcclarren/). “Variable Dynamic Mode Decomposition for Estimating Time Eigenvalues in Nuclear Systems.” Nuclear Science and Engineering (2022). DOI [10.1080/00295639.2022.2142025](https://doi.org/10.1080/00295639.2022.2142025), [Preprint](https://arxiv.org/abs/2208.10942).
 
 # Conference Publications
+
+* [B. Cuneo](../members/braxton_cuneo/) and [I. Variansyah](../members/ilham_variansyah). “An Alternative to Stride-Based RNG for Monte Carlo Transport.” In
+Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (2024). DOI [10.13182/T130-44927](https://doi.org/10.13182/T130-44927)
 
 * [V. Novellino](../previous_members/vincent_novellino) and  [D. Anistratov](../members/dmitriy_anistratov), Analysis of Hybrid MC/Deterministic Methods for Transport Problems  Based on Low-Order Equations Discretized by Finite Volume Scheme. *Transaction of American Nuclear Society*, v. 130, 2024 [Preprint DOI: 10.48550/arXiv:2403.05673](doi.org/10.48550/arXiv.2403.05673)
 
@@ -125,7 +132,9 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [J. P. Morgan](../members/joanna_morgan/). MC/DC - Toy Neuronics Test Bench. 2022. (0.0.1). Software. DOI [10.5281/zenodo.6366596](https://zenodo.org/doi/10.5281/zenodo.6366596)
 
-# Theses and Dissertations
+# Dissertations and Theses
+
+* [Alexander Mote](../members/alex_mote). Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. Masters of Science Thesis. School of Computer Science and Engineering, Oregon State University, Corvallis, OR USA. May 30 2024. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/gx41ms56m)
 
 * [Samual Passman](../members/sam_passman). Development of the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations. Ph.D. dissertation. Department of Aerospace and Mechanical Engineering, University of Noter Dame, South Bend, IN, USA, 2024 
 
@@ -139,6 +148,8 @@ for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME
 * [Jordan Northrop](../members/jordan_northrop). Inter-code Comparison of Time Independent Pulsed Sphere Benchmark Results, Honors B.S. thesis, School of NSE, Oregon State University, Corvallis, OR 2022, Available: [online](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwik4YCs59uDAxWWMDQIHW63A-AQFnoECB0QAQ&url=https%3A%2F%2Fir.library.oregonstate.edu%2Fdownloads%2Fb2774375j&usg=AOvVaw1Tpc2s-6mkZWA2hun1Sm6W&opi=89978449)
 
 # Presentations
+
+* [J. P. Morgan](../members/joanna_morgan/) and [K. E. Niemeyer](../members/kyle_niemeyer/). Monte Carlo/Dynamic Code: Performant and Portable High-Performance Computing at Scale via Python and Numba. *Proceedings of the 23rd Python in Science Conference* July 12 2024. Tachoma, WA, USA. DOI [10.25080/cdrf9272](https://doi.org/10.25080/cdrf9272)
 
 * [C. T. Kelley](../members/ct_kelley/). Newton's Method in Three Precisions. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024).
 

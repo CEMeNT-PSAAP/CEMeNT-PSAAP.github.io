@@ -8,7 +8,7 @@ classes: wide
 
 {% include figure url="https://github.com/CEMeNT-PSAAP/MCDC" image_path="/assets/images/mcdc.svg" alt="MC/DC" %}
 [<i class='fab fa-fw fa-github'></i> MC/DC on GitHub](https://github.com/CEMeNT-PSAAP/MCDC){: .btn .btn--primary .btn--x-large}
-[<i class='fa fa-book fa-fw'></i> Read the Docs](https://cement-psaapgithubio.readthedocs.io/en/latest/){: .btn .btn--primary .btn--x-large}
+[<i class='fa fa-book fa-fw'></i> Read the Docs](https://mcdc.readthedocs.io/en/latest/){: .btn .btn--primary .btn--x-large}
 [<i class='fa fa-newspaper'></i> M&C Intro Paper](https://arxiv.org/abs/2305.07636){: .btn .btn--primary .btn--x-large}
 
 Monte Carlo / Dynamic Code (MC/DC) is the primary deliverable for our center.
@@ -49,9 +49,9 @@ It includes a full testing library (unit, regression, verification, performance)
 * Simulation modes
     - Fixed-source (time-dependent)
     - k-Eigenvalue
-* Running modes: Python, Numba
+* Running modes: Python, Numba (CPU and GPU)
 * Parallel support
     - MPI
-    - Numba-CUDA (via Harmonize)
+    - GPU SIMT on Nvidia and AMD GPUs/APUs (via Harmonize)
     - Domain decomposition
     - Reproducibility (via hash-based RNG seeding)

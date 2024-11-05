@@ -2,9 +2,10 @@
 title: "Sam Pasmann"
 excerpt: "PhD Candidate, University of Notre Dame"
 classes: wide
-
+permalink: /previous_members/sam_pasmann
 header:
     teaser: assets/bio/sam_pasmann.jpg
+
 
 author: Sam Pasmann
 
@@ -17,4 +18,5 @@ author: Sam Pasmann
 
 ## Biography
 
-Sam works in Dr. McClarren's lab on iterative hybrid Monte Carlo methods.
+Dr. Pasmann's PhD dissertation was done in conjunction with his work with CEMeNT.
+Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.

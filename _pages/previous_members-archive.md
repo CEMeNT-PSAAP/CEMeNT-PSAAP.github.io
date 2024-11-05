@@ -10,8 +10,14 @@ gallery:
   - url: /previous_members/charles_goodman
     image_path: assets/bio/charles_goodman.jpg
     alt: "Charles Goodman"
+  - url: /previous_members/sam_pasmann
+    image_path: assets/bio/sam_pasmann.jpg
+    alt: "Sam Pasmann"
+  - url: /previous_members/david_leep
+    image_path: assets/bio/bio-photo.jpg
+    alt: "David Leep"
 ---
 
-Shown in alphabetical order:
+=
 
 {% include gallery %}

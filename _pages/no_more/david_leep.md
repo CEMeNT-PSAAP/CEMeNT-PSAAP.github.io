@@ -2,6 +2,7 @@
 title: "David Leep"
 excerpt: "Undergraduate Researcher, Oregon State University"
 classes: wide
+permalink: /previous_members/david_leep
 header:
     teaser: assets/bio/bio-photo.jpg
 author: David Leep

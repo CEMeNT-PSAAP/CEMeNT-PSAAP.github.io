@@ -26,7 +26,8 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 * [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. **UNDER REVIEW**. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems.
 
-* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2306.07847](https://doi.org/10.48550/arXiv.2306.07847).
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2409.04668](    
+https://doi.org/10.48550/arXiv.2409.04668).
 
 * [S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
 

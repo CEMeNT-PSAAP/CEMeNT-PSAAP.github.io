@@ -57,9 +57,14 @@ https://doi.org/10.48550/arXiv.2409.04668).
 
 # Conference Publications
 
+* [E. Lamé](../members/ethan_lame), [C. J. Palmer](../members/camille_palmer), [T. S. Palmer](../members/todd_palmer), [I. Variansyah](../members/ilham_variansyah), [R. G. McClarren](../members/ryan_mcclarren/). Post-processing Results From a Monte Carlo Neutron Transport Code Using Compressed Sensing. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
+* [J. P. Morgan](../members/joanna_morgan/), [B. Cuneo](../members/braxton_cuneo/), [I. Variansyah](../members/ilham_variansyah), [K. E. Niemeyer](../members/kyle_niemeyer). Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. Preprint DOI [10.48550/arXiv.2501.05440](https://doi.org/10.48550/arXiv.2501.05440).
+
+* [B. Cuneo](../members/braxton_cuneo/), [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah), [K. E. Niemeyer](../members/kyle_niemeyer). Comparing the Performance of MC/DC's on-GPU Event-based Processing Methods in Multigroup and Continuous-energy Problems. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
 * [B. Cuneo](../members/braxton_cuneo/) and [I. Variansyah](../members/ilham_variansyah). “An Alternative to Stride-Based RNG for Monte Carlo Transport.” In
 Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (2024). DOI [10.13182/T130-44927](https://doi.org/10.13182/T130-44927)
-
 * [V. Novellino](../previous_members/vincent_novellino) and  [D. Anistratov](../members/dmitriy_anistratov), Analysis of Hybrid MC/Deterministic Methods for Transport Problems  Based on Low-Order Equations Discretized by Finite Volume Scheme. *Transaction of American Nuclear Society*, v. 130, 2024 [Preprint DOI: 10.48550/arXiv:2403.05673](doi.org/10.48550/arXiv.2403.05673)
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [J. Northrop](../members/jordan_northrop) [K. E. Niemeyer](../members/kyle_niemeyer/), and [R. G. McClarren](../members/ryan_mcclarren/). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint DOI [10.48550/arXiv.2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
@@ -135,9 +140,13 @@ Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (202
 
 # Dissertations and Theses
 
+* [Kayla Beth Clements](../members/kayla_clements/). . Ph.D. dissertation. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. December 2024.
+
+* [Benjamin Joseph Whewell](../previous_members/ben_whewell). Hybrid Numerical Methods and Solution Verification for the Neutron Transport Equation. Ph.D. dissertation. Dept. Aerospace and Mechanical Engineering,  University of Notre Dame, South Bend, IN USA. November 2024. [online](https://curate.nd.edu/articles/dataset/Hybrid_Numerical_Methods_and_Solution_Verification_for_the_Neutron_Transport_Equation/27927858?file=51111842)
+
 * [Alexander Mote](../members/alex_mote). Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. Masters of Science Thesis. School of Computer Science and Engineering, Oregon State University, Corvallis, OR USA. May 30 2024. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/gx41ms56m)
 
-* [Samual Passman](../members/sam_passman). Development of the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations. Ph.D. dissertation. Department of Aerospace and Mechanical Engineering, University of Noter Dame, South Bend, IN, USA, 2024 
+* [Samual Passman](../members/sam_passman). Development of the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations. Ph.D. dissertation. Department of Aerospace and Mechanical Engineering, University of Notre Dame, South Bend, IN, USA, 2024. [online](https://curate.nd.edu/articles/dataset/Development_of_the_Iterative_Quasi-Monte_Carlo_iQMC_Method_for_Neutron_Transport_Simulations/25607787)
 
 * [Jordan Northrop](../members/jordan_northrop). Variance Reduction for Time-Dependent Monte Carlo Neutron Transport. Masters of Science Thesis, School of NSE, Oregon State University, Corvallis, OR 2024
 

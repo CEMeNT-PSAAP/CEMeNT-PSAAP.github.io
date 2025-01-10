@@ -21,7 +21,7 @@ Todd Palmer:
 
 Kayla Clements:
   name        : "Kayla Clements"
-  bio         : "PhD Candidate, Oregon State University: School of NSE"
+  bio         : "Alumni Researcher"
   avatar      : "/assets/bio/kayla_clements.jpg"
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ Jordan Northrop:
 
 Ben Whewell:
   name        : "Ben Whewell"
-  bio         : "PhD Student, University of Notre Dame"
+  bio         : "PhD, University of Notre Dame"
   avatar      : "/assets/bio/ben_whewell.jpg"
   links:
     - label: "Email"
@@ -295,7 +295,7 @@ Vincent Novellino:
 
 Sam Pasmann:
   name        : "Sam Pasmann"
-  bio         : "PhD Candidate, University of Notre Dame: ME Dept."
+  bio         : "Alumni Researcher"
   avatar      : "/assets/bio/sam_pasmann.jpg"
   links:
     - label: "Email"
@@ -357,7 +357,7 @@ Kyle Niemeyer:
 
 Joanna Morgan:
   name        : "Joanna Piper Morgan"
-  bio         : "(she/her) PhD Student, Oregon State University, School of MIME"
+  bio         : "(she/her) PhD Candidate, Oregon State University, School of MIME"
   avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"

@@ -1,6 +1,6 @@
 ---
 title: "Kayla Clements"
-excerpt: "PhD Candidate, Oregon State University"
+excerpt: "PhD, Oregon State University"
 classes: wide
 
 header:
@@ -23,4 +23,4 @@ Dr. Clement's PhD research was directly affiliated with CEMeNT.
 
 ## Research
 
-She is working on variance deconvolution methods with staff researches at Sandia National Lab
+She is working on variance deconvolution methods

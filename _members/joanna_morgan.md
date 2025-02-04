@@ -1,6 +1,6 @@
 ---
 title: "Joanna Piper Morgan"
-excerpt: "PhD Student, Oregon State University"
+excerpt: "PhD Candidate, Oregon State University"
 classes: wide
 
 header:

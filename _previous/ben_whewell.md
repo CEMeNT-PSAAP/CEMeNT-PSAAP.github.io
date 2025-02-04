@@ -1,8 +1,7 @@
 ---
 title: "Ben Whewell"
-excerpt: "PhD Student, University of Notre Dame"
+excerpt: "PhD, University of Notre Dame"
 classes: wide
-permalink: /previous_members/ben_whewell
 
 header:
     teaser: assets/bio/ben_whewell.jpg
@@ -10,6 +9,8 @@ header:
 author: Ben Whewell
 
 ---
+
+**He is no longer associated with CEMeNT**
 
 Dr. Whewell graduated with his Ph.D. and is no longer affiliated with CEMeNT.
 

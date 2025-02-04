@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-[People previously associated with CEMeNT](/previous_members/)
+[People previously associated with CEMeNT](../previous/)
 
 Team members of the CEMeNT project are shown below in alphabetical order:
 

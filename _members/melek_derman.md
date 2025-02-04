@@ -1,6 +1,6 @@
 ---
 title: "Melek Derman"
-excerpt: "Ph.D. Student, Oregon State University"
+excerpt: "PhD Student, Oregon State University"
 classes: wide
 header:
     teaser: assets/bio/bio-photo.jpg

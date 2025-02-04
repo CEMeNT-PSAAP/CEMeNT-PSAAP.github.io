@@ -1,13 +1,14 @@
 ---
 title: "David Leep"
-excerpt: "Undergraduate Researcher, Oregon State University"
+excerpt: "Undergraduate, Oregon State University"
 classes: wide
-permalink: /previous_members/david_leep
 header:
     teaser: assets/bio/bio-photo.jpg
 author: David Leep
 
 ---
+
+**He is no longer associated with CEMeNT**
 
 ## Education
 * B.S. Nuclear Engineering, Oregon State University (June 2024)

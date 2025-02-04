@@ -1,8 +1,7 @@
 ---
 title: "Sam Pasmann"
-excerpt: "PhD Candidate, University of Notre Dame"
+excerpt: "PhD, University of Notre Dame"
 classes: wide
-permalink: /previous_members/sam_pasmann
 header:
     teaser: assets/bio/sam_pasmann.jpg
 

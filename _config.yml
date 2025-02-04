@@ -239,7 +239,7 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
-  theory:
+  previous:
     output: true
     permalink: /:collection/:path/
 
@@ -275,6 +275,14 @@ defaults:
   - scope:
       path: "_theory"
       type: theory
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # previous 
+  - scope:
+      path: "_previous"
+      type: previous
     values:
       layout: single
       author_profile: true

@@ -21,7 +21,7 @@ Todd Palmer:
 
 Kayla Clements:
   name        : "Kayla Clements"
-  bio         : "Alumni Researcher"
+  bio         : "Postdoctoral Scholar, Oregon State University"
   avatar      : "/assets/bio/kayla_clements.jpg"
   links:
     - label: "Email"
@@ -107,7 +107,7 @@ Alexander Mote:
 
 Jordan Northrop:
   name        : "Jordan Northrop"
-  bio         : "Masters Student, Oregon State University: School of NSE"
+  bio         : "PhD Student, Oregon State University: School of NSE"
   avatar      : "/assets/bio/jordan_northrop.jpg"
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ Jordan Northrop:
 
 Ben Whewell:
   name        : "Ben Whewell"
-  bio         : "PhD, University of Notre Dame"
+  bio         : "PhD Graduate, University of Notre Dame"
   avatar      : "/assets/bio/ben_whewell.jpg"
   links:
     - label: "Email"
@@ -256,7 +256,7 @@ Lizhong Chen:
 
 Mike Bailey:
   name        : "Mike Bailey"
-  bio         : "Reasearcher in GPU Realated Computer Science, Oregon State University: Computer Science Dept."
+  bio         : "Researcher in GPU Related Computer Science, Oregon State University: Computer Science Dept."
   avatar      : "/assets/bio/mike_bailey.jpg"
   links:
     - label: "Email"
@@ -357,7 +357,7 @@ Kyle Niemeyer:
 
 Joanna Morgan:
   name        : "Joanna Piper Morgan"
-  bio         : "(she/her) PhD Candidate, Oregon State University, School of MIME"
+  bio         : "PhD Candidate, Oregon State University, School of MIME"
   avatar      : "/assets/bio/joanna_morgan.jpg"
   links:
     - label: "Email"

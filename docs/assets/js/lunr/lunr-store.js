@@ -53,6 +53,12 @@ var store = [{
         "url": "/members/joanna_morgan/",
         "teaser": "/assets/bio/joanna_morgan.jpg"
       },{
+        "title": "Joey Farmer",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members/joey_farmer/",
+        "teaser": "/assets/bio/bio-photo.jpg"
+      },{
         "title": "Johannes Krotz",
         "excerpt":"Education     2024 PhD in Mathematics, Minor in CS, University of Tennessee Knoxville   2024 Master of Science in Statistics, University of Tennessee, Knoxville   2021 Master of Science in Mathematics, Oregon State University   2019 Master of Science in Physics, University of Konstanz   2018 Bachelor of Science in Mathematics, University of Konstanz   2015 Bachelor of Science in Physics, University of Konstanz   Biography  Johannes is a postdoc at Notre Dame specializing in numerical analysis, computational physics, and scientific computing. He applies statistical physics methods to improve computational tools and is exploring advanced machine learning techniques for interdisciplinary collaboration. His research also focuses on integrating data with physical models using statistical and deterministic dynamics, including data assimilation and Bayesian inference.  ","categories": [],
         "tags": [],
@@ -66,7 +72,7 @@ var store = [{
         "teaser": "/assets/bio/jordan_northrop.jpg"
       },{
         "title": "Kayla Clements",
-        "excerpt":"Education      Ph.D. Nuclear Engineering, Oregon State University, 2024   B.S. Nuclear Engineering, University of Florida, 2019   Biography   Dr. Kayla Clements is a graduate Oregon State University (advisor Dr. Todd Palmer). Prior to starting at Oregon State, Kayla worked as a reactor physics intern at Idaho National Laboratory developing MCNP models for the Transient Reactor Test Facility, and as a national nuclear data center intern at Brookhaven National Laboratory automating data generation using EMPIRE.   Dr. Clement’s PhD research was directly affiliated with CEMeNT.   Research   She is working on variance deconvolution methods with staff researches at Sandia National Lab  ","categories": [],
+        "excerpt":"Education      Ph.D. Nuclear Engineering, Oregon State University, 2024   B.S. Nuclear Engineering, University of Florida, 2019   Biography   Dr. Kayla Clements is a graduate Oregon State University (advisor Dr. Todd Palmer). Prior to starting at Oregon State, Kayla worked as a reactor physics intern at Idaho National Laboratory developing MCNP models for the Transient Reactor Test Facility, and as a national nuclear data center intern at Brookhaven National Laboratory automating data generation using EMPIRE.   Dr. Clement’s PhD research was directly affiliated with CEMeNT.   Research   She is working on variance deconvolution methods  ","categories": [],
         "tags": [],
         "url": "/members/kayla_clements/",
         "teaser": "/assets/bio/kayla_clements.jpg"
@@ -87,7 +93,7 @@ var store = [{
         "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography  Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr. Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at Akdeniz University and earned her MS degree at Texas A&amp;M University with a study on the MCNP modeling and simulations of Molten Salt Reactors.  ","categories": [],
         "tags": [],
         "url": "/members/melek_derman/",
-        "teaser": "/assets/bio/bio-photo.jpg"
+        "teaser": "/assets/bio/melek_derman.jpg"
       },{
         "title": "Mike Bailey",
         "excerpt":"Education   Ph.D. Computer Aided Design and Computer Graphics, Purdue University, 1979 M.S. Computer Graphics and Computer Aided Design, Purdue University, 1976 B.S. Mechanical Engineering, Purdue University, 1975   Biography   Mike Bailey is a professor in computer science at Oregon State University. His areas of interest include scientific visualization, high performance computer graphics, solid freeform fabrication, geometric modeling, and computer aided design and analysis.   Mike received his Ph.D. from Purdue University in computer graphics and computer aided design in 1979. From 1979-1981 he was a member of Sandia National Laboratories’ technical staff, specializing in developing 3D graphics tools for mechanical designers. From 1981-1985, Mike was an assistant and associate professor at Purdue University. In 1985, Mike became the director of advanced development at Megatek Corporation, where he managed a group of engineers who were charged with developing Megatek’s next generation of computer graphics technology. From 1989-2004 Mike was the director of visualization at the San Diego Supercomputer Center and an adjunct professor at the University of California San Diego. He joined the Oregon State faculty in 2004.   Mike is a member of the Association of Computing Machinery (ACM), the Special Interest Group on Computer Graphics (ACM-SIGGRAPH), the Institute of Electrical and Electronics Engineers (IEEE), and the American Society of Mechanical Engineers (ASME). He has served on a number of conference committees, including co-chairing the 1991 SIGGRAPH international conference and the IEEE Visualization conference in 2001.   Mike has presented numerous technical papers and short courses at a variety of conferences and workshops.   Mike has taught a variety of college classes to over 2,900 students. UCSD’s graduating computer science seniors voted him Teacher of the Year 5 years in a row, from 1997-2002.   ","categories": [],
@@ -137,15 +143,33 @@ var store = [{
         "url": "/articles/intern-complete/",
         "teaser": null
       },{
-        "title": "ANS Roundtable Talks ",
-        "excerpt":"Persenations that were given at the ANS roundtable in June of 2021      Accelerating Transport Codes on Newer Architectures   PARTISN: Enabling a 20th Century FORTRAN Transport Code to Meet 21st Century Challenges   More Than a Port: Challenges in GPU-Based Monte Carlo and Method of Characteristics Particle Transport   Cognitive Simulations for Inertial Confinement Fusion   Optimal Operations of Advanced Reactors  ","categories": [],
+        "title": "Aaron James Reynolds",
+        "excerpt":"He is no longer associated with CEMeNT   Education     Ph.D. Nuclear Engineering, Oregon State University (2020)   B.S. Electrical Engineering, Montana State University (2015)   At Oregon State since 2020.   Aaron Reynolds’ research interests include:     methods development for reactor analysis   multiphysics coupling using multilevel projective approaches   His efforts at CEMeNT focus on development of a time-dependent hybrid deterministic/Monte Carlo method to be used on modern computing architectures.   Prior to working with CEMeNT, Reynolds worked with Oak Ridge National Laboratory developing control rod depletion and fuel performance modeling capabilities in the the Virtual Environment for Reactor Applications. In his dissertation research, a multilevel nonlinear projective method in cylindrical geometry was developed for circulating fuel reactor kinetics.  ","categories": [],
         "tags": [],
-        "url": "/theory/ans_roundtable_6-21/",
-        "teaser": null
+        "url": "/previous/aaron_james_reynolds/",
+        "teaser": "/assets/bio/aaron_james_reynolds.jpg"
       },{
-        "title": "Pulsed Sphere Experiment",
-        "excerpt":"Produced programs will be compared against the pulsed sphere experiment. For more information and theory regarding that see the following list of documents:      Improving the LLNL Pulsed Sphere Experiments Database and MCNP Models   Neutron and Gamma-Ray Spectra from a Variety of Materials Bombarded with 14-MeV Neutrons   Evaluation of Pulsed Sphere Time-of-Flight and Neutron Attenuation Experimental Benchmarks Using MCNP6’s Unstructured Mesh Capabilities   New Monte Carlo Simulations of the LLNL Pulsed-Sphere Experiments   Modern Calculations of Pulsed-Sphere Time-of-Flight Experiments Using the Mercury Monte Carlo Transport Code   Livermore Pulsed Sphere Program: Program Summary Through July 1971  ","categories": [],
+        "title": "Ben Whewell",
+        "excerpt":"He is no longer associated with CEMeNT   Dr. Whewell graduated with his Ph.D. and is no longer affiliated with CEMeNT.   Education      Ph.D. Mechanical Engineering, University of Notre Dame   B.S. Nuclear Energy Engineering, Thomas Edison State University   Biography   Ben is a former member of Dr. McClarren’s lab at the University Notre Dame. His dissertation research is associated with  ","categories": [],
         "tags": [],
-        "url": "/theory/pulsed_sphere_experiment/",
-        "teaser": null
+        "url": "/previous/ben_whewell/",
+        "teaser": "/assets/bio/ben_whewell.jpg"
+      },{
+        "title": "Charles Goodman",
+        "excerpt":"He is no longer associated with CEMeNT   Education      M.S. Nuclear Engineering, North Carolina State University, Winter 2024   B.S. Nuclear Engineering, North Carolina State University, Spring 2020  ","categories": [],
+        "tags": [],
+        "url": "/previous/charles_goodman/",
+        "teaser": "/assets/bio/charles_goodman.jpg"
+      },{
+        "title": "David Leep",
+        "excerpt":"He is no longer associated with CEMeNT   Education     B.S. Nuclear Engineering, Oregon State University (June 2024)   Biography   At CEMeNT, David is working on developing a translation function to convert OpenMC input files into MC/DC compatible base-line code for user configuration. This allows for a quick and easy conversion of OpenMC systems into MC/DC counterparts, useful for comparison between applications and learning MC/DC formatting.  ","categories": [],
+        "tags": [],
+        "url": "/previous/david_leep/",
+        "teaser": "/assets/bio/bio-photo.jpg"
+      },{
+        "title": "Sam Pasmann",
+        "excerpt":"Education      Ph.D. Mechanical Engineering, University of Notre Dame, 2024   M.S. Engineering and Entrepreneurship, University of Notre Dame   B.S. Mechanical Engineering, University of Portland   Biography   Dr. Pasmann’s PhD dissertation was done in conjunction with his work with CEMeNT. Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.  ","categories": [],
+        "tags": [],
+        "url": "/previous/sam_pasmann/",
+        "teaser": "/assets/bio/sam_pasmann.jpg"
       }]

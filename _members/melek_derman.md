@@ -3,7 +3,7 @@ title: "Melek Derman"
 excerpt: "PhD Student, Oregon State University"
 classes: wide
 header:
-    teaser: assets/bio/bio-photo.jpg
+    teaser: assets/bio/melek_derman.jpg
 author: Melek Derman
 
 ---

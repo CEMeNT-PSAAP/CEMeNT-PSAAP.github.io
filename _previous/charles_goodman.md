@@ -1,6 +1,6 @@
 ---
 title: "Charles Goodman"
-excerpt: "Graduate Student, North Carolina State University"
+excerpt: "M.S., North Carolina State University"
 classes: wide
 header:
     teaser: assets/bio/charles_goodman.jpg

@@ -24,9 +24,11 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 
 # Journal Articles
 
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization. Pre-peer-review Preprint DOI [10.48550/arXiv.2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
+
 * [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. **UNDER REVIEW**. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. Preprint DOI [10.48550/arXiv.2411.03389](https://arxiv.org/abs/2411.03389)
 
-* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2409.04668](    
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. Accepted *IEEE Computing in Science and Engineering*. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2409.04668](    
 https://doi.org/10.48550/arXiv.2409.04668).
 
 * [S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
@@ -57,14 +59,29 @@ https://doi.org/10.48550/arXiv.2409.04668).
 
 # Conference Publications
 
+* [K. B. Clements](../members/kayla_clements/), [T. S. Palmer](../members/todd_palmer), A. J. Olson, G. Geraci, [I. Variansyah](../members/ilham_variansyah). Monte Carlo Uncertainty Quantification and Sensitivity Analysis for the C5G7 Benchmark. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
+* [A. Mote](../members/alex_mote), [T. S. Palmer](../members/todd_palmer), [L. Chen](../members/lizhong_chen). Improvements in MC/DC Domain Decomposition Functionality. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. 
+
+* [V. Novellino](../previous_members/vincent_novellino), [D.  Y. Anistratov](../members/dmitriy_anistratov). Convergence of Multi-Level Hybrid Monte Carlo Methods for 1-D Particle Transport Problems. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
+* [S. Pasmann](../members/sam_pasmann/), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/) and [R. G. McClarren](../members/ryan_mcclarren/). A Batch Power Iteration Approach for the Iterative Quasi-Monte Carlo Method Using a Randomized-Halton Sequence. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
+* [C. Shaw](../members/caleb_shaw), [D.  Y. Anistratov](../members/dmitriy_anistratov). Hybrid Weight Window Techniques for Time-Dependent Monte Carlo Neutronics. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. 
+
+* [I. Variansyah](../members/ilham_variansyah), [R. G. McClarren](../members/ryan_mcclarren/), [T. S. Palmer](../members/todd_palmer). Implicit Collision Multiplicity Adjustment for Efficient Monte Carlo Transport Simulation of Reactivity Excursion. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
+* [I. Variansyah](../members/ilham_variansyah), [R. G. McClarren](../members/ryan_mcclarren/), [T. S. Palmer](../members/todd_palmer). Derivative Source Method for Monte Carlo Transport Calculation of Sensitivities to Material Densities and Dimensions. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
 * [E. Lamé](../members/ethan_lame), [C. J. Palmer](../members/camille_palmer), [T. S. Palmer](../members/todd_palmer), [I. Variansyah](../members/ilham_variansyah), [R. G. McClarren](../members/ryan_mcclarren/). Post-processing Results From a Monte Carlo Neutron Transport Code Using Compressed Sensing. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 
-* [J. P. Morgan](../members/joanna_morgan/), [B. Cuneo](../members/braxton_cuneo/), [I. Variansyah](../members/ilham_variansyah), [K. E. Niemeyer](../members/kyle_niemeyer). Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. Preprint DOI [10.48550/arXiv.2501.05440](https://doi.org/10.48550/arXiv.2501.05440).
+* [J. P. Morgan](../members/joanna_morgan/), [B. Cuneo](../members/braxton_cuneo/), [I. Variansyah](../members/ilham_variansyah), [K. E. Niemeyer](../members/kyle_niemeyer). Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 
 * [B. Cuneo](../members/braxton_cuneo/), [J. P. Morgan](../members/joanna_morgan/), [I. Variansyah](../members/ilham_variansyah), [K. E. Niemeyer](../members/kyle_niemeyer). Comparing the Performance of MC/DC's on-GPU Event-based Processing Methods in Multigroup and Continuous-energy Problems. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 
 * [B. Cuneo](../members/braxton_cuneo/) and [I. Variansyah](../members/ilham_variansyah). “An Alternative to Stride-Based RNG for Monte Carlo Transport.” In
 Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (2024). DOI [10.13182/T130-44927](https://doi.org/10.13182/T130-44927)
+
 * [V. Novellino](../previous_members/vincent_novellino) and  [D. Anistratov](../members/dmitriy_anistratov), Analysis of Hybrid MC/Deterministic Methods for Transport Problems  Based on Low-Order Equations Discretized by Finite Volume Scheme. *Transaction of American Nuclear Society*, v. 130, 2024 [Preprint DOI: 10.48550/arXiv:2403.05673](doi.org/10.48550/arXiv.2403.05673)
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [J. Northrop](../members/jordan_northrop) [K. E. Niemeyer](../members/kyle_niemeyer/), and [R. G. McClarren](../members/ryan_mcclarren/). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint DOI [10.48550/arXiv.2305.13555](https://doi.org/10.48550/arXiv.2305.13555).

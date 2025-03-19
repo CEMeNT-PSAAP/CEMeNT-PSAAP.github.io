@@ -1,6 +1,6 @@
 ---
 title: "David Leep"
-excerpt: "Undergraduate, Oregon State University"
+excerpt: "B.S., Oregon State University"
 classes: wide
 header:
     teaser: assets/bio/bio-photo.jpg

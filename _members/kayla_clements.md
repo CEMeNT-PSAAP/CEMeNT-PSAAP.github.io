@@ -1,6 +1,6 @@
 ---
 title: "Kayla Clements"
-excerpt: "PhD, Oregon State University"
+excerpt: "Research Faculty, Oregon State University"
 classes: wide
 
 header:

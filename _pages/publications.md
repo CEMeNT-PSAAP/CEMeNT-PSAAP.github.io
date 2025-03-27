@@ -16,11 +16,11 @@ We make every effort to support open science. All our preprints are available by
 
 # Books
 
-* [R. G. McClarren](../members/ryan_mcclarren/), Machine Learning for Engineers: Using data to solve problems for physical systems,
-Springer, ISBN13: [978-3030703875](https://link.springer.com/book/10.1007/978-3-030-70388-2), 2021.
-
 * [C. T. Kelley](../members/ct_kelley/). Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-61197-726-4](https://epubs.siam.org/doi/book/10.1137/1.9781611977271).
+
+* [R. G. McClarren](../members/ryan_mcclarren/), Machine Learning for Engineers: Using data to solve problems for physical systems,
+Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/10.1007/978-3-030-70388-2).
 
 # Journal Articles
 
@@ -29,7 +29,7 @@ Number 20 in Fundamentals of Algorithms. SIAM, Philadelphia (2022) ISBN [978-1-6
 * [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. **UNDER REVIEW**. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. Preprint DOI [10.48550/arXiv.2411.03389](https://arxiv.org/abs/2411.03389)
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. Accepted *IEEE Computing in Science and Engineering*. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2409.04668](    
-https://doi.org/10.48550/arXiv.2409.04668).
+https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863).
 
 * [S. Pasmann](../members/sam_pasmann), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). Mitigating Spatial Error in the iterative-Quasi-Monte Carlo (iQMC) Method for Neutron Transport Simulations with Linear Discontinuous Source Tilting and Effective Scattering and Fission Rate Tallies. Accepted *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2401.04029](https://arxiv.org/abs/2401.04029) 
 
@@ -157,7 +157,7 @@ Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (202
 
 # Dissertations and Theses
 
-* [Kayla Beth Clements](../members/kayla_clements/). . Ph.D. dissertation. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. December 2024.
+* [Kayla Beth Clements](../members/kayla_clements/). Uncertainty quantification and global sensitivity analysis methods for Monte Carlo radiation transport solvers. Ph.D. dissertation. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. December 2024. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/8910k376w)
 
 * [Benjamin Joseph Whewell](../previous_members/ben_whewell). Hybrid Numerical Methods and Solution Verification for the Neutron Transport Equation. Ph.D. dissertation. Dept. Aerospace and Mechanical Engineering,  University of Notre Dame, South Bend, IN USA. November 2024. [online](https://curate.nd.edu/articles/dataset/Hybrid_Numerical_Methods_and_Solution_Verification_for_the_Neutron_Transport_Equation/27927858?file=51111842)
 

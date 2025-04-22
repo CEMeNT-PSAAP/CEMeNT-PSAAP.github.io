@@ -54,10 +54,10 @@ var store = [{
         "teaser": "/assets/bio/joanna_morgan.jpg"
       },{
         "title": "Joey Farmer",
-        "excerpt":" ","categories": [],
+        "excerpt":"Education     Ph.D. Mechanical Engineering, University of Notre Dame, In progress (2025)   M.S. Mechanical Engineering, Marquette University, 2019   B.S. Mechanical Engineering, Marquette University, 2018   Biography   Joey is a Ph.D. student in Mechanical Engineering at the University of Notre Dame. His research focuses on computational methods for thermal radiation and transport phenomena, including high-performance computing and AI-accelerated Monte Carlo techniques. He previously interned at Los Alamos National Laboratory and worked as a Research Assistant at Marquette University.  ","categories": [],
         "tags": [],
         "url": "/members/joey_farmer/",
-        "teaser": "/assets/bio/bio-photo.jpg"
+        "teaser": "/assets/bio/joey_farmer.jpg"
       },{
         "title": "Johannes Krotz",
         "excerpt":"Education     2024 PhD in Mathematics, Minor in CS, University of Tennessee Knoxville   2024 Master of Science in Statistics, University of Tennessee, Knoxville   2021 Master of Science in Mathematics, Oregon State University   2019 Master of Science in Physics, University of Konstanz   2018 Bachelor of Science in Mathematics, University of Konstanz   2015 Bachelor of Science in Physics, University of Konstanz   Biography  Johannes is a postdoc at Notre Dame specializing in numerical analysis, computational physics, and scientific computing. He applies statistical physics methods to improve computational tools and is exploring advanced machine learning techniques for interdisciplinary collaboration. His research also focuses on integrating data with physical models using statistical and deterministic dynamics, including data assimilation and Bayesian inference.  ","categories": [],

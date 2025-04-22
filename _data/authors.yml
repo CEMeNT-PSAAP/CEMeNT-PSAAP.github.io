@@ -432,14 +432,8 @@ Johannes Krotz:
 Joey Farmer:
   name        : "Joey Farmer"
   bio         : "PhD Student, University of Notre Dame: ME Dept."
-  avatar      : "/assets/bio/bio-photo.jpg"
+  avatar      : "/assets/bio/joey_farmer.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jkrotz@nd.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/johannes-krotz"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: https://orcid.org/0000-0002-6941-8857
+      url: "mailto:jfarmer4@nd.edu"

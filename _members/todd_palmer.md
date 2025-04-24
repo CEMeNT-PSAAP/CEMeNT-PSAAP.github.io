@@ -9,14 +9,17 @@ header:
 author: Todd Palmer
 
 ---
-Professor 
 
-Lead PI, Radiation Transport and Reactor Physics Research Group
+Lead principal investigator, Radiation Transport and Reactor Physics Research Group
 
-# Education
+## Education
+
 * Ph.D. Nuclear Engineering and Scientific Computing, University of Michigan
 * M.S. Nuclear Engineering
 * B.S. Nuclear Engineering, Oregon State University
+
+
+## Bio
 
 At Oregon State since 1995.
 

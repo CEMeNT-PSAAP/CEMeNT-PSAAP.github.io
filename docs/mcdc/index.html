@@ -271,22 +271,26 @@
 
 <p style="text-align: center;"><a href="https://github.com/CEMeNT-PSAAP/MCDC" class="btn btn--primary btn--x-large"><i class="fab fa-fw fa-github"></i> MC/DC on GitHub</a>
 <a href="https://mcdc.readthedocs.io/en/latest/" class="btn btn--primary btn--x-large"><i class="fa fa-book fa-fw"></i> Read the Docs</a>
-<a href="https://doi.org/10.21105/joss.06415" class="btn btn--primary btn--x-large"><i class="fa fa-newspaper"></i> M&amp;C Paper</a></p>
+<a href="https://doi.org/10.21105/joss.06415" class="btn btn--primary btn--x-large"><i class="fa fa-newspaper"></i> JOSS Paper</a></p>
 
 <p>Monte Carlo / Dynamic Code (MC/DC) is the primary deliverable for our center.
 It includes novel transport methods focused for transient neutron transport as well as an acceleration and abstraction software engineering scheme to make MC/DC a platform for rapid methods development in the felid.
 While MC/DC is where we deploy our novel algorithms and rapidly develop numerical methods for transient transport, it is also intended to live beyond the length of the center.
-It includes a full testing library (unit, regression, verification, performance), continuous integration (via GitHub actions and chron jobs), issue tracking, documentation site, and published PR and contribution process.</p>
+It includes a testing library (unit, regression, verification, performance), continuous integration (via GitHub actions and chron jobs), issue tracking, a documentation site, and published PR and contribution processes.</p>
 
 <h1 id="cement-research-implemented-in-mcdc">CEMeNT research implemented in MC/DC</h1>
+
 <ul>
   <li>Fully transient transport</li>
   <li>iQMC hybrid Monte Carlo iterative methods</li>
   <li>Embedded UQ</li>
-  <li>Python acceleration and abstraction techniques for CPUs and GPUs</li>
+  <li>Python acceleration and abstraction techniques for CPUs and GPUs (Nvidia and AMD)</li>
   <li>Asynchronous GPU scheduling</li>
   <li>Automatic transient weight window production</li>
   <li>Hash based random number generation for complete reproducibility</li>
+  <li>Hybrid Woodcock-delta tracking methods</li>
+  <li>Compressed sensing</li>
+  <li>Multi-level Monte Carlo</li>
 </ul>
 
 <h1 id="features">Features</h1>
@@ -315,21 +319,24 @@ It includes a full testing library (unit, regression, verification, performance)
           <li>Free gas, constant XS model for thermal scattering</li>
         </ol>
       </li>
-      <li>Support almost all nuclides</li>
+      <li>Supports almost all nuclides</li>
     </ul>
   </li>
   <li>Geometry
     <ul>
       <li>Surface-tracking</li>
+      <li>Woodcock-delta tracking</li>
       <li>Quadric CSG surface</li>
       <li>Multi-level lattice</li>
-      <li>Time-dependent planar surfaces</li>
+      <li>Fully transient geometrical elements</li>
+      <li>Time dependent release of delayed neutron production drift</li>
     </ul>
   </li>
   <li>Simulation modes
     <ul>
       <li>Fixed-source (time-dependent)</li>
       <li>k-Eigenvalue</li>
+      <li>Iterative quasi-Monte Carlo</li>
     </ul>
   </li>
   <li>Running modes: Python, Numba (CPU and GPU)</li>
@@ -338,7 +345,8 @@ It includes a full testing library (unit, regression, verification, performance)
       <li>MPI</li>
       <li>GPU SIMT on Nvidia and AMD GPUs/APUs (via Harmonize)</li>
       <li>Domain decomposition</li>
-      <li>Reproducibility (via hash-based RNG seeding)</li>
+      <li>Automatic node balancing</li>
+      <li>Reproducibility on all targets (via hash-based RNG seeding)</li>
     </ul>
   </li>
 </ul>

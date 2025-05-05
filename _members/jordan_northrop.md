@@ -1,6 +1,6 @@
 ---
 title: "Jordan Northrop"
-excerpt: "Masters Student; Oregon State University"
+excerpt: "PhD Student; Oregon State University"
 classes: wide
 
 header:
@@ -12,7 +12,8 @@ author: Jordan Northrop
 
 ## Education
 
-* M.S. Nuclear Engineering, Oregon State University, In progress
+* Ph.D. Nuclear Engineering, Oregon State University, In progress
+* M.S. Nuclear Engineering, Oregon State University, 2024
 * B.S. Nuclear Engineering, Oregon State University, 2022
 
 ## Biography

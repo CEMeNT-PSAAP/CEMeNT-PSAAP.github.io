@@ -1,6 +1,6 @@
 ---
 title: "Joey Farmer"
-excerpt: "PhD Student, University of Noter Dame"
+excerpt: "PhD Student, University of Notre Dame"
 classes: wide
 header:
     teaser: assets/bio/joey_farmer.jpg

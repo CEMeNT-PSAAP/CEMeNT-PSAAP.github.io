@@ -1,6 +1,6 @@
 ---
 title: "Mike Bailey"
-excerpt: "Researcher in GPU Reflated Computer Science, Oregon State University"
+excerpt: "Researcher in GPU Related Computer Science, Oregon State University"
 classes: wide
 
 header:

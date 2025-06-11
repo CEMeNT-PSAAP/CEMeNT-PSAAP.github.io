@@ -24,7 +24,7 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 # Journal Articles
 
-* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. **UNDER REVIEW**. Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization. Pre-peer-review Preprint DOI [10.48550/arXiv.2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
+* [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024.. Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization. *Nuclear Science and Engineering* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004) [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
 * [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. **UNDER REVIEW**. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. Preprint DOI [10.48550/arXiv.2411.03389](https://arxiv.org/abs/2411.03389)
 
@@ -156,6 +156,10 @@ Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (202
 * [J. P. Morgan](../members/joanna_morgan/). MC/DC - Toy Neuronics Test Bench. 2022. (0.0.1). Software. DOI [10.5281/zenodo.6366596](https://zenodo.org/doi/10.5281/zenodo.6366596)
 
 # Dissertations and Theses
+
+* [Joanna Piper Morgan](../members/joanna_morgan/).  Algorithms and Software Engineering Schemes for Time-Dependent Radiation Transport on Heterogeneous Compute Architectures. Ph.D. dissertation. School of Mechanical Industrial and Manufacturing Engineering, Oregon State University, Corvallis, OR, USA. June 2025. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/7p88cr417)
+
+* [E. Lamé](../members/ethan_lame). Compressed Sensing. M.S. Thesis. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. May 2025. [online]()
 
 * [Kayla Beth Clements](../members/kayla_clements/). Uncertainty quantification and global sensitivity analysis methods for Monte Carlo radiation transport solvers. Ph.D. dissertation. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. December 2024. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/8910k376w)
 

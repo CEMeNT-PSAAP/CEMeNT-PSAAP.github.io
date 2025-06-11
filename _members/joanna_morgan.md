@@ -1,6 +1,6 @@
 ---
 title: "Joanna Piper Morgan"
-excerpt: "PhD Candidate, Oregon State University"
+excerpt: "PhD, Oregon State University"
 classes: wide
 
 header:
@@ -12,11 +12,13 @@ author: Joanna Morgan
 
 ## Education
 
-* Ph.D. Mechanical Engineering, Oregon State University, 2025, In Progress
+* Ph.D. Mechanical Engineering, Oregon State University, 2025
 * M.S. Mechanical Engineering, Oregon State University, 2022
 * B.S. Mechanical Engineering, Oregon Institute of Technology, 2020
 
 ## Biography
+
+Dr. Morgan received her PhD with support from CEMeNT.
 
 At CEMeNT Joanna works on research to enable Python to run at Exascale on both CPUs and GPUs. She is also in Dr. Niemeyer's lab (NRG) and is currently and has previously had a co/op at Advanced Micro Devices (AMD) where she worked on adding ROCm compute capabilities to MC/DC. She also works in researching novel deterministic dynamic transport methods for GPU applications.
 

@@ -137,6 +137,10 @@ Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (202
 
 # Software, Data, and Collections
 
+* [I. Variansyah](../members/ilham_variansyah/) (2025). "Four-Phase C5G7 Transient Benchmark for Neutron Transport" Center for Exascale Monte Carlo Neutron Transport (CEMeNT). [Computational Benchmark]. DOI [10.5281/zenodo.15719118](https://doi.org/10.5281/zenodo.15719118).
+
+* [I. Variansyah](../members/ilham_variansyah/) (2025). "Time-Dependent Kobayashi Dog-Leg Benchmark for Neutron Transport" Center for Exascale Monte Carlo Neutron Transport (CEMeNT). [Computational Benchmark]. DOI [10.5281/zenodo.15069882](https://doi.org/10.5281/zenodo.15069882).
+
 * [R. G. McClarren](../members/ryan_mcclarren/), & [J. P. Morgan](../members/joanna_morgan/) (2023). "2023 Monte Carlo Computational Summit. 2023 Monte Carlo Computational Summit, South Bend, IN, USA." Center for Exascale Monte Carlo Neutron Transport (CEMeNT). [Presentation Collection]. DOI [10.5281/zenodo.10207764](https://doi.org/10.5281/zenodo.10207764).
 
 * [C. T. Kelley](../members/ct_kelley/). (2022). “Notebook for Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.” [IJulia Notebook]. URL [https://github.com/ctkelley/NotebookSIAMFANL](https://github.com/ctkelley/NotebookSIAMFANL).

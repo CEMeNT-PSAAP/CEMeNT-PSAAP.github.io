@@ -24,6 +24,10 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 # Journal Articles
 
+* [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Single Grid Error Estimation for Neutron Transport Solvers. *Journal of Verification, Validation, and Uncertainty Quantification* **10**(2): 021001. (2025). DOI [10.1115/1.4069426](https://doi.org/10.1115/1.4069426)
+
+* [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Collision-Based Hybrid Method for Two-Dimensional Neutron Transport Problems. *Nuclear Science and Engineering* **200**(3), 502–524. (2025). DOI [10.1080/00295639.2025.2489778](https://doi.org/10.1080/00295639.2025.2489778)
+
 * [V. N. Novellino](../members/vincent_novellino), [D.  Y. Anistratov](../members/dmitriy_anistratov) Multi-Level Hybrid Monte Carlo / Deterministic  Methods for Particle Transport Problems. 2025 (submitted)
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [K. B. Clements](../members/kayla_clements/), [T. S. Palmer](../members/todd_palmer) and [K. E. Niemeyer](../members/kyle_niemeyer). Hybrid Delta Tracking Schemes Using a Track-Length Estimator. 2025.(submitted). [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152)
@@ -65,6 +69,8 @@ https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](http
 
 # Conference Publications
 
+* [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). (2025) "Single Grid Error Estimation in Two-Dimensional Neutron Transport Problems." *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
 * [K. B. Clements](../members/kayla_clements/), [T. S. Palmer](../members/todd_palmer), A. J. Olson, G. Geraci, [I. Variansyah](../members/ilham_variansyah). (2025) Monte Carlo Uncertainty Quantification and Sensitivity Analysis for the C5G7 Benchmark. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 
 * [A. Mote](../members/alex_mote), [T. S. Palmer](../members/todd_palmer), [L. Chen](../members/lizhong_chen). (2025) Improvements in MC/DC Domain Decomposition Functionality. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. 
@@ -88,6 +94,8 @@ https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](http
 * [B. Cuneo](../members/braxton_cuneo/) and [I. Variansyah](../members/ilham_variansyah). “An Alternative to Stride-Based RNG for Monte Carlo Transport.” In Transactions of The American Nuclear Society, volume 130 (1), pp. 423–426 (2024). DOI [10.13182/T130-44927](https://doi.org/10.13182/T130-44927)
 
 * [V. N. Novellino](../previous_members/vincent_novellino) and  [D. Anistratov](../members/dmitriy_anistratov), Analysis of Hybrid MC/Deterministic Methods for Transport Problems  Based on Low-Order Equations Discretized by Finite Volume Scheme. *Transaction of American Nuclear Society*, v. 130, 408-411, 2024 [arXiv:2403.05673](https://doi.org/10.48550/arXiv.2403.05673)
+
+* [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). (2023) "Solution Verification with the Method of Nearby Problems for Neutron Transport Applications." *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2023).* Niagara Falls, Ontario, Canada.
 
 * [I. Variansyah](../members/ilham_variansyah/), [J. P. Morgan](../members/joanna_morgan/), [J. Northrop](../members/jordan_northrop) [K. E. Niemeyer](../members/kyle_niemeyer/), and [R. G. McClarren](../members/ryan_mcclarren/). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada (2023). Preprint DOI [10.48550/arXiv.2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 
@@ -189,6 +197,8 @@ for Thermal Radiation and Neutron Transport, M.S. project report, School of MIME
 
 # Presentations
 
+* [B. Whewell](../previous/ben_whewell/) and [R. G. McClarren](../members/ryan_mcclarren/). "Single Grid Error Estimation in Two-Dimensional Neutron Transport Problems." *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
+
 * [J. P. Morgan](../members/joanna_morgan/) and [K. E. Niemeyer](../members/kyle_niemeyer/). Monte Carlo/Dynamic Code: Performant and Portable High-Performance Computing at Scale via Python and Numba. *Proceedings of the 23rd Python in Science Conference* July 12 2024. Tachoma, WA, USA. DOI [10.25080/cdrf9272](https://doi.org/10.25080/cdrf9272)
 
 * [C. T. Kelley](../members/ct_kelley/). Newton's Method in Three Precisions. *18th Copper Mountain Conference On Iterative Methods*. Copper Mtn., CO, USA. (April 2024).
@@ -241,6 +251,8 @@ AZURV1 Benchmark”, American Nuclear Society Annual Meeting, Anaheim, CA, June 
 * [A. J. Reynolds](../previous/aaron_reynolds) and [T. S. Palmer](../members/todd_palmer/), “Introduction to an MCGIDI Mini-App and Performance Comparisons with XSBench”, Tech. Rep. LLNL-SR-837024. Lawrence Livermore National Laboratory, 2022.
 
 # Poster Presentations
+
+* [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). (2023) "Solution Verification with the Method of Nearby Problems for Neutron Transport Applications." *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2023).* Niagara Falls, Ontario, Canada.
 
 * [J. P. Morgan](../members/joanna_morgan/), T. J. Trahan, T. P. Burke, C. J. Josey, and [K. E. Niemeyer](../members/kyle_niemeyer/). “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering. Niagara Falls, Ontario, Canada (August 2023). DOI [10.5281/zenodo.10511913](https://doi.org/10.5281/zenodo.10511913)
 

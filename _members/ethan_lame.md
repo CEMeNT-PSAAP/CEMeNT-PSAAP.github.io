@@ -1,6 +1,6 @@
 ---
 title: "Ethan Lamé"
-excerpt: "Masters Student, Oregon State University"
+excerpt: "Ph.D. Student, Oregon State University"
 classes: wide
 
 header:
@@ -12,7 +12,8 @@ author: Ethan Lame
 
 ## Education
 
-* M.S. Nuclear Engineering, Oregon State University (In Progress)
+* Ph.D. Nuclear Engineering (In Progress), Oregon State University
+* M.S. Nuclear Engineering, Oregon State University, 2025
 * B.S. Physics, University of Utah, 2022
 
 ## Biography

@@ -24,6 +24,8 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 # Journal Articles
 
+* [J. Farmer](../members/joey_farmer/), A. Murray, [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). Generative Monte Carlo Sampling for Constant-Cost Particle Transport. (Submitted). 2025. [arXiv:2512.13965](https://arxiv.org/abs/2512.13965)
+
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Single Grid Error Estimation for Neutron Transport Solvers. *Journal of Verification, Validation, and Uncertainty Quantification* **10**(2): 021001. (2025). DOI [10.1115/1.4069426](https://doi.org/10.1115/1.4069426)
 
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Collision-Based Hybrid Method for Two-Dimensional Neutron Transport Problems. *Nuclear Science and Engineering* **200**(3), 502–524. (2025). DOI [10.1080/00295639.2025.2489778](https://doi.org/10.1080/00295639.2025.2489778)

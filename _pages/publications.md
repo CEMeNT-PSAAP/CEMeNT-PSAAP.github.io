@@ -24,6 +24,7 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 # Journal Articles
 
+* [A. Mote](../members/alexander_mote) [T.S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2026. Developments in Domain Decomposition for Neutron Transport Problems on High Performance Computing Systems. *Journal of Computational and Theoretical Transport*. doi [10.1080/23324309.2026.2633375](https://doi.org/10.1080/23324309.2026.2633375)
 * [J. Farmer](../members/joey_farmer/), A. Murray, [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). Generative Monte Carlo Sampling for Constant-Cost Particle Transport. (Submitted). 2025. [arXiv:2512.13965](https://arxiv.org/abs/2512.13965)
 
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Single Grid Error Estimation for Neutron Transport Solvers. *Journal of Verification, Validation, and Uncertainty Quantification* **10**(2): 021001. (2025). DOI [10.1115/1.4069426](https://doi.org/10.1115/1.4069426)
@@ -38,7 +39,7 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024.. Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization. *Nuclear Science and Engineering* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004) [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
-* [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. *Nuclear Science and Engineering* **54** (5) pp 381--407. DOI [10.1080/23324309.2025.2540757](https://doi.org/10.1080/23324309.2025.2540757), [arXiv:2411.03389](https://arxiv.org/abs/2411.03389)
+* [A. Mote](../members/alexander_mote) [T. S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2024. Neurons for Neutrons: A Transformer Model for Computation Load Estimation on Domain-Decomposed Neutron Transport Problems. *Journal of Computational and Theoretical Transport* **54** (5) pp 381--407. doi [10.1080/23324309.2025.2540757](https://doi.org/10.1080/23324309.2025.2540757), [arXiv:2411.03389](https://arxiv.org/abs/2411.03389)
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [B. Cuneo](../members/braxton_cuneo), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024. Accepted *IEEE Computing in Science and Engineering*. Performance Portable Monte Carlo Neutron Transport in MCDC via Numba. Preprint DOI [10.48550/arXiv.2409.04668](    
 https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863).

@@ -24,6 +24,8 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 # Journal Articles
 
+* [E. Lamé](../members/ethan_lame), [C. J. Palmer](../members/camille_palmer), [T. S. Palmer](../members/todd_palmer), and [I. Variansyah](../members/ilham_variansyah). (2026). Compressed Sensing for Memory Reduction in Monte Carlo Simulations. *Journal of Computational and Theoretical Transport*. In press. DOI [10.1080/23324309.2026.2628659](https://doi.org/10.1080/23324309.2026.2628659)
+
 * [J. Farmer](../members/joey_farmer/), A. Murray, [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). Generative Monte Carlo Sampling for Constant-Cost Particle Transport. (Submitted). 2025. [arXiv:2512.13965](https://arxiv.org/abs/2512.13965)
 
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Single Grid Error Estimation for Neutron Transport Solvers. *Journal of Verification, Validation, and Uncertainty Quantification* **10**(2): 021001. (2025). DOI [10.1115/1.4069426](https://doi.org/10.1115/1.4069426)
@@ -34,7 +36,7 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [K. B. Clements](../members/kayla_clements/), [T. S. Palmer](../members/todd_palmer) and [K. E. Niemeyer](../members/kyle_niemeyer). Hybrid Delta Tracking Schemes Using a Track-Length Estimator. 2025.(submitted). [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152)
 
-* [J. Northrop](../members/jordan_northrop), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer), and [C. J. Palmer](../members/camille_palmer). Interplay of Variance Reduction and Population Control in Monte Carlo Neutron Transport”, *In Press* Nuclear Science and Engineering. [arXiv:2509.22943](https://doi.org/10.48550/arXiv.2509.22943)
+* [J. Northrop](../members/jordan_northrop), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer), and [C. J. Palmer](../members/camille_palmer). (2025). Interplay of Variance Reduction and Population Control in Monte Carlo Neutron Transport. *Nuclear Science and Engineering*, 1–12. DOI [10.1080/00295639.2025.2567750](https://doi.org/10.1080/00295639.2025.2567750)
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [T. S. Palmer](../members/todd_palmer) and  [K. E. Niemeyer](../members/kyle_niemeyer). 2024.. Impacts of dynamic radiation transport to one-cell inversions on modern GPUs with higher-order discretization. *Nuclear Science and Engineering* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004) [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
@@ -70,6 +72,12 @@ https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](http
 * E. Smith, [I. Variansyah](../members/ilham_variansyah/), and [R. G. McClarren](../members/ryan_mcclarren/). “Variable Dynamic Mode Decomposition for Estimating Time Eigenvalues in Nuclear Systems.” Nuclear Science and Engineering (2022). DOI [10.1080/00295639.2022.2142025](https://doi.org/10.1080/00295639.2022.2142025), [Preprint](https://arxiv.org/abs/2208.10942).
 
 # Conference Publications
+
+* [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). (2026). "Scatter-Limited Hybrid Monte Carlo, Deterministic Transport with Quasi-Monte Carlo Sampling." To appear in *International Conference on the Physics of Reactors (PHYSOR 2026).* Torino, Italy (April 2026). [arXiv:2511.16821](https://doi.org/10.48550/arXiv.2511.16821)
+
+* [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). (2025). "Hybrid Monte Carlo Methods for Kinetic Transport." Presented at *International Conference on Monte Carlo Methods and Applications (MCM2025).* Chicago, IL, USA.
+
+* [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). (2024). "Hybrid Method for Kinetic Transport Equations." Presented at *SIAM New York-New Jersey-Pennsylvania Section Conference*. Rochester, NY, USA.
 
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). (2025) "Single Grid Error Estimation in Two-Dimensional Neutron Transport Problems." *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 

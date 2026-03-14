@@ -26,7 +26,9 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 * [E. Lamé](../members/ethan_lame), [C. J. Palmer](../members/camille_palmer), [T. S. Palmer](../members/todd_palmer), and [I. Variansyah](../members/ilham_variansyah). (2026). Compressed Sensing for Memory Reduction in Monte Carlo Simulations. *Journal of Computational and Theoretical Transport*. In press. DOI [10.1080/23324309.2026.2628659](https://doi.org/10.1080/23324309.2026.2628659)
 
-* [A. Mote](../members/alexander_mote) [T.S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2026. Developments in Domain Decomposition for Neutron Transport Problems on High Performance Computing Systems. *Journal of Computational and Theoretical Transport*. doi [10.1080/23324309.2026.2633375](https://doi.org/10.1080/23324309.2026.2633375)
+* [A. Mote](../members/alexander_mote) [T.S. Palmer](../members/todd_palmer) and [L. Chen](../members/lizhong_chen). 2026. Developments in Domain Decomposition for Neutron Transport Problems on High Performance Computing Systems. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2026.2633375](https://doi.org/10.1080/23324309.2026.2633375)
+
+* [C. Shaw](../members/caleb_shaw/), [D. Y. Anistratov](../members/dmitriy_anistratov/). Hybrid Weight Window Method for Global Time-Dependent Monte Carlo Particle Transport Calculations. *Journal of Computational and Theoretical Transport*. DOI[arXiv:2512.19925v1](https://doi.org/10.48550/arXiv.2512.19925)
 
 * [J. Farmer](../members/joey_farmer/), A. Murray, [J. Krotz](../members/johannes_krotz/), and [R. G. McClarren](../members/ryan_mcclarren/). Generative Monte Carlo Sampling for Constant-Cost Particle Transport. (Submitted). 2025. [arXiv:2512.13965](https://arxiv.org/abs/2512.13965)
 
@@ -34,7 +36,7 @@ Springer, New York (2021) ISBN: [978-3030703875](https://link.springer.com/book/
 
 * [B. Whewell](../previous/ben_whewell/), [R. G. McClarren](../members/ryan_mcclarren/). Collision-Based Hybrid Method for Two-Dimensional Neutron Transport Problems. *Nuclear Science and Engineering* **200**(3), 502–524. (2025). DOI [10.1080/00295639.2025.2489778](https://doi.org/10.1080/00295639.2025.2489778)
 
-* [V. N. Novellino](../members/vincent_novellino), [D.  Y. Anistratov](../members/dmitriy_anistratov) Multi-Level Hybrid Monte Carlo / Deterministic  Methods for Particle Transport Problems. 2025 (submitted)
+* [V. N. Novellino](../members/vincent_novellino/), [D. Y. Anistratov](../members/dmitriy_anistratov/). Multi-Level Hybrid Monte Carlo / Deterministic Methods for Particle Transport Problems. *Journal of Computational and Theoretical Transport*. Under review. [arXiv:2510.09545v1](https://doi.org/10.48550/arXiv.2510.09545)
 
 * [J. P. Morgan](../members/joanna_morgan), [I. Variansyah](../members/ilham_variansyah), [K. B. Clements](../members/kayla_clements/), [T. S. Palmer](../members/todd_palmer) and [K. E. Niemeyer](../members/kyle_niemeyer). Hybrid Delta Tracking Schemes Using a Track-Length Estimator. 2025.(submitted). [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152)
 
@@ -87,7 +89,7 @@ https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](http
 
 * [A. Mote](../members/alex_mote), [T. S. Palmer](../members/todd_palmer), [L. Chen](../members/lizhong_chen). (2025) Improvements in MC/DC Domain Decomposition Functionality. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. 
 
-* [V. N. Novellino](../previous_members/vincent_novellino), [D.  Y. Anistratov](../members/dmitriy_anistratov). (2025) Convergence of Multi-Level Hybrid Monte Carlo Methods for 1-D Particle Transport Problems. *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, Colorado, USA. April 2025, pp. 1861-1870 doi. [10.13182/xyz-47082](https://doi.org/10.13182/xyz-47082) [arXiv:2501.07702](https://doi.org/10.48550/arXiv.2501.07702).
+* [V. N. Novellino](../previous_members/vincent_novellino), [D.  Y. Anistratov](../members/dmitriy_anistratov). (2025) Convergence of Multi-Level Hybrid Monte Carlo Methods for 1-D Particle Transport Problems. *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, Colorado, USA. April 2025, pp. 1861-1870 DOI. [10.13182/xyz-47082](https://doi.org/10.13182/xyz-47082) [arXiv:2501.07702](https://doi.org/10.48550/arXiv.2501.07702).
 
 * [S. Pasmann](../previous/sam_pasmann/), [I. Variansyah](../members/ilham_variansyah), [C. T. Kelley](../members/ct_kelley/) and [R. G. McClarren](../members/ryan_mcclarren/). (2025) A Batch Power Iteration Approach for the Iterative Quasi-Monte Carlo Method Using a Randomized-Halton Sequence. To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA.
 
@@ -186,7 +188,13 @@ https://doi.org/10.48550/arXiv.2409.04668). DOI [10.1109/MCSE.2025.3550863](http
 
 # Dissertations and Theses
 
+* [Vincent Novellino](../members/vincent_novellino/). Multi-Level Hybrid Deterministic/Monte Carlo Methods for Neutral Particle Transport. Ph.D. dissertation. Department of Nuclear Engineering, North Carolina State University, Raleigh, NC, USA. To be submitted in April 2026; defense scheduled May 5, 2026.
+
 * [Joanna Piper Morgan](../members/joanna_morgan/).  Algorithms and Software Engineering Schemes for Time-Dependent Radiation Transport on Heterogeneous Compute Architectures. Ph.D. dissertation. School of Mechanical Industrial and Manufacturing Engineering, Oregon State University, Corvallis, OR, USA. June 2025. [online](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/7p88cr417)
+
+* [Vincent Novellino](../members/vincent_novellino/). Multi-Level Hybrid Monte Carlo Methods in 1-D Slab Geometry. M.N.E. thesis. Department of Nuclear Engineering, North Carolina State University, Raleigh, NC, USA. April 2025.
+
+* [Caleb Shaw](../members/caleb_shaw/). Advanced Monte Carlo Neutronics Methods. M.N.E. thesis. Department of Nuclear Engineering, North Carolina State University, Raleigh, NC, USA. January 2025.
 
 * [E. Lamé](../members/ethan_lame). Compressed Sensing. M.S. Thesis. School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR, USA. May 2025. [online]()
 

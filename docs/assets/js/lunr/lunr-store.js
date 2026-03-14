@@ -36,7 +36,7 @@ var store = [{
         "teaser": "/assets/bio/dmitriy_anistratov.jpg"
       },{
         "title": "Ethan Lamé",
-        "excerpt":"Education      M.S. Nuclear Engineering, Oregon State University (In Progress)   B.S. Physics, University of Utah, 2022   Biography   Ethan Lamé is a nuclear engineering graduate student at Oregon State University, under Dr. Camille Palmer. He is currently investigating compressed sensing techniques to allow for more efficient memory usage during simulations. Prior work includes using Python to model telescope capabilities to distinguish astronomical objects of interest based on color filters &amp; target distance.  ","categories": [],
+        "excerpt":"Education      Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Oregon State University, 2025   B.S. Physics, University of Utah, 2022   Biography   Ethan Lamé is a nuclear engineering graduate student at Oregon State University, under Dr. Camille Palmer. He is currently investigating compressed sensing techniques to allow for more efficient memory usage during simulations. Prior work includes using Python to model telescope capabilities to distinguish astronomical objects of interest based on color filters &amp; target distance.  ","categories": [],
         "tags": [],
         "url": "/members/ethan_lame/",
         "teaser": "/assets/bio/ethan_lame.jpg"
@@ -90,7 +90,7 @@ var store = [{
         "teaser": "/assets/bio/lizhong_chen.jpg"
       },{
         "title": "Melek Derman",
-        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography  Melek is a Ph.D. student and graduate research assistant at Oregon State University, under Dr. Todd Palmer. Melek received her bachelor’s degree in the Department of Physics at Akdeniz University and earned her MS degree at Texas A&amp;M University with a study on the MCNP modeling and simulations of Molten Salt Reactors.  ","categories": [],
+        "excerpt":"Education     Ph.D. Nuclear Engineering (In Progress), Oregon State University   M.S. Nuclear Engineering, Texas A&amp;M University   B.S. Physics, Akdeniz University   Biography  Melek is a Ph.D. student and Graduate Research Assistant in Nuclear Engineering at Oregon State University, working under the supervision of Professor Todd S. Palmer. Her research focuses on Monte Carlo and deterministic particle transport methods, as well as computational techniques for developing scalable algorithms on exascale computing systems.   Melek received her B.S. in Physics with Honors from Akdeniz University (Türkiye) and her M.S. in Nuclear Engineering from Texas A&amp;M University, where her work focused on nuclear safeguards monitoring approaches for molten salt reactors. Her doctoral research involves high-performance computing optimization and multiscale physics simulations, with applications ranging from reactor physics to radiation effects in electronic systems.   Work at CEMeNT      Exascale Monte Carlo electron transport method development   Development and verification of reactor physics and electron transport benchmarks   CAD-based geometry support in MC/DC via GEOUNED integration   Nuclear data processing and scientific software development (e.g., PyEEDL, PyEPICS)   Deterministic Boltzmann Fokker Plank transport solvers and spectral analysis methods   High-performance computing optimization on heterogeneous CPU/GPU systems   Scalable radiation transport software development   📄 Full CV: https://melekderman.github.io/files/MelekDerman_CV_Website.pdf 🌐 Personal Website: https://melekderman.github.io/  ","categories": [],
         "tags": [],
         "url": "/members/melek_derman/",
         "teaser": "/assets/bio/melek_derman.jpg"
@@ -100,12 +100,6 @@ var store = [{
         "tags": [],
         "url": "/members/mike_bailey/",
         "teaser": "/assets/bio/mike_bailey.jpg"
-      },{
-        "title": "Rohan Pankaj",
-        "excerpt":"Education:      Sc.B. Electrical Engineering, Brown University   BA: International and Public Affairs (Security Track), Brown University.   Biography   Rohan is a double major in electrical engineering and international affairs at Brown University. He is passionate about blending engineering and policy to tackle challenges like energy independence and security. On MC/DC, Rohan worked on adding 3D visualizations of environment geometries.   Prior to interning with CEMeNT, Rohan worked on a variety of projects at Oregon State University, IBM, and a tech start-up.   ","categories": [],
-        "tags": [],
-        "url": "/members/rohan_pankaj/",
-        "teaser": "/assets/bio/rohan_pankaj.png"
       },{
         "title": "Ryan McClarren",
         "excerpt":"Education      Ph.D. Nuclear Engineering and Radiological Sciences, University of Michigan, 2007   M.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2004   B.S.E. Nuclear Engineering and Radiological Sciences, University of Michigan, 2003   Biography   Professor McClarren’s research has been published in engineering, physics, mathematics, and statistics journals.   His particular areas of interest are particle transport (neutrons, x-rays, and friends), uncertainty quantification, and high-energy density physics.  ","categories": [],
@@ -166,6 +160,12 @@ var store = [{
         "tags": [],
         "url": "/previous/david_leep/",
         "teaser": "/assets/bio/bio-photo.jpg"
+      },{
+        "title": "Rohan Pankaj",
+        "excerpt":"Education:      Sc.B. Electrical Engineering, Brown University   BA: International and Public Affairs (Security Track), Brown University.   Biography   Rohan is a double major in electrical engineering and international affairs at Brown University. He is passionate about blending engineering and policy to tackle challenges like energy independence and security. On MC/DC, Rohan worked on adding 3D visualizations of environment geometries.   Prior to interning with CEMeNT, Rohan worked on a variety of projects at Oregon State University, IBM, and a tech start-up.   ","categories": [],
+        "tags": [],
+        "url": "/previous/rohan_pankaj/",
+        "teaser": "/assets/bio/rohan_pankaj.png"
       },{
         "title": "Sam Pasmann",
         "excerpt":"Education      Ph.D. Mechanical Engineering, University of Notre Dame, 2024   M.S. Engineering and Entrepreneurship, University of Notre Dame   B.S. Mechanical Engineering, University of Portland   Biography   Dr. Pasmann’s PhD dissertation was done in conjunction with his work with CEMeNT. Tho he has moved onto private industry the open collaboration nature of MC/DC allows him to keep contributing to the methods he implemented there.  ","categories": [],

@@ -1,5 +1,5 @@
 ---
-title: "Ethan Lamé"
+title: "Ethan Lame"
 excerpt: "Ph.D. Student, Oregon State University"
 classes: wide
 
@@ -18,4 +18,4 @@ author: Ethan Lame
 
 ## Biography
 
-Ethan Lamé is a nuclear engineering graduate student at Oregon State University, under Dr. Camille Palmer. He is currently investigating compressed sensing techniques to allow for more efficient memory usage during simulations. Prior work includes using Python to model telescope capabilities to distinguish astronomical objects of interest based on color filters & target distance.
+Ethan Lame is a nuclear engineering graduate student at Oregon State University, under Dr. Camille Palmer. He is currently investigating compressed sensing techniques to allow for more efficient memory usage during simulations. Prior work includes using Python to model telescope capabilities to distinguish astronomical objects of interest based on color filters & target distance.
